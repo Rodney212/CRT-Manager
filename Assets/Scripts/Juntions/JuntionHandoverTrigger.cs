@@ -33,7 +33,7 @@ public class JuntionHandoverTrigger : MonoBehaviour
         Route.Add("Ruby", 2); //testing only
         
 
-        Route.TryGetValue("Ruby", out int tosection);
+        Route.TryGetValue(juntionData.JunctionName, out int tosection);
         juntionData.nextSection.TryGetValue(tosection, out boat.pendingSegment);
         
         if(fromsection != tosection)

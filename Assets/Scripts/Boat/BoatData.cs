@@ -5,7 +5,8 @@ public class BoatData : ScriptableObject
 {
     [Header("Identity")]
     public string boatName;
-    public float boatLength; // e.g., 60ft
+    public float boatLength;
+    public float maxSpeed;
 
     [Header("Economy")]
     public float fuelLevel;

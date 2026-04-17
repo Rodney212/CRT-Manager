@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BoatData
   boatName: The Tiny Mary
   boatLength: 14
+  maxSpeed: 4
   fuelLevel: 0
   cargoTons: 0
   hasCrewOnBoard: 1

@@ -1,0 +1,26 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Boats.uss?fileID=7433441132597879392&amp;guid=5a76c87cfc714cc4cba64ccdc9427bf7&amp;type=3#Boats"/>
+    <ui:VisualElement style="flex-grow: 1; justify-content: center; overflow: hidden; visibility: visible;">
+        <ui:VisualElement name="Container" style="background-color: rgb(56, 56, 56); padding: 15px; border-radius: 10px; width: 30%; align-self: flex-end; justify-content: flex-start; align-content: flex-start; padding-bottom: 0; padding-top: 0; padding-right: 0; padding-left: 0; margin-right: 10px; border-top-right-radius: 5%; border-top-left-radius: 15%; border-bottom-right-radius: 5%; border-bottom-left-radius: 15%; overflow: hidden;">
+            <ui:VisualElement name="title-bar" style="flex-grow: 1; flex-direction: row; min-width: 100%; width: 100%; align-items: center; justify-content: center; height: 7%; background-color: rgb(255, 255, 255); font-size: 14px; max-height: 7%;">
+                <ui:Label text="BOAT INSPECTOR" binding-path="Name" style="-unity-font-style: bold; margin-bottom: 10px; -unity-text-align: upper-center; min-width: 89%; color: rgb(56, 56, 56);"/>
+                <ui:Button name="Close-Button" text="X" data-source="project://database/Assets/InputSystem_Actions.inputactions?fileID=3001919216989983466&amp;guid=052faaac586de48259a63d0c4782560b&amp;type=3#UI/Click" class="Close-button" style="margin-top: 0; background-color: rgb(180, 50, 50); -unity-text-align: upper-center; white-space: pre; text-overflow: clip; opacity: 1; margin-bottom: 0; padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0; margin-right: 0; margin-left: 0; justify-content: space-evenly; align-self: auto; align-content: auto; right: 1px; aspect-ratio: 1; font-size: 20%; -unity-font-style: bold; width: auto; align-items: auto; height: 100%; flex-direction: column; flex-wrap: wrap; transition-property: all, ignored; transition-duration: 0s, 0s; transition-timing-function: ease, ease; transition-delay: 0s, 0s; color: rgb(0, 0, 0);"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Data" style="flex-grow: 1; flex-wrap: wrap;">
+                <ui:VisualElement style="flex-grow: 1; flex-direction: row;">
+                    <ui:TextField label="Name" binding-path="boatName" hide-placeholder-on-focus="false" readonly="false" multiline="false" auto-correction="false" focusable="true" enabled="true" max-length="20" select-all-on-mouse-up="true" select-word-by-double-click="true" style="display: flex; color: rgb(255, 255, 255); -unity-text-generator: standard; background-position-x: center; border-left-width: -7px; flex-direction: column; opacity: 1; width: 50%; flex-shrink: 0; flex-grow: 1;"/>
+                    <ui:Image style="background-image: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=5923138177525885446&amp;guid=3f94856310098a54996feea534047afa&amp;type=3#arrow-left&quot;); height: 100%; aspect-ratio: 1; right: 0;"/>
+                </ui:VisualElement>
+                <ui:FloatField label="Length" binding-path="boatLength" readonly="true"/>
+                <ui:FloatField label="Max Speed" binding-path="maxSpeed" readonly="true"/>
+            </ui:VisualElement>
+            <ui:VisualElement style="height: 2px; background-color: rgb(70, 70, 70); margin: 10px 0;"/>
+            <ui:ProgressBar label="Fuel" binding-path="fuelLevel" low-value="0" high-value="100"/>
+            <ui:IntegerField label="Cargo (Tons)" binding-path="cargoTons" readonly="true"/>
+            <ui:VisualElement style="height: 2px; background-color: rgb(70, 70, 70); margin: 10px 0;"/>
+            <ui:Toggle label="Crew Onboard" binding-path="hasCrewOnBoard" readonly="true"/>
+            <ui:Toggle label="Needs Mooring" binding-path="NeedToMoor"/>
+            <ui:Toggle label="Is Moored" binding-path="IsMoored" readonly="true"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

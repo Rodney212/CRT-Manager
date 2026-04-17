@@ -1,0 +1,12 @@
+:root {
+}
+
+.unity-base-text-field__input {
+    --unity-selection-color: yellow;
+    border-bottom-right-radius: 16px;
+    border-right-width: -10px;
+    -unity-background-scale-mode: stretch-to-fill;
+    background-color: rgb(82, 82, 82);
+    width: auto;
+    flex-wrap: wrap;
+}
