@@ -1,0 +1,272 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 682,
+            "sap_func_loc": "ER-014-004",
+            "sap_description": "Lock 63 - Sandiacre Lock",
+            "sap_object_type": "010",
+            "angle": 78,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98739.686,
+                -108936.766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 696,
+            "sap_func_loc": "ER-014-010",
+            "sap_description": "Lock 62 - Dockholme Lock",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98882.231,
+                -110086.571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 701,
+            "sap_func_loc": "ER-008-001",
+            "sap_description": "Lock 68 - Greens Lock",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97955.931,
+                -99730.963
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 707,
+            "sap_func_loc": "ER-010-007",
+            "sap_description": "Lock 65 - Stanton",
+            "sap_object_type": "010",
+            "angle": 68,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98740.89,
+                -103805.198
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 715,
+            "sap_func_loc": "ER-007-001",
+            "sap_description": "Lock 69 - Potters Lock",
+            "sap_object_type": "010",
+            "angle": 28,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97786.869,
+                -99056.337
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 718,
+            "sap_func_loc": "ER-008-004",
+            "sap_description": "Lock 67 - Gallows Inn Lock",
+            "sap_object_type": "010",
+            "angle": 119,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97750.354,
+                -100918.515
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 722,
+            "sap_func_loc": "ER-019-010",
+            "sap_description": "Lock 60 - Trent Lock",
+            "sap_object_type": "010",
+            "angle": 53,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100076.601,
+                -116557.656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 734,
+            "sap_func_loc": "ER-011-005",
+            "sap_description": "Lock 64 - Pastures Lock",
+            "sap_object_type": "010",
+            "angle": 83,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99048.147,
+                -105392.423
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 735,
+            "sap_func_loc": "ER-016-003",
+            "sap_description": "Lock 61 - Long Eaton",
+            "sap_object_type": "010",
+            "angle": 98,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99739.489,
+                -112577.243
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 737,
+            "sap_func_loc": "ER-005-003",
+            "sap_description": "Lock 70 - Barkers Lock",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96730.23,
+                -96739.261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 738,
+            "sap_func_loc": "ER-010-002",
+            "sap_description": "Lock 66 - Hallam Fields Lock",
+            "sap_object_type": "010",
+            "angle": 76,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98414.278,
+                -102655.979
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 805,
+            "sap_func_loc": "ER-003-002",
+            "sap_description": "Lock 72 - Shipley Lock",
+            "sap_object_type": "010",
+            "angle": 33,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95617.087,
+                -92974.545
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 806,
+            "sap_func_loc": "ER-005-001",
+            "sap_description": "Lock 71 - Stenson's Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96905.568,
+                -96097.722
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 807,
+            "sap_func_loc": "ER-001-001",
+            "sap_description": "Lock 14 - Langley Mill",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94294.996,
+                -89961.514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 808,
+            "sap_func_loc": "ER-002-003",
+            "sap_description": "Lock 73 - Eastwood Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Erewash Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95316.455,
+                -92141.824
+            ]
+        }
+    }
+]

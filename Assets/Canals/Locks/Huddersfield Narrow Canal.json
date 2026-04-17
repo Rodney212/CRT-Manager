@@ -1,0 +1,1370 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 13,
+            "sap_func_loc": "HN-032-012",
+            "sap_description": "Lock 1 West",
+            "sap_object_type": "010",
+            "angle": 218,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9177.583,
+                -3392.353
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 16,
+            "sap_func_loc": "HN-030-017",
+            "sap_description": "Lock 4 West",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12268.285,
+                -4023.046
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 47,
+            "sap_func_loc": "HN-030-008",
+            "sap_description": "Lock 7 West",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13400.29,
+                -3611.841
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 51,
+            "sap_func_loc": "HN-030-016",
+            "sap_description": "Lock 5 West",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12467.842,
+                -3943.846
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 53,
+            "sap_func_loc": "HN-020-003",
+            "sap_description": "Lock 26 West",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18757.791,
+                10163.695
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 67,
+            "sap_func_loc": "HN-028-012",
+            "sap_description": "Lock 8 West",
+            "sap_object_type": "010",
+            "angle": 114,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14648.946,
+                -1572.716
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 76,
+            "sap_func_loc": "HN-025-005",
+            "sap_description": "Lock 14 West",
+            "sap_object_type": "010",
+            "angle": 162,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15086.284,
+                3084.594
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 77,
+            "sap_func_loc": "HN-019-008",
+            "sap_description": "Lock 29 West",
+            "sap_object_type": "010",
+            "angle": 116,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19219.912,
+                10716.188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 94,
+            "sap_func_loc": "HN-024-005",
+            "sap_description": "Lock 17 West",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15755.494,
+                4776.471
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 119,
+            "sap_func_loc": "HN-020-004",
+            "sap_description": "Lock 25 West",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18609.919,
+                10071.049
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 121,
+            "sap_func_loc": "HN-019-003",
+            "sap_description": "Lock 31 West",
+            "sap_object_type": "010",
+            "angle": 114,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19411.516,
+                11521.408
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 170,
+            "sap_func_loc": "HN-020-002",
+            "sap_description": "Lock 27 West",
+            "sap_object_type": "010",
+            "angle": 133,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18961.119,
+                10333.822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 171,
+            "sap_func_loc": "HN-020-005",
+            "sap_description": "Lock 24 West",
+            "sap_object_type": "010",
+            "angle": 157,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18344.427,
+                9948.075
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 172,
+            "sap_func_loc": "HN-021-007",
+            "sap_description": "Lock 22 West",
+            "sap_object_type": "010",
+            "angle": 93,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18230.274,
+                9025.106
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 173,
+            "sap_func_loc": "HN-024-001",
+            "sap_description": "Lock 18 West",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15971.825,
+                5547.552
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 174,
+            "sap_func_loc": "HN-024-006",
+            "sap_description": "Lock 16 West, Gas Works Lock",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15760.647,
+                4491.999
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 175,
+            "sap_func_loc": "HN-026-001",
+            "sap_description": "Lock 13 West, Wharf Cottage",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14932.119,
+                2502.229
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 176,
+            "sap_func_loc": "HN-027-001",
+            "sap_description": "Lock 12 West",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14820.473,
+                910.365
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 177,
+            "sap_func_loc": "HN-027-005",
+            "sap_description": "Lock 11 West",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14473.41,
+                237.191
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 178,
+            "sap_func_loc": "HN-028-001",
+            "sap_description": "Lock 10 West",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14688.578,
+                -391.858
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 179,
+            "sap_func_loc": "HN-028-003",
+            "sap_description": "Lock 9 West",
+            "sap_object_type": "010",
+            "angle": 78,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14739.031,
+                -592.011
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 180,
+            "sap_func_loc": "HN-030-014",
+            "sap_description": "Lock 6 West",
+            "sap_object_type": "010",
+            "angle": 200,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12799.978,
+                -3938.523
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 181,
+            "sap_func_loc": "HN-019-002",
+            "sap_description": "Lock 32 West",
+            "sap_object_type": "010",
+            "angle": 119,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19492.197,
+                11708.402
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 182,
+            "sap_func_loc": "HN-019-007",
+            "sap_description": "Lock 30 West",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19298.9,
+                10931.803
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 183,
+            "sap_func_loc": "HN-020-001",
+            "sap_description": "Lock 28 West",
+            "sap_object_type": "010",
+            "angle": 121,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19095.555,
+                10512.37
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 246,
+            "sap_func_loc": "HN-032-004",
+            "sap_description": "Lock 2 West",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9944.633,
+                -3727.751
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 250,
+            "sap_func_loc": "HN-021-002",
+            "sap_description": "Lock 23 West",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18174.784,
+                9363.618
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 274,
+            "sap_func_loc": "HN-021-012",
+            "sap_description": "Lock 21 West",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18143.045,
+                7959.111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 276,
+            "sap_func_loc": "HN-023-008",
+            "sap_description": "Lock 19 West",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16121.238,
+                5700.804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 278,
+            "sap_func_loc": "HN-022-004",
+            "sap_description": "Lock 20 West",
+            "sap_object_type": "010",
+            "angle": 99,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17934.866,
+                7098.654
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 283,
+            "sap_func_loc": "HN-025-001",
+            "sap_description": "Lock 15 West, Roaches Lock",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15547.603,
+                3985.258
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 292,
+            "sap_func_loc": "HN-032-003",
+            "sap_description": "Lock 3 West",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10159.359,
+                -3727.509
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 375,
+            "sap_func_loc": "HN-005-007",
+            "sap_description": "Lock 13 East, Ramsden Lock",
+            "sap_object_type": "010",
+            "angle": 311,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36321.081,
+                24785.613
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 376,
+            "sap_func_loc": "HN-001-018",
+            "sap_description": "Lock 3 East (See Text)",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42883.07,
+                25804.878
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 386,
+            "sap_func_loc": "HN-002-004",
+            "sap_description": "Lock 4 East",
+            "sap_object_type": "010",
+            "angle": 12,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41772.182,
+                25934.709
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 389,
+            "sap_func_loc": "HN-004-005",
+            "sap_description": "Lock 10 East, Spring Garden Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38585.206,
+                25396.351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 402,
+            "sap_func_loc": "HN-006-006",
+            "sap_description": "Lock 15 East, Golcar Brook Lock",
+            "sap_object_type": "010",
+            "angle": 321,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35602.562,
+                24135.784
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 416,
+            "sap_func_loc": "HN-006-010",
+            "sap_description": "Lock 17 East, Westwood Lock",
+            "sap_object_type": "010",
+            "angle": 333,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35001.898,
+                23441.84
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 429,
+            "sap_func_loc": "HN-005-010",
+            "sap_description": "Lock 14 East, Ramsden Lock",
+            "sap_object_type": "010",
+            "angle": 302,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36202.899,
+                24628.931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 438,
+            "sap_func_loc": "HN-008-008",
+            "sap_description": "Lock 23 East",
+            "sap_object_type": "010",
+            "angle": 338,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32081.205,
+                22218.931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 439,
+            "sap_func_loc": "HN-009-007",
+            "sap_description": "Lock 26 East",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30502.928,
+                21278.385
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 444,
+            "sap_func_loc": "HN-012-012",
+            "sap_description": "Lock 41 East",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27052.339,
+                18651.661
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 537,
+            "sap_func_loc": "HN-001-001",
+            "sap_description": "Lock 1 East, Stanley Dawson Lock",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43872.111,
+                26028.012
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 538,
+            "sap_func_loc": "HN-001-006",
+            "sap_description": "Lock 2 East, Coal Wharf Lock (See Text)",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43170.719,
+                25716.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 539,
+            "sap_func_loc": "HN-002-001",
+            "sap_description": "Disused 2001 Lock 3E (See Text)",
+            "sap_object_type": "038",
+            "angle": 362,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42358.157,
+                25944.828
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 540,
+            "sap_func_loc": "HN-003-003",
+            "sap_description": "Lock 6 East, Mark Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 351,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                40117.844,
+                25596.652
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 541,
+            "sap_func_loc": "HN-003-009",
+            "sap_description": "Lock 8 East, Roller Lock",
+            "sap_object_type": "010",
+            "angle": 342,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39162.686,
+                25393.226
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 542,
+            "sap_func_loc": "HN-004-003",
+            "sap_description": "Lock 9 East, Isis Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38748.456,
+                25370.634
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 543,
+            "sap_func_loc": "HN-004-007",
+            "sap_description": "Lock 11 East, Library Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38438.76,
+                25408.522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 544,
+            "sap_func_loc": "HN-004-010",
+            "sap_description": "Lock 12 East, Rough Holme Lock",
+            "sap_object_type": "010",
+            "angle": 359,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37599.909,
+                25236.694
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 545,
+            "sap_func_loc": "HN-006-008",
+            "sap_description": "Lock 16 East, Westwood Lock",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35344.347,
+                23812.347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 546,
+            "sap_func_loc": "HN-007-005",
+            "sap_description": "Lock 20 East, Spot Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33527.886,
+                22781.596
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 587,
+            "sap_func_loc": "HN-008-003",
+            "sap_description": "Lock 21 East, Waterside Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32958.611,
+                22554.853
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 588,
+            "sap_func_loc": "HN-009-002",
+            "sap_description": "Lock 24 East",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31645.067,
+                22059.369
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 589,
+            "sap_func_loc": "HN-009-005",
+            "sap_description": "Lock 25 East",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31109.294,
+                21658.714
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 590,
+            "sap_func_loc": "HN-010-012",
+            "sap_description": "Lock 30 East",
+            "sap_object_type": "010",
+            "angle": 328,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29293.929,
+                20671.12
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 591,
+            "sap_func_loc": "HN-011-003",
+            "sap_description": "Lock 31 East",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29005.815,
+                20361.146
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 592,
+            "sap_func_loc": "HN-011-009",
+            "sap_description": "Lock 32 East",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28317.002,
+                19802.048
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 593,
+            "sap_func_loc": "HN-011-012",
+            "sap_description": "Lock 33 East",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28151.966,
+                19663.949
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 594,
+            "sap_func_loc": "HN-011-013",
+            "sap_description": "Lock 34 East",
+            "sap_object_type": "010",
+            "angle": 298,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27942.996,
+                19347.142
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 595,
+            "sap_func_loc": "HN-012-001",
+            "sap_description": "Lock 35 East",
+            "sap_object_type": "010",
+            "angle": 296,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27882.298,
+                19225.792
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 596,
+            "sap_func_loc": "HN-012-004",
+            "sap_description": "Lock 36 East",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27808.063,
+                19030.262
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 597,
+            "sap_func_loc": "HN-012-005",
+            "sap_description": "Lock 37 East",
+            "sap_object_type": "010",
+            "angle": 297,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27735.557,
+                18875.204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 598,
+            "sap_func_loc": "HN-012-007",
+            "sap_description": "Lock 38 East",
+            "sap_object_type": "010",
+            "angle": 314,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27663.109,
+                18770.736
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 599,
+            "sap_func_loc": "HN-012-011",
+            "sap_description": "Lock 40 East",
+            "sap_object_type": "010",
+            "angle": 2,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27276.056,
+                18634.567
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 601,
+            "sap_func_loc": "HN-010-003",
+            "sap_description": "Lock 27 East",
+            "sap_object_type": "010",
+            "angle": 331,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30201.437,
+                21079.774
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 602,
+            "sap_func_loc": "HN-010-005",
+            "sap_description": "Lock 28 East",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29938.748,
+                20943.511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 608,
+            "sap_func_loc": "HN-012-009",
+            "sap_description": "Lock 39 East",
+            "sap_object_type": "010",
+            "angle": 328,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                27533.474,
+                18673.076
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 609,
+            "sap_func_loc": "HN-012-015",
+            "sap_description": "Lock 42 East",
+            "sap_object_type": "010",
+            "angle": 351,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                26788.262,
+                18682.277
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 612,
+            "sap_func_loc": "HN-002-007",
+            "sap_description": "Lock 5 East, Paddock Foot Lock",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41443.616,
+                25851.253
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 615,
+            "sap_func_loc": "HN-007-003",
+            "sap_description": "Lock 19 East, Holme Lock",
+            "sap_object_type": "010",
+            "angle": 322,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34112.453,
+                23067.325
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 623,
+            "sap_func_loc": "HN-001-015",
+            "sap_description": "Coal Wharf Lock (Disused former Lock 2E)",
+            "sap_object_type": "038",
+            "angle": 322,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43495.599,
+                25691.63
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 636,
+            "sap_func_loc": "HN-008-006",
+            "sap_description": "Lock 22 East",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32556.211,
+                22462.756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 639,
+            "sap_func_loc": "HN-010-010",
+            "sap_description": "Lock 29 East",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29635.75,
+                20857.895
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 654,
+            "sap_func_loc": "HN-003-006",
+            "sap_description": "Lock 7 East, Fountain Lock",
+            "sap_object_type": "010",
+            "angle": 344,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39398.587,
+                25468.571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 655,
+            "sap_func_loc": "HN-007-001",
+            "sap_description": "Lock 18 East, Can Lock",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Huddersfield Narrow Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34355.069,
+                23195.088
+            ]
+        }
+    }
+]

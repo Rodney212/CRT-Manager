@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 117,
+            "sap_func_loc": "LT-001-001",
+            "sap_description": "Weired Staircase Lock",
+            "sap_object_type": "018",
+            "angle": 185,
+            "waterway_name": "St.Helens Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58917.086,
+                -8176.827
+            ]
+        }
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 709,
+            "sap_func_loc": "RT-045-011",
+            "sap_description": "Lock 13, Newark Town Lock",
+            "sap_object_type": "010",
+            "angle": 306,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                150997.276,
+                -79518.766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 714,
+            "sap_func_loc": "RT-024-012",
+            "sap_description": "Lock 11, Gunthorpe Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                132995.854,
+                -96084.484
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 720,
+            "sap_func_loc": "RT-016-004",
+            "sap_description": "Lock 10, Stoke Lock",
+            "sap_object_type": "010",
+            "angle": 298,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                126575.593,
+                -101103.742
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 769,
+            "sap_func_loc": "RT-032-009",
+            "sap_description": "Lock 12, Hazelford Lock",
+            "sap_object_type": "010",
+            "angle": 345,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140703.012,
+                -86730.883
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 770,
+            "sap_func_loc": "RT-047-007",
+            "sap_description": "Lock 14, Newark Nether Lock",
+            "sap_object_type": "010",
+            "angle": 259,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151975.846,
+                -76927.695
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 771,
+            "sap_func_loc": "RT-054-004",
+            "sap_description": "Lock 15, Cromwell Lock - Top Chamber",
+            "sap_object_type": "010",
+            "angle": 288,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153447.579,
+                -67485.468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 772,
+            "sap_func_loc": "RT-054-007",
+            "sap_description": "Lock 15, Cromwell Lock - Bottom Chamber",
+            "sap_object_type": "010",
+            "angle": 287,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153487.612,
+                -67381.042
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 785,
+            "sap_func_loc": "RT-045-008",
+            "sap_description": "Newark Old Lock / Emergency Dry Dock",
+            "sap_object_type": "038",
+            "angle": 306,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151010.017,
+                -79552.292
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 797,
+            "sap_func_loc": "RT-012-005",
+            "sap_description": "Lock 8, Holme Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "River Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120826.786,
+                -103320.456
+            ]
+        }
+    }
+]

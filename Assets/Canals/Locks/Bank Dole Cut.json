@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 481,
+            "sap_func_loc": "AD-001-002",
+            "sap_description": "Bank Dole Lock (Lock 5)",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "Bank Dole Cut"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105249.555,
+                38703.79
+            ]
+        }
+    }
+]

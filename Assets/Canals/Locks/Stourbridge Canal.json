@@ -1,0 +1,362 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1013,
+            "sap_func_loc": "ST-005-003",
+            "sap_description": "Lock 15, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 129,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                996.761,
+                -190287.787
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1014,
+            "sap_func_loc": "ST-001-002",
+            "sap_description": "Stourton Lock 3",
+            "sap_object_type": "010",
+            "angle": 183,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3572.016,
+                -192214.867
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1079,
+            "sap_func_loc": "ST-006-004",
+            "sap_description": "Lock 7, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2347.12,
+                -189451.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1085,
+            "sap_func_loc": "ST-006-008",
+            "sap_description": "Lock 4, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2635.054,
+                -189186.672
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1154,
+            "sap_func_loc": "ST-005-016",
+            "sap_description": "Lock 10, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 154,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2032.963,
+                -189708.811
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1155,
+            "sap_func_loc": "ST-005-018",
+            "sap_description": "Lock 9, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 154,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2077.171,
+                -189687.357
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1156,
+            "sap_func_loc": "ST-006-002",
+            "sap_description": "Lock 8, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2265.369,
+                -189548.938
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1157,
+            "sap_func_loc": "ST-006-005",
+            "sap_description": "Lock 6, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 142,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2440.356,
+                -189359.61
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1158,
+            "sap_func_loc": "ST-006-006",
+            "sap_description": "Lock 5, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 143,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2543.456,
+                -189280.524
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1159,
+            "sap_func_loc": "ST-006-010",
+            "sap_description": "Lock 3, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2742.993,
+                -189068.138
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1160,
+            "sap_func_loc": "ST-006-012",
+            "sap_description": "Lock 2, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3004.865,
+                -188875.345
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1161,
+            "sap_func_loc": "ST-006-014",
+            "sap_description": "Lock 1, Stourbridge Top Lock",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3183.171,
+                -188692.581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1180,
+            "sap_func_loc": "ST-005-007",
+            "sap_description": "Lock 13, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 137,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1387.967,
+                -190063.467
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1181,
+            "sap_func_loc": "ST-005-014",
+            "sap_description": "Lock 11, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 155,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1911.802,
+                -189768.221
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1428,
+            "sap_func_loc": "ST-001-006",
+            "sap_description": "Stourton Lock 1 (Top Lock)",
+            "sap_object_type": "010",
+            "angle": 129,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3092.381,
+                -192052.55
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1429,
+            "sap_func_loc": "ST-005-001",
+            "sap_description": "Lock 16, Stourbridge Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                861.299,
+                -190539.464
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1430,
+            "sap_func_loc": "ST-001-001",
+            "sap_description": "Stourton Lock 4 (Bottom Lock)",
+            "sap_object_type": "010",
+            "angle": 183,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3662.151,
+                -192208.552
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1437,
+            "sap_func_loc": "ST-005-006",
+            "sap_description": "Lock 14, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 173,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1214.527,
+                -190193.649
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1465,
+            "sap_func_loc": "ST-005-010",
+            "sap_description": "Lock 12, Stourbridge",
+            "sap_object_type": "010",
+            "angle": 156,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1795.542,
+                -189819.407
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1498,
+            "sap_func_loc": "ST-001-005",
+            "sap_description": "Stourton Lock 2",
+            "sap_object_type": "010",
+            "angle": 165,
+            "waterway_name": "Stourbridge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3359.099,
+                -192183.058
+            ]
+        }
+    }
+]

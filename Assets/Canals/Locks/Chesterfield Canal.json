@@ -1,0 +1,848 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 384,
+            "sap_func_loc": "CH-001-001",
+            "sap_description": "Lock 65, West Stockwith Lock",
+            "sap_object_type": "010",
+            "angle": 47,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                150560.183,
+                -11416.215
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 393,
+            "sap_func_loc": "CH-047-004",
+            "sap_description": "Lock 36, Turnerwood Top Lock",
+            "sap_object_type": "010",
+            "angle": 9,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109842.168,
+                -33120.209
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 397,
+            "sap_func_loc": "CH-047-010",
+            "sap_description": "Lock 32, Turnerwood Browns Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109162.18,
+                -32949.935
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 400,
+            "sap_func_loc": "CH-042-006",
+            "sap_description": "Lock 50, Worksop Town Lock",
+            "sap_object_type": "010",
+            "angle": 355,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116687.989,
+                -36673.901
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 405,
+            "sap_func_loc": "CH-047-013",
+            "sap_description": "Lock 34, Double Bottom Lock (Bottom)",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109544.308,
+                -33004.551
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 409,
+            "sap_func_loc": "CH-048-004",
+            "sap_description": "Lock 24, Thorpe Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 23,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108297.403,
+                -32710.621
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 411,
+            "sap_func_loc": "CH-026-003",
+            "sap_description": "Lock 58, Retford West Town Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                135933.762,
+                -33940.658
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 427,
+            "sap_func_loc": "CH-047-003",
+            "sap_description": "Lock 37, Turnerwood Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109994.087,
+                -33135.354
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 431,
+            "sap_func_loc": "CH-043-003",
+            "sap_description": "Lock 49, Worksop Morse Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115641.014,
+                -36218.923
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 442,
+            "sap_func_loc": "CH-047-005",
+            "sap_description": "Lock 35, Turnerwood Quarry Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109692.109,
+                -33088.334
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 445,
+            "sap_func_loc": "CH-048-003",
+            "sap_description": "Lock 25, Thorpe Limehouse Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108420.737,
+                -32742.168
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 446,
+            "sap_func_loc": "CH-048-001",
+            "sap_description": "Lock 29, Milestone Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108834.465,
+                -32812.185
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 447,
+            "sap_func_loc": "CH-047-011",
+            "sap_description": "Lock 31, Brickyard Double Lock (Bottom)",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109039.136,
+                -32893.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 448,
+            "sap_func_loc": "CH-048-005",
+            "sap_description": "Lock 23, Thorpe Middle Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108196.075,
+                -32654.192
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 450,
+            "sap_func_loc": "CH-047-001",
+            "sap_description": "Lock 39, Shireoaks Stone Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110308.315,
+                -33133.942
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 451,
+            "sap_func_loc": "CH-046-010",
+            "sap_description": "Lock 40, Shireoaks One Slide Lock",
+            "sap_object_type": "010",
+            "angle": 4,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110551.953,
+                -33166.909
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 475,
+            "sap_func_loc": "CH-008-004",
+            "sap_description": "Lock 61, Gringley Lock",
+            "sap_object_type": "010",
+            "angle": 328,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140896.805,
+                -16226.316
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 476,
+            "sap_func_loc": "CH-023-003",
+            "sap_description": "Lock 60, Whit Sunday Pie Lock",
+            "sap_object_type": "010",
+            "angle": 336,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                139515.333,
+                -32270.187
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 477,
+            "sap_func_loc": "CH-030-003",
+            "sap_description": "Lock 56, Forest Middle Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 32,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                131275.18,
+                -30435.109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 478,
+            "sap_func_loc": "CH-030-004",
+            "sap_description": "Lock 55, Forest Middle Top Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                130451.707,
+                -30497.263
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 479,
+            "sap_func_loc": "CH-031-002",
+            "sap_description": "Lock 54, Forest Top Lock",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                129670.334,
+                -31141.622
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 495,
+            "sap_func_loc": "CH-036-005",
+            "sap_description": "Lock 53, Osberton Lock",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                124463.122,
+                -35410.091
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 547,
+            "sap_func_loc": "CH-040-001",
+            "sap_description": "Lock 52, Worksop Manton Lock",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119065.204,
+                -37212.658
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 548,
+            "sap_func_loc": "CH-041-005",
+            "sap_description": "Lock 51, Worksop Bracebridge Lock",
+            "sap_object_type": "010",
+            "angle": 16,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118337.529,
+                -36890.358
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 549,
+            "sap_func_loc": "CH-043-008",
+            "sap_description": "Lock 48, Worksop Stret Lock",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114606.759,
+                -35807.774
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 550,
+            "sap_func_loc": "CH-044-003",
+            "sap_description": "Lock 46, Bottom Lock, Haggonsfield",
+            "sap_object_type": "010",
+            "angle": 17,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113569.079,
+                -34971.284
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 551,
+            "sap_func_loc": "CH-044-006",
+            "sap_description": "Lock 45, Doefield Dun Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113015.858,
+                -34840.755
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 552,
+            "sap_func_loc": "CH-045-003",
+            "sap_description": "Lock 43, Shireoaks Middle Lock",
+            "sap_object_type": "010",
+            "angle": 67,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                112042.795,
+                -34026.916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 553,
+            "sap_func_loc": "CH-045-004",
+            "sap_description": "Lock 42, Shireoaks Top Lock",
+            "sap_object_type": "010",
+            "angle": 68,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                111977.732,
+                -33873.713
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 554,
+            "sap_func_loc": "CH-046-009",
+            "sap_description": "Lock 41, Cinderhill Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110727.112,
+                -33195.74
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 604,
+            "sap_func_loc": "CH-046-004",
+            "sap_description": "Lock 41A, Boundary Lock",
+            "sap_object_type": "010",
+            "angle": 30,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110916.809,
+                -33268.301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 606,
+            "sap_func_loc": "CH-045-002",
+            "sap_description": "Lock 44, Shireoaks Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 49,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                112133.232,
+                -34153.614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 607,
+            "sap_func_loc": "CH-002-002",
+            "sap_description": "Lock 64, Misterton Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 345,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                148741.826,
+                -11308.972
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 610,
+            "sap_func_loc": "CH-029-001",
+            "sap_description": "Lock 57, Forest Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 58,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                131897.09,
+                -31030.49
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 611,
+            "sap_func_loc": "CH-002-004",
+            "sap_description": "Lock 63, Misterton Top Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                148498.108,
+                -11352.028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 613,
+            "sap_func_loc": "CH-025-004",
+            "sap_description": "Lock 59, Retford Town Lock",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136762.552,
+                -34403.532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 614,
+            "sap_func_loc": "CH-007-002",
+            "sap_description": "Lock 62, Gringley Shaw Lock",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                142644.773,
+                -15622.055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 618,
+            "sap_func_loc": "CH-048-015",
+            "sap_description": "Lock 20, Thorpe Top Treble Lock (Top)",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108021.715,
+                -32551.706
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 624,
+            "sap_func_loc": "CH-047-002",
+            "sap_description": "Lock 38, Turnerwood Feeder Lock",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110148.079,
+                -33115.344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 634,
+            "sap_func_loc": "CH-043-010",
+            "sap_description": "Lock 47, Worksop Deep Lock",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114375.833,
+                -35697.802
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 637,
+            "sap_func_loc": "CH-047-012",
+            "sap_description": "Lock 30, Brickyard Double Lock (Top)",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108997.545,
+                -32876.024
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 642,
+            "sap_func_loc": "CH-048-013",
+            "sap_description": "Lock 22, Thorpe Top Treble Lock (Bottom)",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108086.52,
+                -32585.943
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 643,
+            "sap_func_loc": "CH-048-012",
+            "sap_description": "Lock 26, Thorpe Low Treble (Top)",
+            "sap_object_type": "010",
+            "angle": 2,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108587.765,
+                -32752.43
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 644,
+            "sap_func_loc": "CH-048-011",
+            "sap_description": "Lock 27, Thorpe Low Treble (Middle)",
+            "sap_object_type": "010",
+            "angle": 2,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108622.842,
+                -32754.502
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 645,
+            "sap_func_loc": "CH-048-010",
+            "sap_description": "Lock 28, Thorpe Low Treble (Bottom)",
+            "sap_object_type": "010",
+            "angle": 2,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108661.242,
+                -32758.287
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 646,
+            "sap_func_loc": "CH-047-014",
+            "sap_description": "Lock 33, Double Bottom Lock (Top)",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109519.488,
+                -32982.488
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 647,
+            "sap_func_loc": "CH-048-014",
+            "sap_description": "Lock 21, Thorpe Top Treble Lock (Middle)",
+            "sap_object_type": "010",
+            "angle": 28,
+            "waterway_name": "Chesterfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108054.953,
+                -32568.834
+            ]
+        }
+    }
+]

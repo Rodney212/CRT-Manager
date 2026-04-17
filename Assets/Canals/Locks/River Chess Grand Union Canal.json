@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1716,
+            "sap_func_loc": "GX-001-001",
+            "sap_description": "Lock 81A, River Chess Lock",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "River Chess (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                189812.112,
+                -342234.486
+            ]
+        }
+    }
+]

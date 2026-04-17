@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1302,
+            "sap_func_loc": "HT-003-002",
+            "sap_description": "Meadow Lock",
+            "sap_object_type": "038",
+            "angle": 180,
+            "waterway_name": "Hatherton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12312.699,
+                -152746.272
+            ]
+        }
+    }
+]

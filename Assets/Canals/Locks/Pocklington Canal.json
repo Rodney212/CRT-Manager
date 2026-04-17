@@ -1,0 +1,164 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 372,
+            "sap_func_loc": "PO-003-001",
+            "sap_description": "Lock 4, Sandhill Lock",
+            "sap_object_type": "018",
+            "angle": 126,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                152372.87,
+                74853.597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 408,
+            "sap_func_loc": "PO-001-001",
+            "sap_description": "Lock 1, Top Lock",
+            "sap_object_type": "010",
+            "angle": 153,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                154261.036,
+                77375.974
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 420,
+            "sap_func_loc": "PO-002-001",
+            "sap_description": "Lock 3, Giles Lock",
+            "sap_object_type": "018",
+            "angle": 135,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153633.453,
+                75951.376
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 522,
+            "sap_func_loc": "PO-003-003",
+            "sap_description": "Lock 5, Coates Lock",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151970.609,
+                74104.711
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 523,
+            "sap_func_loc": "PO-006-001",
+            "sap_description": "Lock 6, Walbut Lock",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                149598.512,
+                72339.529
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 524,
+            "sap_func_loc": "PO-007-002",
+            "sap_description": "Lock 7, Thornton Lock",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                147806.347,
+                72745.944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 525,
+            "sap_func_loc": "PO-010-004",
+            "sap_description": "Lock 8, Gardam Lock",
+            "sap_object_type": "010",
+            "angle": 207,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                142500.025,
+                74406.659
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 526,
+            "sap_func_loc": "PO-015-001",
+            "sap_description": "Lock 9 / Cottingwith Lock",
+            "sap_object_type": "010",
+            "angle": 173,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137568.88,
+                70034.527
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 603,
+            "sap_func_loc": "PO-001-002",
+            "sap_description": "Lock 2, Silburn Lock",
+            "sap_object_type": "018",
+            "angle": 76,
+            "waterway_name": "Pocklington Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                154044.9,
+                76727.373
+            ]
+        }
+    }
+]

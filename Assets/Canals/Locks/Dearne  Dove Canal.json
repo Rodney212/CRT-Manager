@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 378,
+            "sap_func_loc": "DD-001-006",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Dearne & Dove Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96573.091,
+                -3162.551
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 379,
+            "sap_func_loc": "DD-001-005",
+            "sap_description": "Lock 3",
+            "sap_object_type": "038",
+            "angle": 69,
+            "waterway_name": "Dearne & Dove Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96512.511,
+                -3008.928
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 407,
+            "sap_func_loc": "DD-001-008",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Dearne & Dove Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96682.732,
+                -3446.136
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 626,
+            "sap_func_loc": "DD-001-007",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Dearne & Dove Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96628.767,
+                -3302.671
+            ]
+        }
+    }
+]

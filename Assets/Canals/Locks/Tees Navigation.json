@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 529,
+            "sap_func_loc": "TN-001-012",
+            "sap_description": "Barrage Lock",
+            "sap_object_type": "010",
+            "angle": 347,
+            "waterway_name": "Tees Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98419.473,
+                201033.931
+            ]
+        }
+    }
+]

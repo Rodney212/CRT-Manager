@@ -1,0 +1,308 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 657,
+            "sap_func_loc": "GN-003-004",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137254.948,
+                -239103.153
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 665,
+            "sap_func_loc": "GN-002-008",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 297,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137082.437,
+                -239874.737
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 668,
+            "sap_func_loc": "GN-003-009",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137250.552,
+                -238399.136
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 671,
+            "sap_func_loc": "GN-002-002",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136700.633,
+                -240479.897
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 674,
+            "sap_func_loc": "GN-005-004",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137844.453,
+                -235562.057
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 681,
+            "sap_func_loc": "GN-002-010",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 275,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137154.975,
+                -239591.641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 689,
+            "sap_func_loc": "GN-002-005",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136927.348,
+                -240122.322
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 697,
+            "sap_func_loc": "GN-002-001",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136605.421,
+                -240643.433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 702,
+            "sap_func_loc": "GN-002-004",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136814.024,
+                -240298.662
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 713,
+            "sap_func_loc": "GN-004-001",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 244,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                136955.644,
+                -237280.778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 741,
+            "sap_func_loc": "GN-002-006",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137012.327,
+                -239991.29
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 742,
+            "sap_func_loc": "GN-002-009",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 283,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137136.644,
+                -239731.82
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 743,
+            "sap_func_loc": "GN-003-001",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 282,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137180.154,
+                -239428.695
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 744,
+            "sap_func_loc": "GN-003-002",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 282,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137223.465,
+                -239251.314
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 745,
+            "sap_func_loc": "GN-003-006",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                137276.484,
+                -238855.215
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 751,
+            "sap_func_loc": "GN-007-003",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140045.902,
+                -235044.187
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 752,
+            "sap_func_loc": "GN-008-005",
+            "sap_description": "Lock 17",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Northampton Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                141620.905,
+                -234795.158
+            ]
+        }
+    }
+]

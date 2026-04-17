@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 391,
+            "sap_func_loc": "UK-001-007",
+            "sap_description": "Disused Lock - Salterhebble Feeder",
+            "sap_object_type": "038",
+            "angle": 310,
+            "waterway_name": "Hebble Brook Feeder (Halifax Branch)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35395.482,
+                37337.437
+            ]
+        }
+    }
+]

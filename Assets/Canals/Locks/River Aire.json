@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 455,
+            "sap_func_loc": "AI-012-003",
+            "sap_description": "Haddlesey Old Lock (Lock 3)",
+            "sap_object_type": "038",
+            "angle": 45,
+            "waterway_name": "River Aire"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116919.008,
+                41880.316
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 482,
+            "sap_func_loc": "AI-004-001",
+            "sap_description": "Beal Lock (Lock 4)",
+            "sap_object_type": "010",
+            "angle": 350,
+            "waterway_name": "River Aire"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109225.631,
+                41312.281
+            ]
+        }
+    }
+]

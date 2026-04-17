@@ -1,0 +1,272 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 410,
+            "sap_func_loc": "SH-033-004",
+            "sap_description": "Long Sandall Lock",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120243.017,
+                9514.518
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 421,
+            "sap_func_loc": "SH-033-002",
+            "sap_description": "Old Long Sandall Lock bypass Weir",
+            "sap_object_type": "018",
+            "angle": 268,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120205.416,
+                9464.468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 434,
+            "sap_func_loc": "SH-015-006",
+            "sap_description": "Mexborough Top Lock",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99718.245,
+                -2215.131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 436,
+            "sap_func_loc": "SH-001-006",
+            "sap_description": "Jordans Lock",
+            "sap_object_type": "010",
+            "angle": 12,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                86561.887,
+                -14726.607
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 449,
+            "sap_func_loc": "SH-011-002",
+            "sap_description": "Kilnhurst Old Lock Chamber",
+            "sap_object_type": "038",
+            "angle": 290,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96460.327,
+                -7340.954
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 514,
+            "sap_func_loc": "SH-002-001",
+            "sap_description": "Holmes Lock",
+            "sap_object_type": "010",
+            "angle": 355,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                87883.496,
+                -14543.132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 515,
+            "sap_func_loc": "SH-003-004",
+            "sap_description": "Ickles Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89315.796,
+                -14543.929
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 516,
+            "sap_func_loc": "SH-004-005",
+            "sap_description": "Rotherham Lock",
+            "sap_object_type": "010",
+            "angle": 242,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90264.244,
+                -13575.005
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 517,
+            "sap_func_loc": "SH-011-001",
+            "sap_description": "Kilnhurst Flood Lock",
+            "sap_object_type": "010",
+            "angle": 266,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96502.129,
+                -7353.127
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 518,
+            "sap_func_loc": "SH-013-002",
+            "sap_description": "Swinton (Waddington) Lock",
+            "sap_object_type": "010",
+            "angle": 283,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96746.656,
+                -3428.264
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 519,
+            "sap_func_loc": "SH-017-001",
+            "sap_description": "Mexborough Low Lock",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                102995.955,
+                -1493.976
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 531,
+            "sap_func_loc": "SH-023-008",
+            "sap_description": "Sprotbrough Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109475.101,
+                1054.057
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 532,
+            "sap_func_loc": "SH-028-002",
+            "sap_description": "Doncaster Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114747.399,
+                4260.358
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 627,
+            "sap_func_loc": "SH-007-004",
+            "sap_description": "Eastwood (Sir Frank Price) Lock",
+            "sap_object_type": "010",
+            "angle": 354,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                92777.541,
+                -11202.696
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 650,
+            "sap_func_loc": "SH-008-004",
+            "sap_description": "Aldwarke Lock",
+            "sap_object_type": "010",
+            "angle": 347,
+            "waterway_name": "Sheffield & South Yorkshire Navigations"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94644.61,
+                -11023.682
+            ]
+        }
+    }
+]

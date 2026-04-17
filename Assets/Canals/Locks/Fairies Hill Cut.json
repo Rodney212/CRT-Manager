@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 440,
+            "sap_func_loc": "FH-001-006",
+            "sap_description": "Lock 7, Fairies Hill Lock",
+            "sap_object_type": "010",
+            "angle": 347,
+            "waterway_name": "Fairies Hill Cut"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85763.601,
+                40513.615
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 633,
+            "sap_func_loc": "FH-001-002",
+            "sap_description": "Disused Lock 5, Altofts Lock",
+            "sap_object_type": "038",
+            "angle": 40,
+            "waterway_name": "Fairies Hill Cut"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84731.773,
+                40784.32
+            ]
+        }
+    }
+]

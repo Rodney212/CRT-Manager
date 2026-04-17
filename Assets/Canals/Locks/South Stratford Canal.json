@@ -1,0 +1,650 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 981,
+            "sap_func_loc": "SS-018-001",
+            "sap_description": "Lock 48",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47891.882,
+                -238825.205
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1021,
+            "sap_func_loc": "SS-017-006",
+            "sap_description": "Lock 44",
+            "sap_object_type": "010",
+            "angle": 32,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47114.795,
+                -238383.128
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1037,
+            "sap_func_loc": "SS-018-003",
+            "sap_description": "Lock 50, Wilmcote Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 21,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48155.345,
+                -238942.105
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1048,
+            "sap_func_loc": "SS-018-002",
+            "sap_description": "Lock 49",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48021.988,
+                -238882.832
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1065,
+            "sap_func_loc": "SS-012-002",
+            "sap_description": "Lock 39, Odd Lock",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45286.156,
+                -231048.396
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1084,
+            "sap_func_loc": "SS-006-002",
+            "sap_description": "Lock 34, Bucket Lock",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48942.555,
+                -222984.674
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1168,
+            "sap_func_loc": "SS-003-004",
+            "sap_description": "Lock 30, Finwood Road",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49469.173,
+                -220102.814
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1169,
+            "sap_func_loc": "SS-004-006",
+            "sap_description": "Lock 32",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49867.144,
+                -221508.727
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1170,
+            "sap_func_loc": "SS-005-003",
+            "sap_description": "Lock 33",
+            "sap_object_type": "010",
+            "angle": 143,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49213.249,
+                -222617.487
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1171,
+            "sap_func_loc": "SS-006-004",
+            "sap_description": "Lock 35",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48838.622,
+                -223283.743
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1172,
+            "sap_func_loc": "SS-006-008",
+            "sap_description": "Lock 36",
+            "sap_object_type": "010",
+            "angle": 149,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48157.358,
+                -223912.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1173,
+            "sap_func_loc": "SS-007-002",
+            "sap_description": "Lock 37",
+            "sap_object_type": "010",
+            "angle": 146,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47804.174,
+                -224096.472
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1174,
+            "sap_func_loc": "SS-017-001",
+            "sap_description": "Lock 41",
+            "sap_object_type": "010",
+            "angle": 76,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46762.376,
+                -237576.661
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1175,
+            "sap_func_loc": "SS-017-002",
+            "sap_description": "Lock 42",
+            "sap_object_type": "010",
+            "angle": 75,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46825.197,
+                -237790.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1176,
+            "sap_func_loc": "SS-017-003",
+            "sap_description": "Lock 43",
+            "sap_object_type": "010",
+            "angle": 56,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46971.989,
+                -238222.57
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1177,
+            "sap_func_loc": "SS-017-007",
+            "sap_description": "Lock 45",
+            "sap_object_type": "010",
+            "angle": 32,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47202.556,
+                -238442.231
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1178,
+            "sap_func_loc": "SS-021-003",
+            "sap_description": "Lock 54",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51935.772,
+                -241136.546
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1179,
+            "sap_func_loc": "SS-021-008",
+            "sap_description": "Lock 56, River Lock",
+            "sap_object_type": "010",
+            "angle": 61,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52214.8,
+                -241810.335
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1211,
+            "sap_func_loc": "SS-003-001",
+            "sap_description": "Lock 29, Lowsonford",
+            "sap_object_type": "010",
+            "angle": 68,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49500.705,
+                -219096.129
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1240,
+            "sap_func_loc": "SS-001-004",
+            "sap_description": "Lock 22",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49366.064,
+                -215791.169
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1241,
+            "sap_func_loc": "SS-001-006",
+            "sap_description": "Lock 23",
+            "sap_object_type": "010",
+            "angle": 101,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49347.049,
+                -216071.159
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1242,
+            "sap_func_loc": "SS-001-011",
+            "sap_description": "Lock 25, Dicks Lane",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49434.923,
+                -217036.074
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1243,
+            "sap_func_loc": "SS-002-001",
+            "sap_description": "Lock 26",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49466.617,
+                -217296.562
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1244,
+            "sap_func_loc": "SS-002-003",
+            "sap_description": "Lock 27, Lapworth Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49471.415,
+                -217759.985
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1245,
+            "sap_func_loc": "SS-002-005",
+            "sap_description": "Lock 28, Lowsonford",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49566.847,
+                -218443.123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1255,
+            "sap_func_loc": "SS-004-003",
+            "sap_description": "Lock 31, Ned's Lock",
+            "sap_object_type": "010",
+            "angle": 88,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49685.809,
+                -220676.555
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1300,
+            "sap_func_loc": "SS-001-002",
+            "sap_description": "Lock 21",
+            "sap_object_type": "010",
+            "angle": 102,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49371.895,
+                -215542.239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1308,
+            "sap_func_loc": "SS-019-001",
+            "sap_description": "Lock 51",
+            "sap_object_type": "010",
+            "angle": 55,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49261.887,
+                -239703.916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1315,
+            "sap_func_loc": "SS-017-008",
+            "sap_description": "Lock 46",
+            "sap_object_type": "010",
+            "angle": 32,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47288.686,
+                -238501.33
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1338,
+            "sap_func_loc": "SS-020-006",
+            "sap_description": "Lock 52, Birmingham Road Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51205.784,
+                -240807.066
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1433,
+            "sap_func_loc": "SS-021-001",
+            "sap_description": "Lock 53, Maidenhead Road",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51784.875,
+                -240993.887
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1463,
+            "sap_func_loc": "SS-007-004",
+            "sap_description": "Lock 38",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47524.073,
+                -224386.71
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1490,
+            "sap_func_loc": "SS-017-009",
+            "sap_description": "Lock 47",
+            "sap_object_type": "010",
+            "angle": 33,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47405.691,
+                -238581.769
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1496,
+            "sap_func_loc": "SS-016-004",
+            "sap_description": "Lock 40, Wilmcote Top Lock",
+            "sap_object_type": "010",
+            "angle": 76,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46717.271,
+                -237422.961
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1503,
+            "sap_func_loc": "SS-001-009",
+            "sap_description": "Lock 24",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49288.865,
+                -216341.167
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1512,
+            "sap_func_loc": "SS-021-004",
+            "sap_description": "Lock 55, Warwick Road",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "South Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52085.041,
+                -241277.566
+            ]
+        }
+    }
+]

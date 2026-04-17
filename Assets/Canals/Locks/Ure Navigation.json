@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 512,
+            "sap_func_loc": "RU-003-002",
+            "sap_description": "Westwick Lock (Lock 2)",
+            "sap_object_type": "010",
+            "angle": 73,
+            "waterway_name": "Ure Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                79418.384,
+                111586.11
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 513,
+            "sap_func_loc": "RU-009-006",
+            "sap_description": "Milby Lock (Lock 3)",
+            "sap_object_type": "010",
+            "angle": 320,
+            "waterway_name": "Ure Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                87323.305,
+                112606.635
+            ]
+        }
+    }
+]

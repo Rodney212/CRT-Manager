@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1025,
+            "sap_func_loc": "BN-001-001",
+            "sap_description": "Lock 1, Spon Lane Top Lock",
+            "sap_object_type": "010",
+            "angle": 183,
+            "waterway_name": "Spon Lane Locks"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19578.618,
+                -184371.675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1275,
+            "sap_func_loc": "BN-001-005",
+            "sap_description": "Lock 3, Spon Lane Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 188,
+            "waterway_name": "Spon Lane Locks"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18622.448,
+                -184300.977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1299,
+            "sap_func_loc": "BN-001-004",
+            "sap_description": "Lock 2, Spon Lane",
+            "sap_object_type": "010",
+            "angle": 185,
+            "waterway_name": "Spon Lane Locks"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19147.278,
+                -184323.98
+            ]
+        }
+    }
+]

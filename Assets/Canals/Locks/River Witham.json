@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 705,
+            "sap_func_loc": "WI-014-004",
+            "sap_description": "Lock 2, Bardney Lock",
+            "sap_object_type": "010",
+            "angle": 37,
+            "waterway_name": "River Witham"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                202941.483,
+                -53599.917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 760,
+            "sap_func_loc": "WI-001-006",
+            "sap_description": "Lock 1, Stamp End Lock",
+            "sap_object_type": "010",
+            "angle": 16,
+            "waterway_name": "River Witham"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                182796.075,
+                -51417.705
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 761,
+            "sap_func_loc": "WI-048-002",
+            "sap_description": "Lock 3, Antons Gowt Lock",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "River Witham"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                234644.137,
+                -92048.044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 762,
+            "sap_func_loc": "WI-051-009",
+            "sap_description": "Lock 4, Boston Lock",
+            "sap_object_type": "010",
+            "angle": 48,
+            "waterway_name": "River Witham"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238422.34,
+                -97016.719
+            ]
+        }
+    }
+]

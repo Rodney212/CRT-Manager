@@ -1,0 +1,128 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 985,
+            "sap_func_loc": "DJ-001-009",
+            "sap_description": "Lock 5, Staircase Bottom",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4777.754,
+                -228013.382
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1062,
+            "sap_func_loc": "DJ-001-003",
+            "sap_description": "Lock 2, Hanbury Middle",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5799.507,
+                -228392.684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1444,
+            "sap_func_loc": "DJ-002-001",
+            "sap_description": "Lock 6, Body Brook",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4533.188,
+                -228074.321
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1481,
+            "sap_func_loc": "DJ-001-004",
+            "sap_description": "Lock 3, Hanbury Bottom",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5634.707,
+                -228358.613
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1482,
+            "sap_func_loc": "DJ-002-006",
+            "sap_description": "Lock 7, River Lock",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3744.985,
+                -227908.984
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1506,
+            "sap_func_loc": "DJ-001-008",
+            "sap_description": "Lock 4, Staircase Top",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4831.568,
+                -228005.111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1516,
+            "sap_func_loc": "DJ-001-002",
+            "sap_description": "Lock 1, Hanbury Top",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5956.15,
+                -228426.771
+            ]
+        }
+    }
+]

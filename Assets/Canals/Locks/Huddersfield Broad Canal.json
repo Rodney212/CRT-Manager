@@ -1,0 +1,164 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 377,
+            "sap_func_loc": "HB-004-003",
+            "sap_description": "Lock 6, Riddings Lock",
+            "sap_object_type": "010",
+            "angle": 312,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45887.574,
+                30520.65
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 381,
+            "sap_func_loc": "HB-003-007",
+            "sap_description": "Lock 8, Falls Lock",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45230.316,
+                29943.63
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 533,
+            "sap_func_loc": "HB-003-002",
+            "sap_description": "Lock 9, Red Doles Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                44644.873,
+                29668.611
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 534,
+            "sap_func_loc": "HB-004-005",
+            "sap_description": "Lock 5, Turnpike Road Lock",
+            "sap_object_type": "010",
+            "angle": 338,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46255.459,
+                30700.095
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 535,
+            "sap_func_loc": "HB-006-008",
+            "sap_description": "Lock 2, Colne Bridge Lock",
+            "sap_object_type": "010",
+            "angle": 297,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48742.079,
+                32930.803
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 536,
+            "sap_func_loc": "HB-007-001",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 268,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48595.479,
+                33389.147
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 605,
+            "sap_func_loc": "HB-005-003",
+            "sap_description": "Lock 4, Longlands Lock",
+            "sap_object_type": "010",
+            "angle": 317,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47497.069,
+                31153.414
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 629,
+            "sap_func_loc": "HB-004-001",
+            "sap_description": "Lock 7, Fieldhouse",
+            "sap_object_type": "010",
+            "angle": 316,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45470.083,
+                30110.011
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 651,
+            "sap_func_loc": "HB-005-005",
+            "sap_description": "Lock 3, Ladgrave Lock",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Huddersfield Broad Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47789.326,
+                31834.691
+            ]
+        }
+    }
+]

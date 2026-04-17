@@ -1,0 +1,236 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 960,
+            "sap_func_loc": "TV-012-001",
+            "sap_description": "Perry Barr Lock 11",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31421.034,
+                -180383.169
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1066,
+            "sap_func_loc": "TV-013-005",
+            "sap_description": "Perry Barr Lock 12",
+            "sap_object_type": "010",
+            "angle": 53,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33277.353,
+                -182894.501
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1074,
+            "sap_func_loc": "TV-010-010",
+            "sap_description": "Perry Barr Lock 6",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29587.539,
+                -179589.256
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1360,
+            "sap_func_loc": "TV-010-005",
+            "sap_description": "Perry Barr Lock 2",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28812.907,
+                -179622.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1361,
+            "sap_func_loc": "TV-010-007",
+            "sap_description": "Perry Barr Lock 3",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29008.204,
+                -179614.836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1362,
+            "sap_func_loc": "TV-010-008",
+            "sap_description": "Perry Barr Lock 4",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29201.864,
+                -179605.208
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1363,
+            "sap_func_loc": "TV-010-009",
+            "sap_description": "Perry Barr Lock 5",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29397.162,
+                -179597.233
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1364,
+            "sap_func_loc": "TV-010-011",
+            "sap_description": "Perry Barr Lock 7",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29784.482,
+                -179579.647
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1398,
+            "sap_func_loc": "TV-011-003",
+            "sap_description": "Perry Barr Lock 8",
+            "sap_object_type": "010",
+            "angle": 24,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30650.68,
+                -179781.564
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1399,
+            "sap_func_loc": "TV-011-004",
+            "sap_description": "Perry Barr Lock 9",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30901.499,
+                -179956.314
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1400,
+            "sap_func_loc": "TV-014-004",
+            "sap_description": "Perry Barr Lock 13, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33419.813,
+                -183036.181
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1424,
+            "sap_func_loc": "TV-011-006",
+            "sap_description": "Perry Barr Lock 10",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31065.398,
+                -180089.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1485,
+            "sap_func_loc": "TV-010-004",
+            "sap_description": "Perry Barr Lock 1, Top Lock",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Tame Valley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28617.61,
+                -179630.811
+            ]
+        }
+    }
+]

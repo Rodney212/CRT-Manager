@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 649,
+            "sap_func_loc": "NJ-006-003",
+            "sap_description": "Sykehouse Lock",
+            "sap_object_type": "010",
+            "angle": 299,
+            "waterway_name": "New Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                126386.947,
+                25120.052
+            ]
+        }
+    }
+]

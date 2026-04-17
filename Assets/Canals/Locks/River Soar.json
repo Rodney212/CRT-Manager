@@ -1,0 +1,362 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 656,
+            "sap_func_loc": "SO-028-003",
+            "sap_description": "Lock 54 - Bishop Meadow Lock",
+            "sap_object_type": "010",
+            "angle": 244,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106271.493,
+                -132468.146
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 663,
+            "sap_func_loc": "SO-007-001",
+            "sap_description": "Lock 45 - Birstall Lock",
+            "sap_object_type": "010",
+            "angle": 233,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                117486.317,
+                -153781.769
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 667,
+            "sap_func_loc": "SO-031-013",
+            "sap_description": "Lock 55 - Zouch Lock",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                101874.624,
+                -129366.109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 669,
+            "sap_func_loc": "SO-039-010",
+            "sap_description": "Ratcliffe Old Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 248,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100173.392,
+                -119746.451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 684,
+            "sap_func_loc": "SO-004-006",
+            "sap_description": "Lock 44 - Belgrave Lock",
+            "sap_object_type": "010",
+            "angle": 309,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116137.542,
+                -157362.543
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 690,
+            "sap_func_loc": "SO-036-006",
+            "sap_description": "Lock 57 - Kegworth Shallow Flood Lock",
+            "sap_object_type": "010",
+            "angle": 294,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100605.775,
+                -123079.879
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 710,
+            "sap_func_loc": "SO-013-005",
+            "sap_description": "Lock 48 - Cossington Lock",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116934.573,
+                -147028.397
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 723,
+            "sap_func_loc": "SO-036-003",
+            "sap_description": "Lock 56 - Kegworth New Lock",
+            "sap_object_type": "010",
+            "angle": 348,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100203.24,
+                -123827.9
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 763,
+            "sap_func_loc": "SO-040-006",
+            "sap_description": "Lock 59 - Redhill Lock",
+            "sap_object_type": "010",
+            "angle": 249,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100315.171,
+                -117989.195
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 764,
+            "sap_func_loc": "SO-039-001",
+            "sap_description": "Lock 58 - Ratcliffe Lock",
+            "sap_object_type": "010",
+            "angle": 246,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100138.693,
+                -119744.442
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 765,
+            "sap_func_loc": "SO-027-001",
+            "sap_description": "Lock 53 - Loughborough Lock",
+            "sap_object_type": "010",
+            "angle": 256,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106325.69,
+                -134169.693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 766,
+            "sap_func_loc": "SO-017-002",
+            "sap_description": "Lock 50 - Mountsorrel Lock",
+            "sap_object_type": "010",
+            "angle": 200,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114852.34,
+                -143112.187
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 767,
+            "sap_func_loc": "SO-020-001",
+            "sap_description": "Lock 51 - Barrow Deep Lock",
+            "sap_object_type": "010",
+            "angle": 210,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113438.808,
+                -139804.31
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 768,
+            "sap_func_loc": "SO-021-005",
+            "sap_description": "Lock 52 - Pillings Lock",
+            "sap_object_type": "010",
+            "angle": 257,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                112148.234,
+                -138170.41
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 773,
+            "sap_func_loc": "SO-001-009",
+            "sap_description": "Lock 42 - North Lock",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114458.265,
+                -159781.971
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 774,
+            "sap_func_loc": "SO-003-001",
+            "sap_description": "Lock 43 - Limekiln Lock",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115976.77,
+                -158960.697
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 775,
+            "sap_func_loc": "SO-008-002",
+            "sap_description": "Lock 46 - Thurmaston Lock",
+            "sap_object_type": "010",
+            "angle": 265,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119091.152,
+                -152751.916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 776,
+            "sap_func_loc": "SO-012-003",
+            "sap_description": "Lock 47 - Junction Lock",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118346.783,
+                -147688.321
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 777,
+            "sap_func_loc": "SO-015-004",
+            "sap_description": "Lock 49 - Sileby Lock",
+            "sap_object_type": "010",
+            "angle": 210,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116618.928,
+                -143981.276
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 786,
+            "sap_func_loc": "SO-036-004",
+            "sap_description": "Lock 56A Site Of",
+            "sap_object_type": "038",
+            "angle": 348,
+            "waterway_name": "River Soar"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100198.434,
+                -123812.942
+            ]
+        }
+    }
+]

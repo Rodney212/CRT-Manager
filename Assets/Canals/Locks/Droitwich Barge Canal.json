@@ -1,0 +1,164 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 986,
+            "sap_func_loc": "DB-004-003",
+            "sap_description": "Lock 4, Porters Mill",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3572.906,
+                -232608.761
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 996,
+            "sap_func_loc": "DB-004-004",
+            "sap_description": "Lock 5, Ladywood Bottom",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3469.447,
+                -232291.381
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1003,
+            "sap_func_loc": "DB-005-001",
+            "sap_description": "Lock 7, Ladywood Upper-Middle",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2751.332,
+                -231955.942
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1070,
+            "sap_func_loc": "DB-010-004",
+            "sap_description": "Barge Lock",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2902.62,
+                -227599.918
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1188,
+            "sap_func_loc": "DB-001-003",
+            "sap_description": "Lock 2, Hawford Top",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6564.32,
+                -233215.972
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1448,
+            "sap_func_loc": "DB-004-005",
+            "sap_description": "Lock 6, Ladywood Lower-Middle",
+            "sap_object_type": "010",
+            "angle": 165,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3047.544,
+                -232152.903
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1449,
+            "sap_func_loc": "DB-001-001",
+            "sap_description": "Lock 1, Hawford Bottom",
+            "sap_object_type": "010",
+            "angle": 105,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6749.546,
+                -233409.414
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1484,
+            "sap_func_loc": "DB-005-003",
+            "sap_description": "Lock 8, Ladywood Top",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2569.692,
+                -231590.931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1509,
+            "sap_func_loc": "DB-003-002",
+            "sap_description": "Lock 3, Mildenham Mill",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Droitwich Barge Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4949.953,
+                -232266.274
+            ]
+        }
+    }
+]

@@ -19,14 +19,13 @@ public class JunctionManager : MonoBehaviour
     public void Triggered(BoatController boat, int fromsection)
     {
             Debug.Log("Boat at" + myData.JunctionName);
-            boat.juntionData = myData;
             splineControl(fromsection, boat);
 
     }
 
         public void splineControl(int fromsection, BoatController boat) //moved 16/04/26
     {
-        Dictionary<string, int> Route = new Dictionary<string, int>();
+        Dictionary<string, int> Route = new Dictionary<string, int>(); // testing only
         Route.Add("Ruby", 2); //testing only
         
 

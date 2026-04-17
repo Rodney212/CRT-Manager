@@ -1,0 +1,128 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 820,
+            "sap_func_loc": "BT-010-001",
+            "sap_description": "Lock 4, Kings Lock",
+            "sap_object_type": "010",
+            "angle": 317,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91451.164,
+                -441667.507
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 822,
+            "sap_func_loc": "BT-001-004",
+            "sap_description": "Lock 2, Newtown Lock",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -93078.233,
+                -431903.825
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 901,
+            "sap_func_loc": "BT-012-002",
+            "sap_description": "Lock 5 Lower Maunsel",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91013.433,
+                -444212.09
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 939,
+            "sap_func_loc": "BT-001-001",
+            "sap_description": "Lock 1-Barge Lock",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -92651.157,
+                -431720.912
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1722,
+            "sap_func_loc": "BT-012-008",
+            "sap_description": "Lock 6 Higher Lock",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91001.872,
+                -444837.885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1723,
+            "sap_func_loc": "BT-008-003",
+            "sap_description": "Lock 3, Standards Lock",
+            "sap_object_type": "010",
+            "angle": 279,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -89694.045,
+                -441035.307
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1724,
+            "sap_func_loc": "BT-023-002",
+            "sap_description": "Lock 7 Firepool",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Bridgwater & Taunton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -103173.183,
+                -451440.907
+            ]
+        }
+    }
+]

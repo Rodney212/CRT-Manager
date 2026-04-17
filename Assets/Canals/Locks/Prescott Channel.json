@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1699,
+            "sap_func_loc": "PC-001-006",
+            "sap_description": "Lock 2012, Three Mills Lock",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "Prescott Channel"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                241246.602,
+                -361363.764
+            ]
+        }
+    }
+]

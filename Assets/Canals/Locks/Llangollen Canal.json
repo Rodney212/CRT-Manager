@@ -1,0 +1,380 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 60,
+            "sap_func_loc": "LA-004-001",
+            "sap_description": "Lock 2, Swanley Lock",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -44625.121,
+                -80772.357
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 62,
+            "sap_func_loc": "LA-018-002",
+            "sap_description": "Poveys Lock,",
+            "sap_object_type": "010",
+            "angle": 291,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58637.065,
+                -94118.239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 75,
+            "sap_func_loc": "LA-007-003",
+            "sap_description": "Lock 3, Baddiley Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -45979.843,
+                -85178.956
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 91,
+            "sap_func_loc": "LA-007-006",
+            "sap_description": "Lock 2, Baddiley Lock",
+            "sap_object_type": "010",
+            "angle": 291,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -46132.787,
+                -85767.776
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 109,
+            "sap_func_loc": "LA-001-001",
+            "sap_description": "Lock 4, Hurleston Locks",
+            "sap_object_type": "010",
+            "angle": 336,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43320.95,
+                -76298.983
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 185,
+            "sap_func_loc": "LA-001-004",
+            "sap_description": "Lock 2, Hurleston Locks",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43625.699,
+                -76441.357
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 186,
+            "sap_func_loc": "LA-001-005",
+            "sap_description": "Lock 1, Hurleston Locks",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43739.97,
+                -76495.582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 187,
+            "sap_func_loc": "LA-005-001",
+            "sap_description": "Lock 1, Swanley Lock",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -45170.846,
+                -81707.69
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 188,
+            "sap_func_loc": "LA-008-001",
+            "sap_description": "Lock 1, Baddiley Lock",
+            "sap_object_type": "010",
+            "angle": 269,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -46225.374,
+                -86425.961
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 189,
+            "sap_func_loc": "LA-014-002",
+            "sap_description": "Marbury Lock,",
+            "sap_object_type": "010",
+            "angle": 329,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -53742.887,
+                -91156.646
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 190,
+            "sap_func_loc": "LA-016-002",
+            "sap_description": "Quoisley Lock,",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57625.845,
+                -91638.903
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 191,
+            "sap_func_loc": "LA-018-001",
+            "sap_description": "Willeymoor Lock,",
+            "sap_object_type": "010",
+            "angle": 306,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58284.698,
+                -93336.622
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 291,
+            "sap_func_loc": "LA-001-003",
+            "sap_description": "Lock 3, Hurleston Locks",
+            "sap_object_type": "010",
+            "angle": 336,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43509.764,
+                -76387.119
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1022,
+            "sap_func_loc": "LA-020-007",
+            "sap_description": "Lock 4, Grindley Brook Locks",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60024.858,
+                -96851.62
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1051,
+            "sap_func_loc": "LA-020-006",
+            "sap_description": "Lock 5, Grindley Brook Locks",
+            "sap_object_type": "010",
+            "angle": 231,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60164.274,
+                -96670.162
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1068,
+            "sap_func_loc": "LA-020-013",
+            "sap_description": "Lock 1, Grindley Brook Locks Staircase",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60048.64,
+                -97129.432
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1125,
+            "sap_func_loc": "LA-020-005",
+            "sap_description": "Lock 6, Grindley Brook Locks",
+            "sap_object_type": "010",
+            "angle": 270,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60219.073,
+                -96494.511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1126,
+            "sap_func_loc": "LA-020-011",
+            "sap_description": "Lock 3, Grindley Brook Locks Staircase",
+            "sap_object_type": "010",
+            "angle": 292,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60017.864,
+                -97055.994
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1127,
+            "sap_func_loc": "LA-052-002",
+            "sap_description": "Lock 2, New Marton Locks",
+            "sap_object_type": "010",
+            "angle": 76,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91834.495,
+                -111976.698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1469,
+            "sap_func_loc": "LA-053-001",
+            "sap_description": "Lock 1, New Marton Locks",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -92169.41,
+                -110979.244
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1504,
+            "sap_func_loc": "LA-020-012",
+            "sap_description": "Lock 2, Grindley Brook Locks Staircase",
+            "sap_object_type": "010",
+            "angle": 292,
+            "waterway_name": "Llangollen Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60034.081,
+                -97092.721
+            ]
+        }
+    }
+]

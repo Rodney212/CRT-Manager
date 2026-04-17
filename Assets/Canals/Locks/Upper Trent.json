@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 672,
+            "sap_func_loc": "UT-005-009",
+            "sap_description": "Lock No 1 - Sawley",
+            "sap_object_type": "010",
+            "angle": 11,
+            "waterway_name": "Upper Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97904.039,
+                -117154.373
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 679,
+            "sap_func_loc": "UT-004-003",
+            "sap_description": "Lock 1 - Sawley Flood Lock",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Upper Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96781.727,
+                -116916.246
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 717,
+            "sap_func_loc": "UT-005-010",
+            "sap_description": "Lock No 2 - Sawley",
+            "sap_object_type": "010",
+            "angle": 9,
+            "waterway_name": "Upper Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97898.785,
+                -117184.164
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 783,
+            "sap_func_loc": "UT-008-001",
+            "sap_description": "Cranfleet Lock",
+            "sap_object_type": "010",
+            "angle": 345,
+            "waterway_name": "Upper Trent"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                101946.988,
+                -115941.765
+            ]
+        }
+    }
+]

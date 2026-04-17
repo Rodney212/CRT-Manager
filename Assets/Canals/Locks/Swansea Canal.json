@@ -1,0 +1,92 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 897,
+            "sap_func_loc": "SA-003-002",
+            "sap_description": "Lock 2 (Aka Lock 29)",
+            "sap_object_type": "018",
+            "angle": 340,
+            "waterway_name": "Swansea Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -188691.768,
+                -329274.226
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 898,
+            "sap_func_loc": "SA-008-002",
+            "sap_description": "Lock 4 (Aka Locks 13 &25)",
+            "sap_object_type": "018",
+            "angle": 160,
+            "waterway_name": "Swansea Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -184508.273,
+                -324404.447
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 899,
+            "sap_func_loc": "SA-008-003",
+            "sap_description": "Ynysmeudwe Top Lock No.5(Aka No.12 & 24)",
+            "sap_object_type": "018",
+            "angle": 160,
+            "waterway_name": "Swansea Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -184308.006,
+                -324289.508
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 920,
+            "sap_func_loc": "SA-004-002",
+            "sap_description": "Lock 3 (Aka Lock 28)",
+            "sap_object_type": "018",
+            "angle": 340,
+            "waterway_name": "Swansea Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -188584.947,
+                -329103.482
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 929,
+            "sap_func_loc": "SA-001-006",
+            "sap_description": "Lock 1 (Aka Lock 31)",
+            "sap_object_type": "038",
+            "angle": 150,
+            "waterway_name": "Swansea Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -191219.253,
+                -331230.918
+            ]
+        }
+    }
+]

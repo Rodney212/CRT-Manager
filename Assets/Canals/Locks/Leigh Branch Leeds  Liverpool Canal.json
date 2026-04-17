@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 148,
+            "sap_func_loc": "LE-001-004",
+            "sap_description": "Lock 1, Top Lock, Leigh Branch",
+            "sap_object_type": "010",
+            "angle": 137,
+            "waterway_name": "Leigh Branch (Leeds & Liverpool Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51782.218,
+                6012.93
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 149,
+            "sap_func_loc": "LE-001-007",
+            "sap_description": "Lock 2, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 53,
+            "waterway_name": "Leigh Branch (Leeds & Liverpool Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51785.382,
+                5613.91
+            ]
+        }
+    }
+]

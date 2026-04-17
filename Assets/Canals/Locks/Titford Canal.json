@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1011,
+            "sap_func_loc": "TC-001-001",
+            "sap_description": "Oldbury Lock No. 6, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18012.52,
+                -185650.805
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1020,
+            "sap_func_loc": "TC-001-006",
+            "sap_description": "Oldbury Lock No. 2",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18048.669,
+                -186201.494
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1027,
+            "sap_func_loc": "TC-001-003",
+            "sap_description": "Oldbury Lock No. 5",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18027.306,
+                -185853.003
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1365,
+            "sap_func_loc": "TC-001-004",
+            "sap_description": "Oldbury Lock No. 4",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18035.521,
+                -185973.004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1366,
+            "sap_func_loc": "TC-001-005",
+            "sap_description": "Oldbury Lock No. 3",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18042.094,
+                -186081.496
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1478,
+            "sap_func_loc": "TC-001-009",
+            "sap_description": "Oldbury Lock No. 1, Top Lock",
+            "sap_object_type": "010",
+            "angle": 267,
+            "waterway_name": "Titford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18056.885,
+                -186331.353
+            ]
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1548,
+            "sap_func_loc": "LB-001-007",
+            "sap_description": "Lock 1, Limehouse Ship Lock",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Limehouse Basin"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237639.901,
+                -364617.086
+            ]
+        }
+    }
+]

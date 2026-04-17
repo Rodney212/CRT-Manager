@@ -1,0 +1,1658 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1,
+            "sap_func_loc": "RD-046-003",
+            "sap_description": "Lock 68 Tannersfield Lowest",
+            "sap_object_type": "010",
+            "angle": 166,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 11,
+            "sap_func_loc": "RD-023-004",
+            "sap_description": "Lock 37, West Summit",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10016.266,
+                30493.342
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 20,
+            "sap_func_loc": "RD-025-005",
+            "sap_description": "Lock 47",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9135.031,
+                26612.569
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 21,
+            "sap_func_loc": "RD-023-007",
+            "sap_description": "Lock 40, Punchbowl",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9972.048,
+                29404.142
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 23,
+            "sap_func_loc": "RD-049-004",
+            "sap_description": "Lock 80 Coal Pit Lower",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4945.806,
+                -2787.131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 25,
+            "sap_func_loc": "RD-023-006",
+            "sap_description": "Lock39",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9960.004,
+                29620.258
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 27,
+            "sap_func_loc": "RD-051-003",
+            "sap_description": "Lock 85 Piccadilly",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6812.558,
+                -4487.997
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 28,
+            "sap_func_loc": "RD-047-004",
+            "sap_description": "Lock 71 Shears Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2129.885,
+                -565.628
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 48,
+            "sap_func_loc": "RD-021-006",
+            "sap_description": "Lock 34",
+            "sap_object_type": "010",
+            "angle": 252,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9568.37,
+                33049.905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 73,
+            "sap_func_loc": "RD-038-001",
+            "sap_description": "Lock 60 Boarshaw",
+            "sap_object_type": "010",
+            "angle": 54,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -465.761,
+                10605.973
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 78,
+            "sap_func_loc": "RD-046-006",
+            "sap_description": "Lock 69 Newton Heath",
+            "sap_object_type": "010",
+            "angle": 164,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1137.034,
+                -327.511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 79,
+            "sap_func_loc": "RD-048-005",
+            "sap_description": "Lock 77 Anthony",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3934.905,
+                -1953.312
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 85,
+            "sap_func_loc": "RD-046-001",
+            "sap_description": "Lock 67 Tannersfield Middle",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                269.961,
+                101.587
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 90,
+            "sap_func_loc": "RD-037-003",
+            "sap_description": "Lock 55",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -471.218,
+                12812.999
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 92,
+            "sap_func_loc": "RD-045-002",
+            "sap_description": "Lock 66 Tannersfield Highest",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                556.403,
+                336.11
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 93,
+            "sap_func_loc": "RD-035-003",
+            "sap_description": "Lock 53 (Old)",
+            "sap_object_type": "038",
+            "angle": 94,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -771.236,
+                15812.102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 102,
+            "sap_func_loc": "RD-021-008",
+            "sap_description": "Lock 35",
+            "sap_object_type": "010",
+            "angle": 234,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9735.569,
+                32754.497
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 114,
+            "sap_func_loc": "RD-037-006",
+            "sap_description": "Lock 57",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -463.527,
+                12422.108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 192,
+            "sap_func_loc": "RD-024-009",
+            "sap_description": "Lock 45",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9880.964,
+                28077.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 193,
+            "sap_func_loc": "RD-025-003",
+            "sap_description": "Lock 46",
+            "sap_object_type": "010",
+            "angle": 127,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9460.929,
+                27247.642
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 194,
+            "sap_func_loc": "RD-026-002",
+            "sap_description": "Lock 48",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8903.141,
+                26235.883
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 195,
+            "sap_func_loc": "RD-031-003",
+            "sap_description": "Lock 49",
+            "sap_object_type": "010",
+            "angle": 169,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3018.045,
+                19675.003
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 196,
+            "sap_func_loc": "RD-032-001",
+            "sap_description": "Lock 50",
+            "sap_object_type": "010",
+            "angle": 156,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2688.511,
+                19566.393
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 197,
+            "sap_func_loc": "RD-034-002",
+            "sap_description": "Lock 51",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -678.804,
+                16510.213
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 198,
+            "sap_func_loc": "RD-035-001",
+            "sap_description": "Lock 52",
+            "sap_object_type": "010",
+            "angle": 94,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -755.132,
+                16097.018
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 199,
+            "sap_func_loc": "RD-037-001",
+            "sap_description": "Lock 54",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -478.435,
+                13011.813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 200,
+            "sap_func_loc": "RD-037-011",
+            "sap_description": "Lock 59",
+            "sap_object_type": "010",
+            "angle": 109,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -592.844,
+                11700.677
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 201,
+            "sap_func_loc": "RD-038-005",
+            "sap_description": "Lock 61 Scowcroft",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.804,
+                9880.934
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 202,
+            "sap_func_loc": "RD-039-004",
+            "sap_description": "Lock 62 Coney Green",
+            "sap_object_type": "010",
+            "angle": 29,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                170.013,
+                9679.405
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 203,
+            "sap_func_loc": "RD-044-005",
+            "sap_description": "Lock 65 Alfred Street",
+            "sap_object_type": "010",
+            "angle": 93,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1508.227,
+                1765.06
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 204,
+            "sap_func_loc": "RD-047-005",
+            "sap_description": "Lock 72 Scothmans",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2339.302,
+                -695.72
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 205,
+            "sap_func_loc": "RD-048-002",
+            "sap_description": "Lock 75 Slaters Higher",
+            "sap_object_type": "010",
+            "angle": 142,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3089.455,
+                -1284.839
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 206,
+            "sap_func_loc": "RD-049-006",
+            "sap_description": "Lock 81 Butler Street",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5094.642,
+                -2943.982
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 207,
+            "sap_func_loc": "RD-050-004",
+            "sap_description": "Lock 82 Great Ancoats Street",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6318.016,
+                -3877.732
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 208,
+            "sap_func_loc": "RD-051-001",
+            "sap_description": "Lock 84 Dale St",
+            "sap_object_type": "010",
+            "angle": 142,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6690.387,
+                -4403.533
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 209,
+            "sap_func_loc": "RD-051-007",
+            "sap_description": "Lock 86 Chorlton St",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -7140.342,
+                -4783.298
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 210,
+            "sap_func_loc": "RD-052-002",
+            "sap_description": "Lock 89 Tib",
+            "sap_object_type": "010",
+            "angle": 182,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8287.164,
+                -5409.16
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 211,
+            "sap_func_loc": "RD-052-008",
+            "sap_description": "Lock 91 Deansgate",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8829.006,
+                -5379.09
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 212,
+            "sap_func_loc": "RD-052-011",
+            "sap_description": "Lock 92 Castlefield",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9379.15,
+                -5374.302
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 213,
+            "sap_func_loc": "RD-023-005",
+            "sap_description": "Lock 38",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10020.041,
+                30143.789
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 214,
+            "sap_func_loc": "RD-024-002",
+            "sap_description": "Lock 41",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9955.355,
+                29274.111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 215,
+            "sap_func_loc": "RD-024-003",
+            "sap_description": "Lock 42",
+            "sap_object_type": "010",
+            "angle": 98,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9908.428,
+                29071.444
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 216,
+            "sap_func_loc": "RD-024-004",
+            "sap_description": "Lock 43",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9888.514,
+                28816.475
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 217,
+            "sap_func_loc": "RD-024-006",
+            "sap_description": "Lock 44",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9966.308,
+                28549.809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 259,
+            "sap_func_loc": "RD-037-005",
+            "sap_description": "Lock 56",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -465.713,
+                12625.98
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 264,
+            "sap_func_loc": "RD-037-008",
+            "sap_description": "Lock 58",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -484.619,
+                12115.407
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 268,
+            "sap_func_loc": "RD-035-005",
+            "sap_description": "Lock 53 (New)",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -629.682,
+                15016.882
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 271,
+            "sap_func_loc": "RD-047-006",
+            "sap_description": "Lock 73 Ten Acres",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2555.315,
+                -866.205
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 272,
+            "sap_func_loc": "RD-048-003",
+            "sap_description": "Lock 76 Slaters Lower",
+            "sap_object_type": "010",
+            "angle": 144,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3382.445,
+                -1517.783
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 273,
+            "sap_func_loc": "RD-022-001",
+            "sap_description": "Lock 36",
+            "sap_object_type": "010",
+            "angle": 279,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9853.904,
+                32443.836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 284,
+            "sap_func_loc": "RD-039-005",
+            "sap_description": "Lock 63 Walk Mill",
+            "sap_object_type": "010",
+            "angle": 343,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                571.741,
+                9626.457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 293,
+            "sap_func_loc": "RD-049-001",
+            "sap_description": "Lock 78 Coal Pit Higher",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4517.428,
+                -2414.172
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 294,
+            "sap_func_loc": "RD-050-007",
+            "sap_description": "Lock 83 Brownsfield",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6444.979,
+                -4041.241
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 297,
+            "sap_func_loc": "RD-041-001",
+            "sap_description": "Lock 64 Kay Lane",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                249.629,
+                7283.17
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 301,
+            "sap_func_loc": "RD-051-014",
+            "sap_description": "Lock 88 Oxford St",
+            "sap_object_type": "010",
+            "angle": 152,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -7759.437,
+                -5230.862
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 302,
+            "sap_func_loc": "RD-052-004",
+            "sap_description": "Lock 90 Albion Mill",
+            "sap_object_type": "010",
+            "angle": 184,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8592.493,
+                -5386.675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 306,
+            "sap_func_loc": "RD-051-011",
+            "sap_description": "Lock 87 Princess St",
+            "sap_object_type": "010",
+            "angle": 143,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -7416.201,
+                -5053.197
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 342,
+            "sap_func_loc": "RD-047-003",
+            "sap_description": "Lock 70 Pinfold Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1769.375,
+                -455.324
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 365,
+            "sap_func_loc": "RD-048-001",
+            "sap_description": "Lock 74 Drunken Bridge",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2762.947,
+                -1029.94
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 366,
+            "sap_func_loc": "RD-049-003",
+            "sap_description": "Lock 79 Coal Pit Middle",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4781.88,
+                -2625.188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 368,
+            "sap_func_loc": "RD-018-003",
+            "sap_description": "Lock 23",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7053.152,
+                37924.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 369,
+            "sap_func_loc": "RD-020-022",
+            "sap_description": "Lock 33",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8916.698,
+                33929.222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 385,
+            "sap_func_loc": "RD-019-001",
+            "sap_description": "Lock 26",
+            "sap_object_type": "010",
+            "angle": 248,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7365.361,
+                36639.028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 388,
+            "sap_func_loc": "RD-012-003",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 294,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14157.692,
+                43147.03
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 398,
+            "sap_func_loc": "RD-019-004",
+            "sap_description": "Lock 27",
+            "sap_object_type": "010",
+            "angle": 245,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7576.725,
+                36226.993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 406,
+            "sap_func_loc": "RD-017-006",
+            "sap_description": "Lock 20",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7492.446,
+                38488.294
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 424,
+            "sap_func_loc": "RD-018-002",
+            "sap_description": "Lock 22",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7145.741,
+                38027.999
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 425,
+            "sap_func_loc": "RD-001-003",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 23,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29519.165,
+                38652.296
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 426,
+            "sap_func_loc": "RD-014-003",
+            "sap_description": "Lock15",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12057.613,
+                40419.359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 433,
+            "sap_func_loc": "RD-013-003",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 281,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13019.994,
+                41460.087
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 443,
+            "sap_func_loc": "RD-020-004",
+            "sap_description": "Lock 31",
+            "sap_object_type": "010",
+            "angle": 223,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8440.399,
+                34656.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 457,
+            "sap_func_loc": "RD-019-008",
+            "sap_description": "Lock 28",
+            "sap_object_type": "010",
+            "angle": 268,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7998.81,
+                35810.208
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 480,
+            "sap_func_loc": "RD-001-004",
+            "sap_description": "Lock 3/4",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29232.563,
+                38728.74
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 493,
+            "sap_func_loc": "RD-015-001",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11197.45,
+                40283.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 494,
+            "sap_func_loc": "RD-018-005",
+            "sap_description": "Lock 24",
+            "sap_object_type": "010",
+            "angle": 277,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6977.616,
+                37699.831
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 496,
+            "sap_func_loc": "RD-008-003",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 17,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20029.951,
+                43329.511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 497,
+            "sap_func_loc": "RD-010-003",
+            "sap_description": "Lock 9, Blackpit Hebden Bridge",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17454.645,
+                44474.583
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 498,
+            "sap_func_loc": "RD-010-008",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 7,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16629.322,
+                44577.564
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 499,
+            "sap_func_loc": "RD-010-009",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16453.79,
+                44599.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 500,
+            "sap_func_loc": "RD-015-005",
+            "sap_description": "Lock 17",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10207.913,
+                39725.951
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 501,
+            "sap_func_loc": "RD-016-004",
+            "sap_description": "Lock 18",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8401.931,
+                39365.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 502,
+            "sap_func_loc": "RD-017-007",
+            "sap_description": "Lock 21 Shade Lock",
+            "sap_object_type": "010",
+            "angle": 309,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7337.688,
+                38224.365
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 503,
+            "sap_func_loc": "RD-018-010",
+            "sap_description": "Lock 25",
+            "sap_object_type": "010",
+            "angle": 258,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7358.12,
+                36970.264
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 504,
+            "sap_func_loc": "RD-019-010",
+            "sap_description": "Lock 29",
+            "sap_object_type": "010",
+            "angle": 277,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8004.369,
+                35457.051
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 505,
+            "sap_func_loc": "RD-020-002",
+            "sap_description": "Lock 30",
+            "sap_object_type": "010",
+            "angle": 243,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7979.531,
+                35141.039
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 506,
+            "sap_func_loc": "RD-020-006",
+            "sap_description": "Lock 32",
+            "sap_object_type": "010",
+            "angle": 225,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8725.943,
+                34151.977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 520,
+            "sap_func_loc": "RD-017-002",
+            "sap_description": "Lock 19",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8073.189,
+                39256.612
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 527,
+            "sap_func_loc": "RD-001-001",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 354,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29736.709,
+                38645.245
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 528,
+            "sap_func_loc": "RD-005-004",
+            "sap_description": "Lock 5, Edward Kilner",
+            "sap_object_type": "010",
+            "angle": 39,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23971.184,
+                42235.473
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 631,
+            "sap_func_loc": "RD-012-001",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14538.814,
+                43551.516
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 632,
+            "sap_func_loc": "RD-006-001",
+            "sap_description": "Lock 6, Brearley",
+            "sap_object_type": "010",
+            "angle": 27,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23569.817,
+                42584.109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 641,
+            "sap_func_loc": "RD-009-003",
+            "sap_description": "Lock 8, Mayroyd",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Rochdale Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18339.041,
+                44073.801
+            ]
+        }
+    }
+]

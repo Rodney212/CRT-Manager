@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 678,
+            "sap_func_loc": "CM-002-013",
+            "sap_description": "Lock 4, Smiths Lock",
+            "sap_object_type": "038",
+            "angle": 20,
+            "waterway_name": "Cromford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                91899.259,
+                -82413.165
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 700,
+            "sap_func_loc": "CM-002-012",
+            "sap_description": "Lock 3, Pottery Lock",
+            "sap_object_type": "038",
+            "angle": 350,
+            "waterway_name": "Cromford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                91650.005,
+                -82424.21
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 778,
+            "sap_func_loc": "CM-002-011",
+            "sap_description": "Lock 2, Boat Dock Lock",
+            "sap_object_type": "038",
+            "angle": 350,
+            "waterway_name": "Cromford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                91408.68,
+                -82476.961
+            ]
+        }
+    }
+]

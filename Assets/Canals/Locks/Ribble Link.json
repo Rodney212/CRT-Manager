@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 59,
+            "sap_func_loc": "RL-003-003",
+            "sap_description": "Lock No. 7",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -67433.981,
+                49720.156
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 72,
+            "sap_func_loc": "RL-002-002",
+            "sap_description": "Lock No. 5",
+            "sap_object_type": "010",
+            "angle": 170,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65460.612,
+                50442.462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 222,
+            "sap_func_loc": "RL-001-002",
+            "sap_description": "Lock No. 1 Top Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64009.971,
+                50948.801
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 223,
+            "sap_func_loc": "RL-001-003",
+            "sap_description": "Lock No2, Middle Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63965.774,
+                50922.175
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 224,
+            "sap_func_loc": "RL-001-004",
+            "sap_description": "Lock No3, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63924.991,
+                50898.9
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 225,
+            "sap_func_loc": "RL-002-005",
+            "sap_description": "Lock No. 6",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66268.127,
+                50142.56
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 226,
+            "sap_func_loc": "RL-004-006",
+            "sap_description": "Lock No. 8",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68718.502,
+                49198.093
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 280,
+            "sap_func_loc": "RL-001-010",
+            "sap_description": "Lock No. 4",
+            "sap_object_type": "010",
+            "angle": 0,
+            "waterway_name": "Ribble Link"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64231.592,
+                50660.347
+            ]
+        }
+    }
+]

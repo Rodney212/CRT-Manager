@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1673,
+            "sap_func_loc": "TK-001-002",
+            "sap_description": "Lock 1b, City Mill Lock",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "St Thomas Creek"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240697.518,
+                -360484.631
+            ]
+        }
+    }
+]

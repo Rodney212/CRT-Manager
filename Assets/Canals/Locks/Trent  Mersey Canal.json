@@ -1,0 +1,1730 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 18,
+            "sap_func_loc": "TM-043-004",
+            "sap_description": "Lk 54, Thurlwood Lower Lk - Towpath Sid",
+            "sap_object_type": "010",
+            "angle": 234,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -14198.966,
+                -72258.524
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 22,
+            "sap_func_loc": "TM-046-004",
+            "sap_description": "Lock 48, Bottom Lock - Offside [DISUSED]",
+            "sap_object_type": "038",
+            "angle": 203,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11193.6,
+                -74906.901
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 24,
+            "sap_func_loc": "TM-046-006",
+            "sap_description": "Lock 47, Top Lock - Offside [DISUSED]",
+            "sap_object_type": "038",
+            "angle": 204,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11088.7,
+                -74948.168
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 30,
+            "sap_func_loc": "TM-040-003",
+            "sap_description": "Lk 60, Longcroft Lock - Offside",
+            "sap_object_type": "010",
+            "angle": 214,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19551.037,
+                -70185.155
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 32,
+            "sap_func_loc": "TM-045-008",
+            "sap_description": "Lk 50, Lawton Top Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11838.558,
+                -74511.048
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 33,
+            "sap_func_loc": "TM-047-002",
+            "sap_description": "Lock 46, Townfield Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10929.199,
+                -76249.1
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 40,
+            "sap_func_loc": "TM-002-004",
+            "sap_description": "Lock 76",
+            "sap_object_type": "010",
+            "angle": 219,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51998.909,
+                -37291.165
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 42,
+            "sap_func_loc": "TM-039-008",
+            "sap_description": "Weired Lock 62, Pavilion Lk Towpathside",
+            "sap_object_type": "018",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20214.793,
+                -69849.876
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 43,
+            "sap_func_loc": "TM-045-005",
+            "sap_description": "Lk 52, Lawton Bottom Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12158.192,
+                -74408.961
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 45,
+            "sap_func_loc": "TM-039-001",
+            "sap_description": "Lk 64, Saw Pit Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20814.469,
+                -69697.769
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 55,
+            "sap_func_loc": "TM-039-006",
+            "sap_description": "Lk 63, Clear Water Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20513.25,
+                -69716.274
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 64,
+            "sap_func_loc": "TM-030-001",
+            "sap_description": "Lock 70",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -28639.556,
+                -60915.597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 65,
+            "sap_func_loc": "TM-043-005",
+            "sap_description": "Lk 54, Thurlwood Lower Lk - Off Side",
+            "sap_object_type": "010",
+            "angle": 234,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -14189.015,
+                -72251.813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 80,
+            "sap_func_loc": "TM-038-015",
+            "sap_description": "Lk 65, Wheelock Top Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 175,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -21663.422,
+                -69605.35
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 86,
+            "sap_func_loc": "TM-039-009",
+            "sap_description": "Lock 62, Pavilion Lock (Off Side)",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20194.863,
+                -69843.107
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 87,
+            "sap_func_loc": "TM-048-017",
+            "sap_description": "Lock 42, Limekiln Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9263.17,
+                -76826.185
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 95,
+            "sap_func_loc": "TM-039-011",
+            "sap_description": "Lk 61, Cardboard Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 201,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19973.096,
+                -69945.41
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 98,
+            "sap_func_loc": "TM-039-012",
+            "sap_description": "Lk 61, Cardboard Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19968.162,
+                -69933.712
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 100,
+            "sap_func_loc": "TM-032-001",
+            "sap_description": "Lock 69",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -26167.957,
+                -63269.823
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 124,
+            "sap_func_loc": "TM-047-005",
+            "sap_description": "Lock 45, Kents Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10528.264,
+                -76334.245
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 261,
+            "sap_func_loc": "TM-048-020",
+            "sap_description": "Lock 41, Plants Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 202,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8518.817,
+                -77216.787
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 266,
+            "sap_func_loc": "TM-039-002",
+            "sap_description": "Lk 64, Saw Pit Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20812.872,
+                -69684.419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 267,
+            "sap_func_loc": "TM-028-005",
+            "sap_description": "Lock 72",
+            "sap_object_type": "010",
+            "angle": 306,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -29812.486,
+                -58394.67
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 288,
+            "sap_func_loc": "TM-040-004",
+            "sap_description": "Lk 59, Maddocks Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19148.719,
+                -70476.705
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 289,
+            "sap_func_loc": "TM-048-021",
+            "sap_description": "Lock 41, Plants Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 203,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8522.096,
+                -77230.128
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 298,
+            "sap_func_loc": "TM-046-003",
+            "sap_description": "Lock 48, Bottom Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 198,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11188.656,
+                -74895.215
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 307,
+            "sap_func_loc": "TM-028-004",
+            "sap_description": "Lock 73",
+            "sap_object_type": "010",
+            "angle": 230,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -29833.243,
+                -58269.542
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 308,
+            "sap_func_loc": "TM-048-016",
+            "sap_description": "Lock 42, Limekiln Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9258.225,
+                -76814.504
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 309,
+            "sap_func_loc": "TM-048-011",
+            "sap_description": "Lock 43, Red Bull Lock",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9618.171,
+                -76560.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 310,
+            "sap_func_loc": "TM-027-005",
+            "sap_description": "Lock 75, Big Lock",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -30809.107,
+                -57006.256
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 311,
+            "sap_func_loc": "TM-028-003",
+            "sap_description": "Lock 74",
+            "sap_object_type": "010",
+            "angle": 211,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -29952.062,
+                -58183.431
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 312,
+            "sap_func_loc": "TM-028-012",
+            "sap_description": "Lock 71",
+            "sap_object_type": "010",
+            "angle": 252,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -29953.751,
+                -58995.073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 313,
+            "sap_func_loc": "TM-032-003",
+            "sap_description": "Lock 68",
+            "sap_object_type": "010",
+            "angle": 236,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -25901.203,
+                -63628.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 314,
+            "sap_func_loc": "TM-033-003",
+            "sap_description": "Lock 67 Booth Lane Top Lock",
+            "sap_object_type": "010",
+            "angle": 269,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -25947.937,
+                -64792.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 315,
+            "sap_func_loc": "TM-038-011",
+            "sap_description": "Lk 66, Bottom Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 185,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -21853.029,
+                -69616.332
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 316,
+            "sap_func_loc": "TM-038-012",
+            "sap_description": "Lk 66, Bottom Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 185,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -21851.417,
+                -69606.317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 317,
+            "sap_func_loc": "TM-038-014",
+            "sap_description": "Lk 65, Wheelock Top Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 175,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -21660.027,
+                -69618.675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 318,
+            "sap_func_loc": "TM-039-005",
+            "sap_description": "Lk 63, Clear Water Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20514.847,
+                -69729.624
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 319,
+            "sap_func_loc": "TM-040-002",
+            "sap_description": "Lk 60, Longcroft Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 214,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19559.299,
+                -70196.869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 320,
+            "sap_func_loc": "TM-040-005",
+            "sap_description": "Lk 59, Maddocks Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19142.121,
+                -70465.001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 321,
+            "sap_func_loc": "TM-041-001",
+            "sap_description": "Lk 58, Bottom Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -18126.524,
+                -71003.786
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 322,
+            "sap_func_loc": "TM-041-002",
+            "sap_description": "Lk 58, Bottom Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -18126.578,
+                -70992.114
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 323,
+            "sap_func_loc": "TM-041-005",
+            "sap_description": "Lk 57, Top Lock",
+            "sap_object_type": "010",
+            "angle": 199,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -17881.807,
+                -71045.997
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 324,
+            "sap_func_loc": "TM-041-008",
+            "sap_description": "Lk 56, Pierpoints Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -16765.324,
+                -71120.915
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 325,
+            "sap_func_loc": "TM-041-010",
+            "sap_description": "Lk 55, Pierpoints Top Lock",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -16588.822,
+                -71161.806
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 326,
+            "sap_func_loc": "TM-044-002",
+            "sap_description": "Lk 53, Thurlwood Top Lk / Steel Lk",
+            "sap_object_type": "010",
+            "angle": 219,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -13695.069,
+                -72654.878
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 327,
+            "sap_func_loc": "TM-045-004",
+            "sap_description": "Lk 52, Lawton Bottom Lock - Towpath Sid",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12166.467,
+                -74418.994
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 328,
+            "sap_func_loc": "TM-045-006",
+            "sap_description": "Lk 51, Lawton Middle Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12004.947,
+                -74480.029
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 329,
+            "sap_func_loc": "TM-045-007",
+            "sap_description": "Lk 50, Lawton Top Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11841.838,
+                -74522.728
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 330,
+            "sap_func_loc": "TM-045-010",
+            "sap_description": "Lk 49, Halls Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 226,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11678.538,
+                -74615.429
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 331,
+            "sap_func_loc": "TM-045-011",
+            "sap_description": "Lk 49, Halls Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 226,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11670.257,
+                -74607.064
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 332,
+            "sap_func_loc": "TM-046-005",
+            "sap_description": "Lock 47, Top Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11085.425,
+                -74934.822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 333,
+            "sap_func_loc": "TM-047-001",
+            "sap_description": "Lock 46, Townfield Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10925.924,
+                -76235.757
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 334,
+            "sap_func_loc": "TM-047-004",
+            "sap_description": "Lock 45, Kents Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10524.989,
+                -76320.902
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 335,
+            "sap_func_loc": "TM-047-007",
+            "sap_description": "Lock 44, Yewtree Lock - Towpath Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10082.463,
+                -76417.579
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 336,
+            "sap_func_loc": "TM-047-008",
+            "sap_description": "Lock 44, Yewtree Lock - Off Side",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10087.407,
+                -76429.261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 686,
+            "sap_func_loc": "TM-152-006",
+            "sap_description": "Lock 1, Derwent Mouth Lock",
+            "sap_object_type": "010",
+            "angle": 345,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94212.083,
+                -117387.401
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 719,
+            "sap_func_loc": "TM-137-004",
+            "sap_description": "Lock 6, Stenson Lock",
+            "sap_object_type": "010",
+            "angle": 28,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72752.079,
+                -118348.402
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 779,
+            "sap_func_loc": "TM-142-002",
+            "sap_description": "Lock 5, Swarkestone Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80325.177,
+                -119728.902
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 780,
+            "sap_func_loc": "TM-146-003",
+            "sap_description": "Lock 4, Weston Lock",
+            "sap_object_type": "010",
+            "angle": 331,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                86403.381,
+                -122041.446
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 781,
+            "sap_func_loc": "TM-149-001",
+            "sap_description": "Lock 3, Aston Lock",
+            "sap_object_type": "010",
+            "angle": 297,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89110.478,
+                -119799.351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 782,
+            "sap_func_loc": "TM-151-002",
+            "sap_description": "Lock 2, Shardlow Lock",
+            "sap_object_type": "010",
+            "angle": 322,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                91855.178,
+                -118138.132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 982,
+            "sap_func_loc": "TM-058-005",
+            "sap_description": "Lock 39 Johnson's Lock",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2350.746,
+                -90171.525
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 991,
+            "sap_func_loc": "TM-071-008",
+            "sap_description": "Lock 31, Meaford Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                699.125,
+                -109523.64
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 999,
+            "sap_func_loc": "TM-119-003",
+            "sap_description": "Lock 10, Barton Lock",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52168.05,
+                -137643.094
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1075,
+            "sap_func_loc": "TM-113-004",
+            "sap_description": "Lock 13, Bagnall Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46171.425,
+                -143107.354
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1091,
+            "sap_func_loc": "TM-071-004",
+            "sap_description": "Lock 33, Meaford Road Lock",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                906.43,
+                -108962.233
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1348,
+            "sap_func_loc": "TM-085-002",
+            "sap_description": "Lock 24, Weston Lock",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15338.751,
+                -124510.793
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1349,
+            "sap_func_loc": "TM-088-003",
+            "sap_description": "Lock 23, Hoo Mill Lock",
+            "sap_object_type": "010",
+            "angle": 97,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18561.102,
+                -127826.954
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1350,
+            "sap_func_loc": "TM-092-001",
+            "sap_description": "Lock 21, Colwich Lock",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20406.881,
+                -132829.035
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1351,
+            "sap_func_loc": "TM-110-004",
+            "sap_description": "Lock 19, Shadehouse Lock",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41507.658,
+                -144930.421
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1352,
+            "sap_func_loc": "TM-111-003",
+            "sap_description": "Lock 17, Junction Lock",
+            "sap_object_type": "010",
+            "angle": 331,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42153.157,
+                -144553.886
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1353,
+            "sap_func_loc": "TM-111-014",
+            "sap_description": "Lock 16, Keepers Lock",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42696.267,
+                -144264.658
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1354,
+            "sap_func_loc": "TM-111-016",
+            "sap_description": "Lock 15, Hunts Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42894.458,
+                -144129.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1355,
+            "sap_func_loc": "TM-114-005",
+            "sap_description": "Lock 12, Alrewas Lock",
+            "sap_object_type": "010",
+            "angle": 294,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47188.318,
+                -142229.977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1356,
+            "sap_func_loc": "TM-116-007",
+            "sap_description": "Lock 11, Wychnor Lock",
+            "sap_object_type": "010",
+            "angle": 321,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49471.117,
+                -141087.905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1357,
+            "sap_func_loc": "TM-121-005",
+            "sap_description": "Lock 9, Tattenhill Lock",
+            "sap_object_type": "010",
+            "angle": 289,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53962.435,
+                -133927.351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1358,
+            "sap_func_loc": "TM-123-001",
+            "sap_description": "Lock 8, Branston Lock",
+            "sap_object_type": "010",
+            "angle": 298,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                55288.383,
+                -131571.952
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1359,
+            "sap_func_loc": "TM-126-001",
+            "sap_description": "Lock 7, Dallow Lock",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58477.902,
+                -127854.222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1367,
+            "sap_func_loc": "TM-058-003",
+            "sap_description": "Lock 40 Summit Lock",
+            "sap_object_type": "010",
+            "angle": 54,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2452.344,
+                -90033.729
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1368,
+            "sap_func_loc": "TM-059-001",
+            "sap_description": "Lock 37 Cockshute's Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1916.081,
+                -91394.592
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1369,
+            "sap_func_loc": "TM-059-004",
+            "sap_description": "Lock 36 Stoke Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 51,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1576.581,
+                -91792.87
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1370,
+            "sap_func_loc": "TM-071-007",
+            "sap_description": "Lock 32, Meaford House Lock",
+            "sap_object_type": "010",
+            "angle": 111,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                753.388,
+                -109364.201
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1371,
+            "sap_func_loc": "TM-073-001",
+            "sap_description": "Lock 30, Lime Kiln Lock",
+            "sap_object_type": "010",
+            "angle": 30,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1730.184,
+                -110921.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1372,
+            "sap_func_loc": "TM-073-004",
+            "sap_description": "Lock 29, Newcastle Road Lock",
+            "sap_object_type": "010",
+            "angle": 91,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2081.803,
+                -111264.498
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1373,
+            "sap_func_loc": "TM-073-009",
+            "sap_description": "Lock 28, Yard Lock",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2495.116,
+                -111842.641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1374,
+            "sap_func_loc": "TM-073-014",
+            "sap_description": "Lock 27, Star Lock",
+            "sap_object_type": "010",
+            "angle": 36,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2786.754,
+                -112022.867
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1375,
+            "sap_func_loc": "TM-076-003",
+            "sap_description": "Lock 26, Aston Lock",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5108.69,
+                -114904.532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1376,
+            "sap_func_loc": "TM-080-004",
+            "sap_description": "Lock 25, Sandon Lock",
+            "sap_object_type": "010",
+            "angle": 36,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10047.395,
+                -119706.829
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1420,
+            "sap_func_loc": "TM-110-006",
+            "sap_description": "Lock 18 Middle Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41747.068,
+                -144777.437
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1422,
+            "sap_func_loc": "TM-089-009",
+            "sap_description": "Lock 22, Haywood Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18260.785,
+                -130318.455
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1432,
+            "sap_func_loc": "TM-109-003",
+            "sap_description": "Lock 20, Woodend Lock",
+            "sap_object_type": "010",
+            "angle": 63,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39990.158,
+                -145398.84
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1453,
+            "sap_func_loc": "TM-071-002",
+            "sap_description": "Lock 34, Meaford Top Lock",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                955.587,
+                -108738.07
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1455,
+            "sap_func_loc": "TM-112-001",
+            "sap_description": "Lock 14, Common Lock",
+            "sap_object_type": "010",
+            "angle": 347,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                44038.822,
+                -143454.074
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1477,
+            "sap_func_loc": "TM-067-001",
+            "sap_description": "Lock 35, Trentham Lock",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -205.15,
+                -101843.631
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1491,
+            "sap_func_loc": "TM-058-010",
+            "sap_description": "Lock 38 Twyford's Lock",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Trent & Mersey Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2204.994,
+                -90690.121
+            ]
+        }
+    }
+]

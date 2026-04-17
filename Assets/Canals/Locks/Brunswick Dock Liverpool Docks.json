@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 54,
+            "sap_func_loc": "QG-001-001",
+            "sap_description": "Brunswick Dock - Lock",
+            "sap_object_type": "010",
+            "angle": 105,
+            "waterway_name": "Brunswick Dock (Liverpool Docks)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -90467.042,
+                -21731.851
+            ]
+        }
+    }
+]

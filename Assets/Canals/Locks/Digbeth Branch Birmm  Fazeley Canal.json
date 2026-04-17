@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1057,
+            "sap_func_loc": "WZ-001-008",
+            "sap_description": "Lock 2, Ashted",
+            "sap_object_type": "010",
+            "angle": 59,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32172.653,
+                -188375.134
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1060,
+            "sap_func_loc": "WZ-001-012",
+            "sap_description": "Lock 5, Ashted",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32272.139,
+                -188687.531
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1254,
+            "sap_func_loc": "WZ-001-009",
+            "sap_description": "Lock 3, Ashted",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32228.238,
+                -188467.253
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1336,
+            "sap_func_loc": "WZ-002-001",
+            "sap_description": "Lock 6, Ashted Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32257.148,
+                -188833.759
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1346,
+            "sap_func_loc": "WZ-001-007",
+            "sap_description": "Lock 1, Ashted Top Lock",
+            "sap_object_type": "010",
+            "angle": 59,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31996.037,
+                -188110.26
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1347,
+            "sap_func_loc": "WZ-001-011",
+            "sap_description": "Lock 4, Ashted",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Digbeth Branch (Birm'm & Fazeley Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32264.103,
+                -188588.919
+            ]
+        }
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 374,
+            "sap_func_loc": "FT-005-013",
+            "sap_description": "Tinsley No.6 Lock",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85039.731,
+                -17897.042
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 399,
+            "sap_func_loc": "FT-007-001",
+            "sap_description": "Tinsley No.11 Lock",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85805.325,
+                -16055.123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 441,
+            "sap_func_loc": "FT-007-002",
+            "sap_description": "Tinsley No.12 Lock",
+            "sap_object_type": "010",
+            "angle": 317,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85955.24,
+                -15953.97
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 555,
+            "sap_func_loc": "FT-005-005",
+            "sap_description": "Tinsley No.2 Lock",
+            "sap_object_type": "010",
+            "angle": 309,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84721.891,
+                -18468.453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 556,
+            "sap_func_loc": "FT-005-007",
+            "sap_description": "Tinsley No.3 Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84803.543,
+                -18313.032
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 557,
+            "sap_func_loc": "FT-005-010",
+            "sap_description": "Tinsley No.4 Lock",
+            "sap_object_type": "010",
+            "angle": 289,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84851.656,
+                -18164.044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 558,
+            "sap_func_loc": "FT-005-017",
+            "sap_description": "Tinsley No.7/8 (Deep) Lock",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85188.039,
+                -17782.457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 559,
+            "sap_func_loc": "FT-006-002",
+            "sap_description": "Tinsley No.9 (Plumpers) Lock",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85452.914,
+                -16941.969
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 560,
+            "sap_func_loc": "FT-006-007",
+            "sap_description": "Tinsley No.10 (Wharf Road) Lock",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85727.477,
+                -16351.642
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 621,
+            "sap_func_loc": "FT-005-002",
+            "sap_description": "Lock 1 Tinsley",
+            "sap_object_type": "010",
+            "angle": 294,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84621.839,
+                -18622.04
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 652,
+            "sap_func_loc": "FT-005-011",
+            "sap_description": "Tinsley No.5 Lock",
+            "sap_object_type": "010",
+            "angle": 302,
+            "waterway_name": "Sheffield & Tinsley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84923.254,
+                -18010.214
+            ]
+        }
+    }
+]

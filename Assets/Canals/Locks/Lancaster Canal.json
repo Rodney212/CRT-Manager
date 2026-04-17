@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2,
+            "sap_func_loc": "LC-068-005",
+            "sap_description": "Lock 6 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 100,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63019.643,
+                124044.313
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 34,
+            "sap_func_loc": "LC-068-009",
+            "sap_description": "Lock 3 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 90,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63057.541,
+                124735.992
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 35,
+            "sap_func_loc": "LC-069-001",
+            "sap_description": "Lock 2 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 100,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63044.496,
+                124956.581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 36,
+            "sap_func_loc": "LC-069-002",
+            "sap_description": "Lock 1 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 110,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63027.951,
+                125168.667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 122,
+            "sap_func_loc": "LC-068-004",
+            "sap_description": "Lock 7 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 90,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63043.907,
+                123755.284
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 184,
+            "sap_func_loc": "LC-068-006",
+            "sap_description": "Lock 5 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 85,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62993.459,
+                124312.866
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 287,
+            "sap_func_loc": "LC-068-008",
+            "sap_description": "Lock 4 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 75,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63045.103,
+                124524.221
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 367,
+            "sap_func_loc": "LC-068-003",
+            "sap_description": "Lock 8 Northern Reaches",
+            "sap_object_type": "018",
+            "angle": 90,
+            "waterway_name": "Lancaster Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63049.047,
+                123430.585
+            ]
+        }
+    }
+]

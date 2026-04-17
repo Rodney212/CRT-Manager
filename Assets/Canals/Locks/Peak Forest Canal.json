@@ -1,0 +1,290 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 5,
+            "sap_func_loc": "PF-013-005",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 265,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12465.422,
+                -19089.539
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 96,
+            "sap_func_loc": "PF-013-006",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12522.513,
+                -19292.561
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 116,
+            "sap_func_loc": "PF-013-010",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12533.057,
+                -19901.731
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 238,
+            "sap_func_loc": "PF-012-010",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 231,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12280.601,
+                -18321.004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 239,
+            "sap_func_loc": "PF-013-001",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 265,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12354.43,
+                -18505.568
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 240,
+            "sap_func_loc": "PF-013-004",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 253,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12433.459,
+                -18906.63
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 241,
+            "sap_func_loc": "PF-013-008",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 265,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12567.942,
+                -19569.428
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 242,
+            "sap_func_loc": "PF-013-009",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 279,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12551.369,
+                -19775.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 243,
+            "sap_func_loc": "PF-014-001",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12454.548,
+                -20111.558
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 244,
+            "sap_func_loc": "PF-014-005",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12409.681,
+                -20510.967
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 245,
+            "sap_func_loc": "PF-014-006",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 242,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12448.271,
+                -20618.325
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 247,
+            "sap_func_loc": "PF-012-008",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11970.61,
+                -18067.827
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 260,
+            "sap_func_loc": "PF-012-009",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 221,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12134.808,
+                -18183.497
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 269,
+            "sap_func_loc": "PF-013-003",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 262,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12378.043,
+                -18710.311
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 300,
+            "sap_func_loc": "PF-014-003",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12387.734,
+                -20289.488
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 303,
+            "sap_func_loc": "PF-014-004",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 264,
+            "waterway_name": "Peak Forest Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12391.176,
+                -20401.913
+            ]
+        }
+    }
+]

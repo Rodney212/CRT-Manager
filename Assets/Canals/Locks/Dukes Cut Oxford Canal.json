@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1612,
+            "sap_func_loc": "OD-001-001",
+            "sap_description": "Lock 44A, Dukes Cut Lock",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "Dukes Cut (Oxford Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97625.582,
+                -314018.985
+            ]
+        }
+    }
+]

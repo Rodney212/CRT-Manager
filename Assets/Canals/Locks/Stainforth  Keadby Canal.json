@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 371,
+            "sap_func_loc": "FK-008-004",
+            "sap_description": "Thorne Lock",
+            "sap_object_type": "010",
+            "angle": 9,
+            "waterway_name": "Stainforth & Keadby Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                133595.178,
+                20138.079
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 635,
+            "sap_func_loc": "FK-001-003",
+            "sap_description": "Bramwith Lock",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Stainforth & Keadby Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122474.616,
+                16756.916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 648,
+            "sap_func_loc": "FK-025-006",
+            "sap_description": "Keadby Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Stainforth & Keadby Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                159323.731,
+                16755.889
+            ]
+        }
+    }
+]

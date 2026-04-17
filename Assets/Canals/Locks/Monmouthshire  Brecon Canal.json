@@ -1,0 +1,110 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 882,
+            "sap_func_loc": "MB-041-003",
+            "sap_description": "Lock 68,Toffs Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -120382.216,
+                -299865.364
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 883,
+            "sap_func_loc": "MB-041-002",
+            "sap_description": "Lock 67",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -120286.622,
+                -299876.684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 884,
+            "sap_func_loc": "MB-040-005",
+            "sap_description": "Lock 65,Coombes Lock Aka Depot Lock",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -119462.598,
+                -299935.468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 885,
+            "sap_func_loc": "MB-040-002",
+            "sap_description": "Lock 64, Lower Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -119016.536,
+                -299637.658
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 912,
+            "sap_func_loc": "MB-041-001",
+            "sap_description": "Lock 66",
+            "sap_object_type": "010",
+            "angle": 0,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -120068.261,
+                -299881.027
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 930,
+            "sap_func_loc": "MB-053-006",
+            "sap_description": "Lock 69, Brynich Lock",
+            "sap_object_type": "010",
+            "angle": 350,
+            "waterway_name": "Monmouthshire & Brecon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -130522.031,
+                -287923.36
+            ]
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 507,
+            "sap_func_loc": "RI-001-004",
+            "sap_description": "Lock 1 / Rhodesfield Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Ripon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                74088.036,
+                117798.284
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 508,
+            "sap_func_loc": "RI-002-003",
+            "sap_description": "Lock 2, Bellfurrows Lock",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Ripon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                74201.11,
+                117158.962
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 509,
+            "sap_func_loc": "RI-004-001",
+            "sap_description": "Lock 3, Oxclose Lock",
+            "sap_object_type": "010",
+            "angle": 73,
+            "waterway_name": "Ripon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                75517.235,
+                113747.857
+            ]
+        }
+    }
+]

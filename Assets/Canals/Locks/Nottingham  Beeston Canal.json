@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 662,
+            "sap_func_loc": "TE-007-002",
+            "sap_description": "Lock 6 - Castle Lock",
+            "sap_object_type": "010",
+            "angle": 7,
+            "waterway_name": "Nottingham & Beeston Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113486.182,
+                -103271.735
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 676,
+            "sap_func_loc": "TE-009-004",
+            "sap_description": "Lock 7 - Meadow Lane Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Nottingham & Beeston Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115278.791,
+                -104656.576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 784,
+            "sap_func_loc": "TE-001-001",
+            "sap_description": "Lock 5 - Beeston Lock",
+            "sap_object_type": "010",
+            "angle": 326,
+            "waterway_name": "Nottingham & Beeston Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107583.208,
+                -109731.844
+            ]
+        }
+    }
+]

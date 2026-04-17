@@ -1,0 +1,434 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1530,
+            "sap_func_loc": "LN-016-005",
+            "sap_description": "Lock 14, Ponders End Lock, East Side",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238387.596,
+                -340996.122
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1547,
+            "sap_func_loc": "LN-023-002",
+            "sap_description": "Lock 10, Waltham Common Lock",
+            "sap_object_type": "010",
+            "angle": 79,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239658.704,
+                -330822.72
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1551,
+            "sap_func_loc": "LN-022-001",
+            "sap_description": "Lock 11, Waltham Town Lock",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240325.726,
+                -332835.395
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1578,
+            "sap_func_loc": "LN-010-005",
+            "sap_description": "Lock 17, Tottenham Lock, Western Side",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                235439.566,
+                -350649.345
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1580,
+            "sap_func_loc": "LN-016-007",
+            "sap_description": "Lock 14, Ponders End Lock, West Side",
+            "sap_object_type": "010",
+            "angle": 108,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238373.257,
+                -340990.894
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1581,
+            "sap_func_loc": "LN-011-003",
+            "sap_description": "Lock 16, Stonebridge Lock, Western Side",
+            "sap_object_type": "010",
+            "angle": 126,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                236099.802,
+                -349026.667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1582,
+            "sap_func_loc": "LN-011-002",
+            "sap_description": "Lock 16, Stonebridge Lock, Eastern Side",
+            "sap_object_type": "010",
+            "angle": 126,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                236114.001,
+                -349036.716
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1583,
+            "sap_func_loc": "LN-003-006",
+            "sap_description": "Lock 19, Old Ford Lock, Western Side",
+            "sap_object_type": "010",
+            "angle": 93,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239385.675,
+                -359610.503
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1584,
+            "sap_func_loc": "LN-019-008",
+            "sap_description": "Lock 13, Enfield Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239699.12,
+                -336466.915
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1585,
+            "sap_func_loc": "LN-020-006",
+            "sap_description": "Lock 12, Rammey Marsh Lock",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240382.23,
+                -334490.308
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1586,
+            "sap_func_loc": "LN-024-003",
+            "sap_description": "Lock 9, Cheshunt Lock",
+            "sap_object_type": "010",
+            "angle": 97,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239844.843,
+                -328768.209
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1587,
+            "sap_func_loc": "LN-026-001",
+            "sap_description": "Lock 8, Aqueduct Lock",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240133.129,
+                -326635.193
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1588,
+            "sap_func_loc": "LN-029-002",
+            "sap_description": "Lock 7, Carthagena Lock",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                241491.655,
+                -322746.258
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1589,
+            "sap_func_loc": "LN-030-001",
+            "sap_description": "Lock 6, Dobbs Weir Lock",
+            "sap_object_type": "010",
+            "angle": 118,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                242096.431,
+                -321155.704
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1607,
+            "sap_func_loc": "LN-032-002",
+            "sap_description": "Lock 5, Fieldes Lock",
+            "sap_object_type": "010",
+            "angle": 94,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                243172.737,
+                -319146.076
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1608,
+            "sap_func_loc": "LN-035-005",
+            "sap_description": "Lock 4, Stanstead Lock",
+            "sap_object_type": "010",
+            "angle": 62,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                241733.233,
+                -314210.538
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1609,
+            "sap_func_loc": "LN-037-003",
+            "sap_description": "Lock 3, Hardmead Lock",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240122.305,
+                -312248.346
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1610,
+            "sap_func_loc": "LN-039-002",
+            "sap_description": "Lock 2, Ware Lock",
+            "sap_object_type": "010",
+            "angle": 42,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237154.162,
+                -310642.781
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1611,
+            "sap_func_loc": "LN-041-003",
+            "sap_description": "Lock 1, Hertford Lock",
+            "sap_object_type": "010",
+            "angle": 303,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                234294.456,
+                -311914.841
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1620,
+            "sap_func_loc": "LN-003-005",
+            "sap_description": "Lock 19, Old Ford Lock, Eastern Side",
+            "sap_object_type": "010",
+            "angle": 94,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239400.069,
+                -359612.502
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1702,
+            "sap_func_loc": "LN-014-001",
+            "sap_description": "Lock 15, Picketts Lock",
+            "sap_object_type": "010",
+            "angle": 105,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238116.41,
+                -343841.843
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1703,
+            "sap_func_loc": "LN-001-004",
+            "sap_description": "Lock 20, Bow, Bow Creek Side",
+            "sap_object_type": "038",
+            "angle": 89,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240831.224,
+                -362298.513
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1718,
+            "sap_func_loc": "LN-001-003",
+            "sap_description": "Lock 20, Bow, River Lee Side",
+            "sap_object_type": "010",
+            "angle": 91,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240808.774,
+                -362297.9
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1719,
+            "sap_func_loc": "LN-010-004",
+            "sap_description": "Lock 17, Tottenham Lock, Eastern Side",
+            "sap_object_type": "010",
+            "angle": 105,
+            "waterway_name": "Lee Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                235461.921,
+                -350654.775
+            ]
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 931,
+            "sap_func_loc": "SJ-001-030",
+            "sap_description": "Lock 3, Disused (D/S Stroudwater)",
+            "sap_object_type": "038",
+            "angle": 230,
+            "waterway_name": "Stroudwater Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20458.153,
+                -315809.42
+            ]
+        }
+    }
+]

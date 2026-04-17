@@ -1,0 +1,434 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1536,
+            "sap_func_loc": "RE-008-016",
+            "sap_description": "Lock 6 Bypass Weir, Sturts Lock",
+            "sap_object_type": "018",
+            "angle": 321,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                231521.303,
+                -360173.448
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1544,
+            "sap_func_loc": "RE-014-007",
+            "sap_description": "Lock 11 Bypass Weir, Salmons Lane Lock",
+            "sap_object_type": "018",
+            "angle": 117,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237834.437,
+                -363763.352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1545,
+            "sap_func_loc": "RE-014-013",
+            "sap_description": "Lock 12 Bypass Weir, Commercial Rd. Lock",
+            "sap_object_type": "018",
+            "angle": 102,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237644.076,
+                -364221.506
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1558,
+            "sap_func_loc": "RE-004-022",
+            "sap_description": "Lock 2 Bypass Weir,Hawley Lock",
+            "sap_object_type": "018",
+            "angle": 335,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225717.084,
+                -358971.124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1559,
+            "sap_func_loc": "RE-008-006",
+            "sap_description": "Lock 5 Bypass Weir,City Road Lock",
+            "sap_object_type": "018",
+            "angle": 10,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                230725.616,
+                -360588.776
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1560,
+            "sap_func_loc": "RE-010-006",
+            "sap_description": "Lock 7 Bypass Weir, Actons lock",
+            "sap_object_type": "018",
+            "angle": 360,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                234622.275,
+                -360058.926
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1561,
+            "sap_func_loc": "RE-013-002",
+            "sap_description": "Lock 9 Bypass Weir, Mile End Lock",
+            "sap_object_type": "018",
+            "angle": 54,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237493.359,
+                -361939.461
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1562,
+            "sap_func_loc": "RE-014-002",
+            "sap_description": "Lock 10 Bypass Weir, Johnsons Lock",
+            "sap_object_type": "018",
+            "angle": 87,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237674.478,
+                -362906.428
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1567,
+            "sap_func_loc": "RE-012-003",
+            "sap_description": "Lock 8 Bypass Weir, Old Ford Lock",
+            "sap_object_type": "018",
+            "angle": 38,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                236650.403,
+                -360631.194
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1570,
+            "sap_func_loc": "RE-004-024",
+            "sap_description": "Lock 3, Kentish Town Lock",
+            "sap_object_type": "010",
+            "angle": 28,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225866.164,
+                -358979.746
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1602,
+            "sap_func_loc": "RE-004-018",
+            "sap_description": "Lock 1B, Hampstead Road Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225501.186,
+                -359065.428
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1603,
+            "sap_func_loc": "RE-004-021",
+            "sap_description": "Lock 2, Hawley Lock",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225694.705,
+                -358967.336
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1604,
+            "sap_func_loc": "RE-006-009",
+            "sap_description": "Lock 4, St Pancras Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                227482.034,
+                -359951.308
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1605,
+            "sap_func_loc": "RE-008-004",
+            "sap_description": "Lock 5, City Road Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                230713.16,
+                -360573.968
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1606,
+            "sap_func_loc": "RE-008-015",
+            "sap_description": "Lock 6, Sturts Lock",
+            "sap_object_type": "010",
+            "angle": 321,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                231515.096,
+                -360165.239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1628,
+            "sap_func_loc": "RE-010-005",
+            "sap_description": "Lock 7, Actons Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                234621.01,
+                -360046.018
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1675,
+            "sap_func_loc": "RE-012-004",
+            "sap_description": "Lock 8, Old Ford Lock",
+            "sap_object_type": "010",
+            "angle": 38,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                236657.119,
+                -360620.11
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1676,
+            "sap_func_loc": "RE-013-003",
+            "sap_description": "Lock 9, Mile End Lock",
+            "sap_object_type": "010",
+            "angle": 54,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237504.799,
+                -361931.724
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1677,
+            "sap_func_loc": "RE-014-001",
+            "sap_description": "Lock 10, Johnsons Lock",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237687.305,
+                -362906.773
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1678,
+            "sap_func_loc": "RE-014-005",
+            "sap_description": "Lock 11, Salmons Lane Lock",
+            "sap_object_type": "010",
+            "angle": 117,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237845.531,
+                -363768.477
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1679,
+            "sap_func_loc": "RE-014-012",
+            "sap_description": "Lock 12, Commercial Road Lock",
+            "sap_object_type": "010",
+            "angle": 102,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                237656.858,
+                -364223.458
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1680,
+            "sap_func_loc": "RE-004-017",
+            "sap_description": "Lock 1A, Hampstead Road Lock",
+            "sap_object_type": "010",
+            "angle": 328,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225508.923,
+                -359076.891
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1681,
+            "sap_func_loc": "RE-004-023",
+            "sap_description": "Lock 3, Bypass Weir Kentish Town Lock",
+            "sap_object_type": "018",
+            "angle": 28,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                225861.025,
+                -358992.491
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1705,
+            "sap_func_loc": "RE-006-010",
+            "sap_description": "Lock 4 Bypass Weir,St Pancras Lock",
+            "sap_object_type": "018",
+            "angle": 60,
+            "waterway_name": "Regent's Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                227494.99,
+                -359946.812
+            ]
+        }
+    }
+]

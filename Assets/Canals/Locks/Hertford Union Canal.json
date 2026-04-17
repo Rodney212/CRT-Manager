@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1524,
+            "sap_func_loc": "HU-002-003",
+            "sap_description": "Lock 2, Middle Lock",
+            "sap_object_type": "010",
+            "angle": 321,
+            "waterway_name": "Hertford Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238671.802,
+                -359414.151
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1625,
+            "sap_func_loc": "HU-002-009",
+            "sap_description": "Lock 3, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 323,
+            "waterway_name": "Hertford Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238991.322,
+                -359173.314
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1692,
+            "sap_func_loc": "HU-002-001",
+            "sap_description": "Lock 1, Top Lock",
+            "sap_object_type": "010",
+            "angle": 323,
+            "waterway_name": "Hertford Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                238419.451,
+                -359605.304
+            ]
+        }
+    }
+]

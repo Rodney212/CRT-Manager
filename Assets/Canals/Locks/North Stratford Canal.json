@@ -1,0 +1,362 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 955,
+            "sap_func_loc": "SN-018-005",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46636.014,
+                -214855.957
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 988,
+            "sap_func_loc": "SN-021-002",
+            "sap_description": "Lock 19",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49390.332,
+                -215417.829
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 992,
+            "sap_func_loc": "SN-020-006",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48561.877,
+                -215000.36
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1032,
+            "sap_func_loc": "SN-020-012",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49172.791,
+                -215043.566
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1036,
+            "sap_func_loc": "SN-020-003",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48369.548,
+                -214870.257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1089,
+            "sap_func_loc": "SN-019-005",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47741.066,
+                -214707.473
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1237,
+            "sap_func_loc": "SN-020-013",
+            "sap_description": "Lock 17",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49275.522,
+                -215098.003
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1238,
+            "sap_func_loc": "SN-020-014",
+            "sap_description": "Lock 18",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49361.633,
+                -215227.724
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1239,
+            "sap_func_loc": "SN-021-001",
+            "sap_description": "Lock 20",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49410.854,
+                -215609.538
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1246,
+            "sap_func_loc": "SN-018-002",
+            "sap_description": "Lock 2, Lapworth Top Lock",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45957.815,
+                -214399.928
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1247,
+            "sap_func_loc": "SN-018-004",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46172.944,
+                -214567.732
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1248,
+            "sap_func_loc": "SN-019-002",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 12,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                46810.729,
+                -214889.316
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1249,
+            "sap_func_loc": "SN-019-006",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 348,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47875.275,
+                -214644.068
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1250,
+            "sap_func_loc": "SN-019-008",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 12,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47984.737,
+                -214647.735
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1251,
+            "sap_func_loc": "SN-019-009",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 31,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48089.175,
+                -214685.785
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1252,
+            "sap_func_loc": "SN-020-011",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 356,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49051.885,
+                -215043.116
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1436,
+            "sap_func_loc": "SN-001-006",
+            "sap_description": "Guillotine Lock - Kings Norton",
+            "sap_object_type": "038",
+            "angle": 148,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28063.482,
+                -201445.001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1441,
+            "sap_func_loc": "SN-020-004",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48473.868,
+                -214939.433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1487,
+            "sap_func_loc": "SN-020-002",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 34,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48279.902,
+                -214809.326
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1507,
+            "sap_func_loc": "SN-020-001",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 33,
+            "waterway_name": "North Stratford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48178.841,
+                -214741.802
+            ]
+        }
+    }
+]

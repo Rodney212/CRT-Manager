@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 437,
+            "sap_func_loc": "RO-029-002",
+            "sap_description": "Naburn Large Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "River Ouse"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119555.284,
+                73299.36
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 510,
+            "sap_func_loc": "RO-029-004",
+            "sap_description": "Naburn Small Lock",
+            "sap_object_type": "010",
+            "angle": 80,
+            "waterway_name": "River Ouse"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119567.807,
+                73351.835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 511,
+            "sap_func_loc": "RO-062-001",
+            "sap_description": "Barmby Tidal Barrage",
+            "sap_object_type": "010",
+            "angle": 283,
+            "waterway_name": "River Ouse"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                133815.493,
+                46239.073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 600,
+            "sap_func_loc": "RO-004-003",
+            "sap_description": "Linton Lock",
+            "sap_object_type": "010",
+            "angle": 316,
+            "waterway_name": "River Ouse"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103825.98,
+                100093.965
+            ]
+        }
+    }
+]

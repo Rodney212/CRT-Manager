@@ -1,0 +1,434 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 957,
+            "sap_func_loc": "WV-003-011",
+            "sap_description": "Lock 4, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5366.759,
+                -168593.917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 961,
+            "sap_func_loc": "WV-022-009",
+            "sap_description": "Lock 2, Smethwick",
+            "sap_object_type": "010",
+            "angle": 331,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23100.816,
+                -185733.927
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 962,
+            "sap_func_loc": "WV-022-008",
+            "sap_description": "Lock 3, Smethwick",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23305.832,
+                -185648.55
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1018,
+            "sap_func_loc": "WV-002-002",
+            "sap_description": "Lock 10, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5197.368,
+                -167577.707
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1044,
+            "sap_func_loc": "WV-022-011",
+            "sap_description": "Lock 1, Smethwick",
+            "sap_object_type": "010",
+            "angle": 329,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                22890.865,
+                -185860.403
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1061,
+            "sap_func_loc": "WV-003-015",
+            "sap_description": "Lock 6, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 266,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5425.3,
+                -168233.03
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1304,
+            "sap_func_loc": "WV-003-008",
+            "sap_description": "Lock 2, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 251,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5426.613,
+                -168999.063
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1321,
+            "sap_func_loc": "WV-001-003",
+            "sap_description": "Lock 17, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 203,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3946.413,
+                -166596.309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1322,
+            "sap_func_loc": "WV-001-004",
+            "sap_description": "Lock 18, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 223,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3600.881,
+                -166417.36
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1324,
+            "sap_func_loc": "WV-001-005",
+            "sap_description": "Lock 19, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3309.389,
+                -166142.738
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1325,
+            "sap_func_loc": "WV-001-007",
+            "sap_description": "Lock 20, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 248,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3156.145,
+                -165958.477
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1326,
+            "sap_func_loc": "WV-001-009",
+            "sap_description": "Lock 21, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 189,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2989.912,
+                -165858.286
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1327,
+            "sap_func_loc": "WV-002-004",
+            "sap_description": "Lock 11, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5105.064,
+                -167426.288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1328,
+            "sap_func_loc": "WV-002-009",
+            "sap_description": "Lock 12, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 230,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5007.828,
+                -167276.523
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1339,
+            "sap_func_loc": "WV-002-010",
+            "sap_description": "Lock 13, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 242,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4904.02,
+                -167130.064
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1340,
+            "sap_func_loc": "WV-002-011",
+            "sap_description": "Lock 14, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 230,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4798.544,
+                -166972.073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1341,
+            "sap_func_loc": "WV-002-016",
+            "sap_description": "Lock 16, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 204,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4411.947,
+                -166789.877
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1342,
+            "sap_func_loc": "WV-003-005",
+            "sap_description": "Lock 1, Top Lock, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 275,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5451.614,
+                -169204.931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1343,
+            "sap_func_loc": "WV-003-009",
+            "sap_description": "Lock 3, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 256,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5353.91,
+                -168766.914
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1344,
+            "sap_func_loc": "WV-003-013",
+            "sap_description": "Lock 5, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 271,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5430.544,
+                -168415.888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1345,
+            "sap_func_loc": "WV-003-016",
+            "sap_description": "Lock 7, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5398.717,
+                -168065.032
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1414,
+            "sap_func_loc": "WV-003-018",
+            "sap_description": "Lock 8, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5367.183,
+                -167885.507
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1489,
+            "sap_func_loc": "WV-002-001",
+            "sap_description": "Lock 9, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 233,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5304.446,
+                -167720.86
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1508,
+            "sap_func_loc": "WV-002-014",
+            "sap_description": "Lock 15, Wolverhampton",
+            "sap_object_type": "010",
+            "angle": 200,
+            "waterway_name": "Old Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4622.496,
+                -166875.175
+            ]
+        }
+    }
+]

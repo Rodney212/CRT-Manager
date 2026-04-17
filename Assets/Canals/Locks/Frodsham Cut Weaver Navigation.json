@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 8,
+            "sap_func_loc": "WM-001-005",
+            "sap_description": "Frodsham Cut Lock [Abandoned]",
+            "sap_object_type": "038",
+            "angle": null,
+            "waterway_name": "Frodsham Cut (Weaver Navigation)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58438.823,
+                -38145.125
+            ]
+        }
+    }
+]

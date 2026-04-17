@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 739,
+            "sap_func_loc": "GE-002-008",
+            "sap_description": "Lock 1, Welford Lock",
+            "sap_object_type": "010",
+            "angle": 275,
+            "waterway_name": "Welford Arm (Leicester Line)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                123640.477,
+                -199110.594
+            ]
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 736,
+            "sap_func_loc": "FO-001-008",
+            "sap_description": "Lock 1, Torksey Lock",
+            "sap_object_type": "010",
+            "angle": 182,
+            "waterway_name": "Fossdyke Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                158829.967,
+                -39262.849
+            ]
+        }
+    }
+]

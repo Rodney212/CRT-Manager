@@ -1,0 +1,1766 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 10,
+            "sap_func_loc": "LL-076-006",
+            "sap_description": "Lock 63, Lock 6",
+            "sap_object_type": "010",
+            "angle": 61,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50023.686,
+                33493.096
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 14,
+            "sap_func_loc": "LL-139-011",
+            "sap_description": "Lock 42, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                256.813,
+                80650.029
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 17,
+            "sap_func_loc": "LL-090-002",
+            "sap_description": "Lock 57, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 121,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35498.355,
+                43683.631
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 26,
+            "sap_func_loc": "LL-001-008",
+            "sap_description": "Lock 3, Railway Viaduct Stanley Dock Ar",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91595.264,
+                -15218.335
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 31,
+            "sap_func_loc": "LL-090-004",
+            "sap_description": "Lock 56, Lock 5 Bolton Road",
+            "sap_object_type": "010",
+            "angle": 185,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35212.072,
+                44017.148
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 41,
+            "sap_func_loc": "LL-059-006",
+            "sap_description": "Lock 70, Lock 6",
+            "sap_object_type": "010",
+            "angle": 146,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47692.724,
+                9052.705
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 44,
+            "sap_func_loc": "LL-090-011",
+            "sap_description": "Lock 52, Top Lock",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -34566.525,
+                44385.263
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 52,
+            "sap_func_loc": "LL-059-012",
+            "sap_description": "Lock 66, Lock 2",
+            "sap_object_type": "010",
+            "angle": 133,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47053.416,
+                9757.059
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 66,
+            "sap_func_loc": "LL-077-003",
+            "sap_description": "Lock 60, Lock 3",
+            "sap_object_type": "010",
+            "angle": 142,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49793.145,
+                34116.822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 70,
+            "sap_func_loc": "LL-076-008",
+            "sap_description": "Lock 61, Lock 4",
+            "sap_object_type": "010",
+            "angle": 122,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49974.016,
+                33789.176
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 71,
+            "sap_func_loc": "LL-054-002",
+            "sap_description": "Lock 88",
+            "sap_object_type": "010",
+            "angle": 211,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -53584.993,
+                8648.606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 84,
+            "sap_func_loc": "LL-058-002",
+            "sap_description": "Lock 79, Lock 15",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48814.556,
+                7615.045
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 89,
+            "sap_func_loc": "LL-047-005",
+            "sap_description": "Outside Track- Top Lock",
+            "sap_object_type": "038",
+            "angle": 200,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62251.078,
+                14553.862
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 97,
+            "sap_func_loc": "LL-058-006",
+            "sap_description": "Lock 77, Lock 13",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48510.703,
+                8232.31
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 111,
+            "sap_func_loc": "LL-128-005",
+            "sap_description": "Lock 51, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3436.863,
+                65582.637
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 113,
+            "sap_func_loc": "LL-060-003",
+            "sap_description": "Lock 65, Top Lock",
+            "sap_object_type": "010",
+            "angle": 132,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -46933.522,
+                9887.759
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 123,
+            "sap_func_loc": "LL-128-010",
+            "sap_description": "Lock 49, Barrowford Road",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3266.923,
+                65925.759
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 125,
+            "sap_func_loc": "LL-057-009",
+            "sap_description": "Lock 82, Lock 18",
+            "sap_object_type": "010",
+            "angle": 168,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49666.943,
+                7302.881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 127,
+            "sap_func_loc": "LL-059-008",
+            "sap_description": "Lock 69, Lock 5",
+            "sap_object_type": "010",
+            "angle": 134,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47539.206,
+                9178.633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 128,
+            "sap_func_loc": "LL-059-005",
+            "sap_description": "Lock 71, Lock 7",
+            "sap_object_type": "010",
+            "angle": 156,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47836.569,
+                8975.697
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 129,
+            "sap_func_loc": "LL-059-001",
+            "sap_description": "Lock 74, Lock 10",
+            "sap_object_type": "010",
+            "angle": 141,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48237.463,
+                8699.455
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 130,
+            "sap_func_loc": "LL-059-009",
+            "sap_description": "Lock 68, Lock 4",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47417.804,
+                9327.87
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 131,
+            "sap_func_loc": "LL-076-007",
+            "sap_description": "Lock 62, Lock 5",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50053.469,
+                33622.918
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 132,
+            "sap_func_loc": "LL-077-004",
+            "sap_description": "Lock 59, Lock 2",
+            "sap_object_type": "010",
+            "angle": 153,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49521.484,
+                34278.002
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 133,
+            "sap_func_loc": "LL-058-008",
+            "sap_description": "Lock 75, Lock 11",
+            "sap_object_type": "010",
+            "angle": 127,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48340.691,
+                8589.106
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 134,
+            "sap_func_loc": "LL-058-007",
+            "sap_description": "Lock 76, Lock 12",
+            "sap_object_type": "010",
+            "angle": 115,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48426.931,
+                8457.011
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 135,
+            "sap_func_loc": "LL-058-004",
+            "sap_description": "Lock 78, Lock 14",
+            "sap_object_type": "010",
+            "angle": 116,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48678.536,
+                7818.288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 136,
+            "sap_func_loc": "LL-058-001",
+            "sap_description": "Lock 80, Lock 16",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49031.776,
+                7478.46
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 137,
+            "sap_func_loc": "LL-057-010",
+            "sap_description": "Lock 81, Lock 17",
+            "sap_object_type": "010",
+            "angle": 164,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49334.976,
+                7378.172
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 138,
+            "sap_func_loc": "LL-077-007",
+            "sap_description": "Lock 58, Top Lock",
+            "sap_object_type": "010",
+            "angle": 152,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49170.841,
+                34468.582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 139,
+            "sap_func_loc": "LL-090-005",
+            "sap_description": "Lock 55, Lock 4",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35072.052,
+                44024.876
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 140,
+            "sap_func_loc": "LL-090-007",
+            "sap_description": "Lock 54, Lock 3 Hall Street",
+            "sap_object_type": "010",
+            "angle": 175,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -34937.175,
+                44044.408
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 141,
+            "sap_func_loc": "LL-090-009",
+            "sap_description": "Lock 53, Lock 2, Highfield Road",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -34745.936,
+                44213.184
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 142,
+            "sap_func_loc": "LL-128-006",
+            "sap_description": "Lock 50, Warehouse Pool",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3328.862,
+                65688.11
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 143,
+            "sap_func_loc": "LL-129-003",
+            "sap_description": "Lock 47, Car Park",
+            "sap_object_type": "010",
+            "angle": 111,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3495.476,
+                66551.048
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 144,
+            "sap_func_loc": "LL-129-004",
+            "sap_description": "Lock 46, Lock 2",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3407.888,
+                66697.19
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 145,
+            "sap_func_loc": "LL-129-005",
+            "sap_description": "Lock 45, Top Lock",
+            "sap_object_type": "010",
+            "angle": 128,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3291.559,
+                66855.292
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 146,
+            "sap_func_loc": "LL-139-005",
+            "sap_description": "Lock 44, Top Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -69.216,
+                80163.224
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 147,
+            "sap_func_loc": "LL-139-009",
+            "sap_description": "Lock 43, Middle Lock",
+            "sap_object_type": "010",
+            "angle": 269,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                186.305,
+                80359.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 151,
+            "sap_func_loc": "LL-059-004",
+            "sap_description": "Lock 72, Lock 8",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47988.84,
+                8901.985
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 153,
+            "sap_func_loc": "LL-001-003",
+            "sap_description": "Stanley Dock Top Lock",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91279.097,
+                -15187.059
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 154,
+            "sap_func_loc": "LL-001-005",
+            "sap_description": "Stanley Dock Second Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91434.669,
+                -15202.661
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 155,
+            "sap_func_loc": "LL-001-012",
+            "sap_description": "Bottom Lock, Stanley Dock Arm",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91747.483,
+                -15233.894
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 156,
+            "sap_func_loc": "LL-047-002",
+            "sap_description": "Outside Track- Bottom Lock",
+            "sap_object_type": "038",
+            "angle": 187,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62526.124,
+                14648.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 157,
+            "sap_func_loc": "LL-047-006",
+            "sap_description": "Inside Track- Deep Lock",
+            "sap_object_type": "010",
+            "angle": 198,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62051.454,
+                14434.569
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 158,
+            "sap_func_loc": "LL-050-002",
+            "sap_description": "Offside Lock No. 90B",
+            "sap_object_type": "038",
+            "angle": 217,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59191.233,
+                10998.93
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 159,
+            "sap_func_loc": "LL-050-003",
+            "sap_description": "Dean Lock - Nearside",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59126.596,
+                10920.387
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 160,
+            "sap_func_loc": "LL-053-006",
+            "sap_description": "Lock 89",
+            "sap_object_type": "010",
+            "angle": 270,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -54528.513,
+                9842.471
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 161,
+            "sap_func_loc": "LL-056-006",
+            "sap_description": "Lock 87",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51835.787,
+                6935.089
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 162,
+            "sap_func_loc": "LL-056-010",
+            "sap_description": "Lock 86",
+            "sap_object_type": "010",
+            "angle": 194,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51253.452,
+                6808.98
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 163,
+            "sap_func_loc": "LL-057-003",
+            "sap_description": "Lock 85, Lock 21",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50523.116,
+                6852.52
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 164,
+            "sap_func_loc": "LL-057-006",
+            "sap_description": "Lock 84, Lock 20",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50215.666,
+                7040.447
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 248,
+            "sap_func_loc": "LL-057-008",
+            "sap_description": "Lock 83, Lock 19",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49913.285,
+                7233.374
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 281,
+            "sap_func_loc": "LL-076-005",
+            "sap_description": "Lock 64, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -49965.211,
+                33358.46
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 299,
+            "sap_func_loc": "LL-129-001",
+            "sap_description": "Lock 48, Lock 4",
+            "sap_object_type": "010",
+            "angle": 56,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3402.893,
+                66132.317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 304,
+            "sap_func_loc": "LL-059-010",
+            "sap_description": "Lock 67, Lock 3",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -47288.124,
+                9492.335
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 305,
+            "sap_func_loc": "LL-059-003",
+            "sap_description": "Lock 73, Lock 9",
+            "sap_object_type": "010",
+            "angle": 139,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -48119.054,
+                8803.197
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 373,
+            "sap_func_loc": "LL-203-003",
+            "sap_description": "Lock 4, Oddy Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 51,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67279.789,
+                55158.611
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 382,
+            "sap_func_loc": "LL-151-006",
+            "sap_description": "Lock 30, Holme Bridge Lock",
+            "sap_object_type": "010",
+            "angle": 57,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9348.449,
+                90937.626
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 390,
+            "sap_func_loc": "LL-150-003",
+            "sap_description": "Lock 31, Eshton Road Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7711.865,
+                90983.063
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 401,
+            "sap_func_loc": "LL-147-013",
+            "sap_description": "Lock 36, Bank Newton Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4335.464,
+                89051.443
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 403,
+            "sap_func_loc": "LL-198-003",
+            "sap_description": "Lock 8, Forge Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61286.264,
+                60064.61
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 404,
+            "sap_func_loc": "LL-179-006",
+            "sap_description": "Lock 22, Bingley 3 Rise Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 111,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37053.9,
+                65389.315
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 412,
+            "sap_func_loc": "LL-178-010",
+            "sap_description": "Lock 28, Bingley 5 Rise 2nd Lock",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37120.197,
+                66276.294
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 413,
+            "sap_func_loc": "LL-198-002",
+            "sap_description": "Lock 9, Forge Middle Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61252.45,
+                60066.485
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 422,
+            "sap_func_loc": "LL-197-006",
+            "sap_description": "Lock 11, Newlay Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 11,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59947.983,
+                60612.341
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 428,
+            "sap_func_loc": "LL-178-009",
+            "sap_description": "Lock 29, Bingley 5 Rise Top Lock",
+            "sap_object_type": "010",
+            "angle": 84,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37111.843,
+                66323.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 432,
+            "sap_func_loc": "LL-203-002",
+            "sap_description": "Lock 5, Oddy Top Lock",
+            "sap_object_type": "010",
+            "angle": 51,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67251.277,
+                55194.359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 435,
+            "sap_func_loc": "LL-149-001",
+            "sap_description": "Lock 34, Scarland Lock",
+            "sap_object_type": "010",
+            "angle": 351,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5594.259,
+                90365.44
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 521,
+            "sap_func_loc": "LL-188-003",
+            "sap_description": "Lock 17, Field Middle Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49357.839,
+                65897.926
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 562,
+            "sap_func_loc": "LL-147-004",
+            "sap_description": "Lock 41, Bank Newton Top Lock",
+            "sap_object_type": "010",
+            "angle": 233,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3858.334,
+                88281.63
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 563,
+            "sap_func_loc": "LL-147-007",
+            "sap_description": "Lock 39, Bank Newton 3rd Lock",
+            "sap_object_type": "010",
+            "angle": 269,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3962.732,
+                88708.8
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 564,
+            "sap_func_loc": "LL-147-008",
+            "sap_description": "Lock 38, Bank Newton 4th Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4047.339,
+                88839.95
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 565,
+            "sap_func_loc": "LL-147-009",
+            "sap_description": "Lock 37, Bank Newton 5th Lock",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4184.662,
+                88918.466
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 566,
+            "sap_func_loc": "LL-148-007",
+            "sap_description": "Lock 35, Stegneck Lock",
+            "sap_object_type": "010",
+            "angle": 290,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5082.187,
+                90039.565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 567,
+            "sap_func_loc": "LL-149-002",
+            "sap_description": "Lock 33, Anchor Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6234.108,
+                90434.578
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 568,
+            "sap_func_loc": "LL-150-001",
+            "sap_description": "Lock 32, Higherland Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7194.39,
+                90779.806
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 569,
+            "sap_func_loc": "LL-178-011",
+            "sap_description": "Lock 27, Bingley 5 Rise 3rd Lock",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37125.194,
+                66240.66
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 570,
+            "sap_func_loc": "LL-178-013",
+            "sap_description": "Lock 25, Bingley 5 Rise Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37133.503,
+                66172.789
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 571,
+            "sap_func_loc": "LL-179-004",
+            "sap_description": "Lock 24, Bingley 3 Rise Top Lock",
+            "sap_object_type": "010",
+            "angle": 112,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37081.146,
+                65465.58
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 572,
+            "sap_func_loc": "LL-179-005",
+            "sap_description": "Lock 23, Bingley 3 Rise Middle Lock",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37065.817,
+                65421.515
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 573,
+            "sap_func_loc": "LL-181-003",
+            "sap_description": "Lock 21, Dowley Gap Top Lock",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39147.383,
+                63466.194
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 574,
+            "sap_func_loc": "LL-181-004",
+            "sap_description": "Lock 20, Dowley Gap Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39186.255,
+                63450.834
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 575,
+            "sap_func_loc": "LL-182-003",
+            "sap_description": "Lock 19, Hirst Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41202.405,
+                63301.306
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 576,
+            "sap_func_loc": "LL-188-002",
+            "sap_description": "Lock 18, Field Top Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49317.238,
+                65901.474
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 577,
+            "sap_func_loc": "LL-188-004",
+            "sap_description": "Lock 16, Field Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49395.055,
+                65894.391
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 578,
+            "sap_func_loc": "LL-190-004",
+            "sap_description": "Lock 15, Dobson Top Lock",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50665.147,
+                63164.028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 579,
+            "sap_func_loc": "LL-190-005",
+            "sap_description": "Lock 14, Dobson Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50690.406,
+                63135.101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 580,
+            "sap_func_loc": "LL-197-005",
+            "sap_description": "Lock 12, Newlay Middle Lock",
+            "sap_object_type": "010",
+            "angle": 11,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59917.568,
+                60617.583
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 581,
+            "sap_func_loc": "LL-198-001",
+            "sap_description": "Lock 10, Forge Top Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61210.171,
+                60066.709
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 582,
+            "sap_func_loc": "LL-199-004",
+            "sap_description": "Lock 7, Kirkstall Little Lock",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62281.105,
+                59225.339
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 583,
+            "sap_func_loc": "LL-203-001",
+            "sap_description": "Lock 6, Spring Garden Lock",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                66920.822,
+                55602.937
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 584,
+            "sap_func_loc": "LL-203-006",
+            "sap_description": "Lock 3, St Ann Ings Lock",
+            "sap_object_type": "010",
+            "angle": 26,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67890.6,
+                54729.68
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 585,
+            "sap_func_loc": "LL-204-007",
+            "sap_description": "Lock 2, Office Lock",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                69019.162,
+                54417.725
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 586,
+            "sap_func_loc": "LL-204-012",
+            "sap_description": "Lock 1, River Lock",
+            "sap_object_type": "010",
+            "angle": 18,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                69351.859,
+                54386.818
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 617,
+            "sap_func_loc": "LL-147-005",
+            "sap_description": "Lock 40, Bank Newton 2nd Lock",
+            "sap_object_type": "010",
+            "angle": 320,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3869.721,
+                88536.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 619,
+            "sap_func_loc": "LL-178-012",
+            "sap_description": "Lock 26, Bingley 5 Rise 4Th Lock",
+            "sap_object_type": "010",
+            "angle": 82,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37130.195,
+                66206.722
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 622,
+            "sap_func_loc": "LL-197-004",
+            "sap_description": "Lock 13, Newlay Top Lock",
+            "sap_object_type": "010",
+            "angle": 11,
+            "waterway_name": "Leeds & Liverpool Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59875.331,
+                60626.276
+            ]
+        }
+    }
+]

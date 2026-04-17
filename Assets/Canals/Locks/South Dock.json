@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1540,
+            "sap_func_loc": "SD-001-052",
+            "sap_description": "West India Dock Entrance Lock",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "South Dock"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                240552.598,
+                -366178.874
+            ]
+        }
+    }
+]

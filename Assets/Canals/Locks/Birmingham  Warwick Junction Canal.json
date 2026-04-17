@@ -1,0 +1,92 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1056,
+            "sap_func_loc": "GB-002-004",
+            "sap_description": "Lock 3, Garrison",
+            "sap_object_type": "010",
+            "angle": 290,
+            "waterway_name": "Birmingham & Warwick Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34223.172,
+                -188475.704
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1069,
+            "sap_func_loc": "GB-002-005",
+            "sap_description": "Lock 4, Garrison",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Birmingham & Warwick Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34300.71,
+                -188211.268
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1128,
+            "sap_func_loc": "GB-001-015",
+            "sap_description": "Lock 1, Garrison Top Lock",
+            "sap_object_type": "010",
+            "angle": 302,
+            "waterway_name": "Birmingham & Warwick Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33866.399,
+                -189058.407
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1129,
+            "sap_func_loc": "GB-002-002",
+            "sap_description": "Lock 2, Garrison",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Birmingham & Warwick Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34050.491,
+                -188781.037
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1130,
+            "sap_func_loc": "GB-002-007",
+            "sap_description": "Lock 5, Garrison Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Birmingham & Warwick Junction Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34357.81,
+                -187484.965
+            ]
+        }
+    }
+]

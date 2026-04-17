@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1710,
+            "sap_func_loc": "LO-001-002",
+            "sap_description": "Lock 1a, Carpenter's Road Lock",
+            "sap_object_type": "010",
+            "angle": 97,
+            "waterway_name": "Old River Lea"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                239896.79,
+                -358933.887
+            ]
+        }
+    }
+]

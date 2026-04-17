@@ -1,0 +1,884 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 12,
+            "sap_func_loc": "SU-050-003",
+            "sap_description": "Hack Green Lock 1",
+            "sap_object_type": "010",
+            "angle": 252,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -40624.886,
+                -87838.096
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 58,
+            "sap_func_loc": "SU-058-002",
+            "sap_description": "Audlem Lock 3",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37649.542,
+                -98229.436
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 61,
+            "sap_func_loc": "SU-015-004",
+            "sap_description": "Lock 3, Northgate Top Lock",
+            "sap_object_type": "010",
+            "angle": 164,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80737.099,
+                -57780.844
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 68,
+            "sap_func_loc": "SU-056-012",
+            "sap_description": "Audlem Lock 12",
+            "sap_object_type": "010",
+            "angle": 253,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37655.35,
+                -96010.632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 82,
+            "sap_func_loc": "SU-057-006",
+            "sap_description": "Audlem Lock 8",
+            "sap_object_type": "010",
+            "angle": 271,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37605.523,
+                -97190.413
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 83,
+            "sap_func_loc": "SU-057-012",
+            "sap_description": "Audlem Lock 4",
+            "sap_object_type": "010",
+            "angle": 273,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37641.012,
+                -98029.953
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 99,
+            "sap_func_loc": "SU-001-001",
+            "sap_description": "Lock 1, Whitby Bottom Wide Lock",
+            "sap_object_type": "010",
+            "angle": 227,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80424.977,
+                -39888.601
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 101,
+            "sap_func_loc": "SU-034-002",
+            "sap_description": "Lock 13 Tilstone Lock",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -53056.22,
+                -69579.897
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 110,
+            "sap_func_loc": "SU-001-009",
+            "sap_description": "Top Narrow Lock",
+            "sap_object_type": "010",
+            "angle": 245,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80266.4,
+                -40151.101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 118,
+            "sap_func_loc": "SU-050-001",
+            "sap_description": "Lock 2, Hack Green Lock",
+            "sap_object_type": "010",
+            "angle": 252,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -40724.942,
+                -87554.297
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 249,
+            "sap_func_loc": "SU-001-063",
+            "sap_description": "Elsmere Port Ship Lock",
+            "sap_object_type": "010",
+            "angle": 322,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80554.691,
+                -39932.077
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 262,
+            "sap_func_loc": "SU-001-004",
+            "sap_description": "Bottom Narrow Lock",
+            "sap_object_type": "010",
+            "angle": 245,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80319.599,
+                -40036.265
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 265,
+            "sap_func_loc": "SU-016-004",
+            "sap_description": "Lock 5, Hoole Lane Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78178.597,
+                -57717.38
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 290,
+            "sap_func_loc": "SU-057-005",
+            "sap_description": "Lock 9 Audlem",
+            "sap_object_type": "010",
+            "angle": 273,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37595.415,
+                -96979.259
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 295,
+            "sap_func_loc": "SU-001-003",
+            "sap_description": "Lock 2, Wide Lock",
+            "sap_object_type": "010",
+            "angle": 245,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80336.191,
+                -40044.842
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 343,
+            "sap_func_loc": "SU-001-008",
+            "sap_description": "Top Wide Lock",
+            "sap_object_type": "010",
+            "angle": 247,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80284.683,
+                -40158.026
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 344,
+            "sap_func_loc": "SU-015-001",
+            "sap_description": "Lock 1, Northgate Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 166,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80820.103,
+                -57805.271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 345,
+            "sap_func_loc": "SU-015-002",
+            "sap_description": "Lock 2, Northgate Middle Lock",
+            "sap_object_type": "010",
+            "angle": 164,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -80781.933,
+                -57793.1
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 346,
+            "sap_func_loc": "SU-017-001",
+            "sap_description": "Lock 6, Chemistry Lock",
+            "sap_object_type": "010",
+            "angle": 197,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -77557.84,
+                -57656.357
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 347,
+            "sap_func_loc": "SU-017-003",
+            "sap_description": "Lock 7, Tarvin Lock",
+            "sap_object_type": "010",
+            "angle": 200,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76607.136,
+                -58012.303
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 348,
+            "sap_func_loc": "SU-018-002",
+            "sap_description": "Lock 8, Greenfield Lock",
+            "sap_object_type": "010",
+            "angle": 218,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75690.89,
+                -58560.815
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 349,
+            "sap_func_loc": "SU-018-005",
+            "sap_description": "Lock 9, Christleton Lock",
+            "sap_object_type": "010",
+            "angle": 221,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75186.189,
+                -58973.991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 350,
+            "sap_func_loc": "SU-031-005",
+            "sap_description": "Lock 10, Wharton's Lock",
+            "sap_object_type": "010",
+            "angle": 175,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57919.538,
+                -68176.196
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 351,
+            "sap_func_loc": "SU-033-005",
+            "sap_description": "Lock 11, Beeston Iron Lock",
+            "sap_object_type": "010",
+            "angle": 203,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -55293.287,
+                -68756.624
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 352,
+            "sap_func_loc": "SU-033-006",
+            "sap_description": "Lock 12, Beeston Stone Lock",
+            "sap_object_type": "010",
+            "angle": 228,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -54881.978,
+                -69151.403
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 353,
+            "sap_func_loc": "SU-036-001",
+            "sap_description": "Lock 14, Bunbury Lower Lock",
+            "sap_object_type": "010",
+            "angle": 225,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51299.445,
+                -70132.803
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 354,
+            "sap_func_loc": "SU-036-002",
+            "sap_description": "Lock 15, Bunbury Upper Lock",
+            "sap_object_type": "010",
+            "angle": 225,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -51269.223,
+                -70164.22
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 355,
+            "sap_func_loc": "SU-056-002",
+            "sap_description": "Audlem Lock 15",
+            "sap_object_type": "010",
+            "angle": 238,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -38315.465,
+                -95067.81
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 356,
+            "sap_func_loc": "SU-056-005",
+            "sap_description": "Audlem Lock 14",
+            "sap_object_type": "010",
+            "angle": 238,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -38137.443,
+                -95379.068
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 357,
+            "sap_func_loc": "SU-056-008",
+            "sap_description": "Audlem Lock 13",
+            "sap_object_type": "010",
+            "angle": 225,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37883.181,
+                -95686.446
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 358,
+            "sap_func_loc": "SU-057-002",
+            "sap_description": "Audlem Lock 11",
+            "sap_object_type": "010",
+            "angle": 270,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37576.903,
+                -96550.298
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 359,
+            "sap_func_loc": "SU-057-004",
+            "sap_description": "Lock 10 Audlem",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37588.563,
+                -96776.433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 360,
+            "sap_func_loc": "SU-057-008",
+            "sap_description": "Audlem Lock 7",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37615.583,
+                -97408.209
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 361,
+            "sap_func_loc": "SU-057-010",
+            "sap_description": "Audlem Lock 6",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37624.068,
+                -97614.355
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 362,
+            "sap_func_loc": "SU-057-011",
+            "sap_description": "Audlem Lock 5",
+            "sap_object_type": "010",
+            "angle": 273,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37632.528,
+                -97823.819
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 363,
+            "sap_func_loc": "SU-058-004",
+            "sap_description": "Audlem Lock 2",
+            "sap_object_type": "010",
+            "angle": 257,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37573.549,
+                -98893.598
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 364,
+            "sap_func_loc": "SU-058-006",
+            "sap_description": "Audlem Lock 1",
+            "sap_object_type": "010",
+            "angle": 266,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37533.554,
+                -99157.518
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1162,
+            "sap_func_loc": "SU-060-005",
+            "sap_description": "Adderley Lock 5",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35897.272,
+                -102086.638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1163,
+            "sap_func_loc": "SU-060-007",
+            "sap_description": "Adderley Lock 4",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35850.973,
+                -102313.88
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1164,
+            "sap_func_loc": "SU-060-009",
+            "sap_description": "Adderley Lock 3",
+            "sap_object_type": "010",
+            "angle": 258,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35804.699,
+                -102537.795
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1165,
+            "sap_func_loc": "SU-061-002",
+            "sap_description": "Adderley Lock 2",
+            "sap_object_type": "010",
+            "angle": 258,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35756.805,
+                -102756.709
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1166,
+            "sap_func_loc": "SU-061-003",
+            "sap_description": "Adderley Lock 1",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35713.907,
+                -102972.331
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1167,
+            "sap_func_loc": "SU-067-002",
+            "sap_description": "Tyrley Lock 5, Tyrley Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32755.653,
+                -113332.83
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1182,
+            "sap_func_loc": "SU-068-002",
+            "sap_description": "Tyrley Lock 3",
+            "sap_object_type": "010",
+            "angle": 247,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32567.269,
+                -113807.642
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1198,
+            "sap_func_loc": "SU-068-003",
+            "sap_description": "Tyrley Lock 2",
+            "sap_object_type": "010",
+            "angle": 230,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32443.589,
+                -114000.896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1307,
+            "sap_func_loc": "SU-068-001",
+            "sap_description": "Tyrley Lock 4",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32659.648,
+                -113594.277
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1313,
+            "sap_func_loc": "SU-109-003",
+            "sap_description": "Autherley Junction Stop Lock",
+            "sap_object_type": "010",
+            "angle": 225,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2759.949,
+                -164342.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1475,
+            "sap_func_loc": "SU-068-005",
+            "sap_description": "Tyrley Lock 1, Tyrley Top Lock",
+            "sap_object_type": "010",
+            "angle": 224,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32265.372,
+                -114185.504
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1501,
+            "sap_func_loc": "SU-097-002",
+            "sap_description": "Wheaton Aston Lock",
+            "sap_object_type": "010",
+            "angle": 228,
+            "waterway_name": "Shropshire Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4387.53,
+                -146846.97
+            ]
+        }
+    }
+]

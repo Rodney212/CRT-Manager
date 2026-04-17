@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 380,
+            "sap_func_loc": "AW-003-012",
+            "sap_description": "Kirkthorpe Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 327,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                79741.223,
+                34296.277
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 383,
+            "sap_func_loc": "AW-006-003",
+            "sap_description": "Lock 2, Birkwood Lock",
+            "sap_object_type": "010",
+            "angle": 323,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                79568.519,
+                39070.326
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 387,
+            "sap_func_loc": "AW-001-011",
+            "sap_description": "Disused Old Cut Lock",
+            "sap_object_type": "038",
+            "angle": 40,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                76741.643,
+                32073.614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 452,
+            "sap_func_loc": "AW-008-004",
+            "sap_description": "Lock 4, Foxholes Lock",
+            "sap_object_type": "038",
+            "angle": 40,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                82313.855,
+                40080.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 490,
+            "sap_func_loc": "AW-003-002",
+            "sap_description": "Lock 1, Broadreach Lock",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78325.931,
+                34148.171
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 491,
+            "sap_func_loc": "AW-007-001",
+            "sap_description": "Lock 3, Kings Road Lock",
+            "sap_object_type": "010",
+            "angle": 332,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                81925.0,
+                39753.64
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 492,
+            "sap_func_loc": "AW-010-002",
+            "sap_description": "Lock 6, Woodnook Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85063.643,
+                40932.056
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 616,
+            "sap_func_loc": "AW-009-002",
+            "sap_description": "Penbank Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 200,
+            "waterway_name": "Wakefield Branch (Aire & Calder Nav)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83529.726,
+                41083.319
+            ]
+        }
+    }
+]

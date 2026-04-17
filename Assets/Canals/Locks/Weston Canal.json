@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 9,
+            "sap_func_loc": "WC-001-002",
+            "sap_description": "Weston Lock",
+            "sap_object_type": "010",
+            "angle": 290,
+            "waterway_name": "Weston Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65272.991,
+                -33317.575
+            ]
+        }
+    }
+]

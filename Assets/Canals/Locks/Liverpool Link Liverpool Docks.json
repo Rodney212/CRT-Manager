@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 56,
+            "sap_func_loc": "PL-003-012",
+            "sap_description": "Mann Island Lock",
+            "sap_object_type": "010",
+            "angle": 97,
+            "waterway_name": "Liverpool Link (Liverpool Docks)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91584.469,
+                -18767.065
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 57,
+            "sap_func_loc": "PL-003-004",
+            "sap_description": "Prince's Lock",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Liverpool Link (Liverpool Docks)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -92035.991,
+                -17846.861
+            ]
+        }
+    }
+]

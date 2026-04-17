@@ -1,0 +1,326 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 956,
+            "sap_func_loc": "CL-019-007",
+            "sap_description": "Lock 14 Cheddleton Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 29,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14701.476,
+                -80777.988
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1009,
+            "sap_func_loc": "CL-001-012",
+            "sap_description": "Lock 2 Bedford St Top Lock",
+            "sap_object_type": "010",
+            "angle": 274,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2031.796,
+                -90298.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1132,
+            "sap_func_loc": "CL-001-010",
+            "sap_description": "Lock 1 Bedford Street",
+            "sap_object_type": "010",
+            "angle": 274,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2030.251,
+                -90255.506
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1133,
+            "sap_func_loc": "CL-001-017",
+            "sap_description": "Lock 3 Planet Lock",
+            "sap_object_type": "010",
+            "angle": 189,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1360.173,
+                -90776.069
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1134,
+            "sap_func_loc": "CL-011-001",
+            "sap_description": "Lock 5 Waterworks Lock",
+            "sap_object_type": "010",
+            "angle": 168,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4395.511,
+                -81524.843
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1135,
+            "sap_func_loc": "CL-011-003",
+            "sap_description": "Lock 6 Fenns Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4696.162,
+                -81504.31
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1136,
+            "sap_func_loc": "CL-011-009",
+            "sap_description": "Lock 9 Top Lock",
+            "sap_object_type": "010",
+            "angle": 187,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5425.929,
+                -81781.118
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1137,
+            "sap_func_loc": "CL-016-002",
+            "sap_description": "Lock 10 Hazelhurst Top Lock",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10264.812,
+                -78631.368
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1138,
+            "sap_func_loc": "CL-016-004",
+            "sap_description": "Lock 11 Hazelhurst Middle Lock",
+            "sap_object_type": "010",
+            "angle": 14,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10472.597,
+                -78681.114
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1139,
+            "sap_func_loc": "CL-016-005",
+            "sap_description": "Lock 12 Hazelhurst Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 359,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10682.034,
+                -78724.201
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1140,
+            "sap_func_loc": "CL-019-004",
+            "sap_description": "Lock 13 Cheddleton Top Lock",
+            "sap_object_type": "010",
+            "angle": 21,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14513.689,
+                -80696.49
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1141,
+            "sap_func_loc": "CL-021-001",
+            "sap_description": "Lock 15 Woods Lock",
+            "sap_object_type": "010",
+            "angle": 75,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15853.529,
+                -82505.957
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1142,
+            "sap_func_loc": "CL-025-003",
+            "sap_description": "Lock 17 Flint Mill Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19617.039,
+                -87508.944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1412,
+            "sap_func_loc": "CL-011-008",
+            "sap_description": "Lock 8 Road Lock",
+            "sap_object_type": "010",
+            "angle": 221,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5166.631,
+                -81694.976
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1442,
+            "sap_func_loc": "CL-011-006",
+            "sap_description": "Lock 7 Railway Lock",
+            "sap_object_type": "010",
+            "angle": 218,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4986.972,
+                -81555.412
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1447,
+            "sap_func_loc": "CL-028-010",
+            "sap_description": "Froghall Basin Lock",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23263.356,
+                -88787.862
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1505,
+            "sap_func_loc": "CL-022-003",
+            "sap_description": "Lock 16 Oakmeadowford Lock",
+            "sap_object_type": "010",
+            "angle": 41,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17054.954,
+                -84593.304
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1510,
+            "sap_func_loc": "CL-009-004",
+            "sap_description": "Lock 4 Engine Lock",
+            "sap_object_type": "010",
+            "angle": 98,
+            "waterway_name": "Caldon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2337.906,
+                -82644.564
+            ]
+        }
+    }
+]

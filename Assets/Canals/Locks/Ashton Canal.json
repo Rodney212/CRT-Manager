@@ -1,0 +1,344 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 38,
+            "sap_func_loc": "AN-009-003",
+            "sap_description": "Lock 7, Mill Street",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2899.391,
+                -3273.886
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 46,
+            "sap_func_loc": "AN-009-010",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3068.781,
+                -3289.495
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 63,
+            "sap_func_loc": "AN-009-017",
+            "sap_description": "Lock 4, Broming Street",
+            "sap_object_type": "010",
+            "angle": 173,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3674.221,
+                -3345.029
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 69,
+            "sap_func_loc": "AN-007-020",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -951.032,
+                -4220.423
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 107,
+            "sap_func_loc": "AN-011-001",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 137,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5430.009,
+                -4086.789
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 126,
+            "sap_func_loc": "AN-007-013",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -410.644,
+                -4331.72
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 251,
+            "sap_func_loc": "AN-005-009",
+            "sap_description": "Lock 18",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2312.692,
+                -4801.265
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 252,
+            "sap_func_loc": "AN-006-001",
+            "sap_description": "Lock 17",
+            "sap_object_type": "010",
+            "angle": 159,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1964.1,
+                -4929.79
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 253,
+            "sap_func_loc": "AN-006-002",
+            "sap_description": "Lock 17, Disused-Feed Water",
+            "sap_object_type": "038",
+            "angle": 159,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1959.039,
+                -4916.352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 254,
+            "sap_func_loc": "AN-006-008",
+            "sap_description": "Lock 16, Edge Lane",
+            "sap_object_type": "010",
+            "angle": 209,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                702.193,
+                -4656.906
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 255,
+            "sap_func_loc": "AN-007-002",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 208,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                522.521,
+                -4569.899
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 256,
+            "sap_func_loc": "AN-007-016",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -617.061,
+                -4290.199
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 257,
+            "sap_func_loc": "AN-008-002",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 195,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1325.282,
+                -4144.038
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 258,
+            "sap_func_loc": "AN-009-015",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 169,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3533.37,
+                -3322.763
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 263,
+            "sap_func_loc": "AN-011-007",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 154,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5747.925,
+                -4339.993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 270,
+            "sap_func_loc": "AN-007-009",
+            "sap_description": "Lock 13, Crabtree Lane",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.005,
+                -4401.514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 275,
+            "sap_func_loc": "AN-007-004",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                336.151,
+                -4489.636
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 277,
+            "sap_func_loc": "AN-011-003",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5578.843,
+                -4233.536
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 296,
+            "sap_func_loc": "AN-008-008",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 216,
+            "waterway_name": "Ashton Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1839.339,
+                -3847.77
+            ]
+        }
+    }
+]

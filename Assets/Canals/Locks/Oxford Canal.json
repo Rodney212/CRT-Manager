@@ -1,0 +1,830 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 987,
+            "sap_func_loc": "OX-049-001",
+            "sap_description": "Lock 13, Napton",
+            "sap_object_type": "010",
+            "angle": 269,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93476.129,
+                -234116.344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1049,
+            "sap_func_loc": "OX-048-015",
+            "sap_description": "Lock 12, Napton",
+            "sap_object_type": "010",
+            "angle": 268,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93475.182,
+                -233864.67
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1073,
+            "sap_func_loc": "OX-025-018",
+            "sap_description": "Lock 5, Hillmorton Middle Lock (Os)",
+            "sap_object_type": "010",
+            "angle": 207,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106901.322,
+                -210361.227
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1212,
+            "sap_func_loc": "OX-026-001",
+            "sap_description": "Lock 7, Hillmorton Top Lock (Os)",
+            "sap_object_type": "010",
+            "angle": 197,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107230.269,
+                -210479.556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1213,
+            "sap_func_loc": "OX-048-009",
+            "sap_description": "Lock 8, Napton Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93560.049,
+                -232613.548
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1214,
+            "sap_func_loc": "OX-048-013",
+            "sap_description": "Lock 11, Napton",
+            "sap_object_type": "010",
+            "angle": 270,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93422.305,
+                -233409.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1215,
+            "sap_func_loc": "OX-049-004",
+            "sap_description": "Lock 14, Adkins Lock",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93662.592,
+                -234931.849
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1216,
+            "sap_func_loc": "OX-050-004",
+            "sap_description": "Lock 15, Marston Doles Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 235,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94701.349,
+                -236098.352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1232,
+            "sap_func_loc": "OX-001-002",
+            "sap_description": "Hawkesbury Lock",
+            "sap_object_type": "010",
+            "angle": 152,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78244.589,
+                -193285.405
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1233,
+            "sap_func_loc": "OX-025-008",
+            "sap_description": "Lock 2, Hillmorton Bottom Lock (Tp)",
+            "sap_object_type": "010",
+            "angle": 265,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106817.337,
+                -209965.313
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1234,
+            "sap_func_loc": "OX-025-009",
+            "sap_description": "Lock 3, Hillmorton Bottom Lock (Os)",
+            "sap_object_type": "010",
+            "angle": 266,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106828.816,
+                -209962.16
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1235,
+            "sap_func_loc": "OX-025-017",
+            "sap_description": "Lock 4, Hillmorton Middle Lock (Tp)",
+            "sap_object_type": "010",
+            "angle": 207,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                106888.156,
+                -210369.278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1236,
+            "sap_func_loc": "OX-025-020",
+            "sap_description": "Lock 6, Hillmorton Top Lock (Tp)",
+            "sap_object_type": "010",
+            "angle": 197,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107217.103,
+                -210487.606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1413,
+            "sap_func_loc": "OX-048-012",
+            "sap_description": "Lock 10, Napton",
+            "sap_object_type": "010",
+            "angle": 281,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93460.645,
+                -233140.544
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1473,
+            "sap_func_loc": "OX-048-010",
+            "sap_description": "Lock 9, Napton",
+            "sap_object_type": "010",
+            "angle": 281,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93496.62,
+                -232951.288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1495,
+            "sap_func_loc": "OX-051-002",
+            "sap_description": "Lock 16, Marston Doles Top Lock",
+            "sap_object_type": "010",
+            "angle": 285,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94727.291,
+                -236461.286
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1527,
+            "sap_func_loc": "OX-089-007",
+            "sap_description": "Lock 33, Aynho Weir Lock",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99050.797,
+                -276513.7
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1528,
+            "sap_func_loc": "OX-069-002",
+            "sap_description": "Lock 19, Claydon Middle Lock",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94599.958,
+                -249946.709
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1534,
+            "sap_func_loc": "OX-076-002",
+            "sap_description": "Lock 27, Little Bourton",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94325.347,
+                -260082.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1553,
+            "sap_func_loc": "OX-070-006",
+            "sap_description": "Lock 22, Elkingtons Lock",
+            "sap_object_type": "010",
+            "angle": 84,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95049.535,
+                -252493.304
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1555,
+            "sap_func_loc": "OX-110-001",
+            "sap_description": "Lock 40, Bakers Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96362.104,
+                -302248.296
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1557,
+            "sap_func_loc": "OX-111-002",
+            "sap_description": "Lock 41, Shipton Lock",
+            "sap_object_type": "010",
+            "angle": 83,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97726.947,
+                -303690.665
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1572,
+            "sap_func_loc": "OX-120-002",
+            "sap_description": "Lock 45, Wolvercote Lock",
+            "sap_object_type": "010",
+            "angle": 55,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98572.372,
+                -315245.046
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1579,
+            "sap_func_loc": "OX-086-001",
+            "sap_description": "Lock 31, Kings Sutton Lock",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98471.772,
+                -272047.528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1590,
+            "sap_func_loc": "OX-069-005",
+            "sap_description": "Lock 21, Claydon Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94656.367,
+                -250527.861
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1591,
+            "sap_func_loc": "OX-071-006",
+            "sap_description": "Lock 23, Varneys Lock",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95351.62,
+                -253057.039
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1592,
+            "sap_func_loc": "OX-071-008",
+            "sap_description": "Lock 24, Broadmoor Lock",
+            "sap_object_type": "010",
+            "angle": 85,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95631.406,
+                -253566.733
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1593,
+            "sap_func_loc": "OX-072-005",
+            "sap_description": "Lock 25, Cropredy",
+            "sap_object_type": "010",
+            "angle": 112,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95344.275,
+                -255396.254
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1594,
+            "sap_func_loc": "OX-075-002",
+            "sap_description": "Lock 26, Slat Mill Lock",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95403.2,
+                -258291.042
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1595,
+            "sap_func_loc": "OX-077-006",
+            "sap_description": "Lock 28, Hardwick Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94256.027,
+                -261951.973
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1596,
+            "sap_func_loc": "OX-083-009",
+            "sap_description": "Lock 30, Grants Lock",
+            "sap_object_type": "010",
+            "angle": 48,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96917.46,
+                -269170.754
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1597,
+            "sap_func_loc": "OX-104-002",
+            "sap_description": "Lock 38, Northbrook Lock",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97998.164,
+                -295889.472
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1598,
+            "sap_func_loc": "OX-107-001",
+            "sap_description": "Lock 39, Pigeons Lock",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97682.219,
+                -299789.239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1599,
+            "sap_func_loc": "OX-115-001",
+            "sap_description": "Lock 42, Roundham Lock",
+            "sap_object_type": "010",
+            "angle": 59,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97037.642,
+                -308499.707
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1600,
+            "sap_func_loc": "OX-116-003",
+            "sap_description": "Lock 43, Kidlington Green Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98338.021,
+                -310471.483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1601,
+            "sap_func_loc": "OX-123-007",
+            "sap_description": "Lock 46, Isis Lock",
+            "sap_object_type": "010",
+            "angle": 52,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100433.733,
+                -320515.487
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1626,
+            "sap_func_loc": "OX-069-004",
+            "sap_description": "Lock 20, Claydon Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94658.082,
+                -250169.07
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1627,
+            "sap_func_loc": "OX-094-001",
+            "sap_description": "Lock 34, Somerton Deep Lock",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99068.282,
+                -282804.486
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1693,
+            "sap_func_loc": "OX-098-006",
+            "sap_description": "Lock 36, Allens Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98788.112,
+                -288904.102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1694,
+            "sap_func_loc": "OX-097-002",
+            "sap_description": "Lock 35, Heyford Common",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97787.179,
+                -287602.099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1701,
+            "sap_func_loc": "OX-068-004",
+            "sap_description": "Lock 17, Claydon Top Lock",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94632.212,
+                -249278.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1706,
+            "sap_func_loc": "OX-089-003",
+            "sap_description": "Lock 32, Nell Bridge Lock",
+            "sap_object_type": "010",
+            "angle": 97,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                99141.081,
+                -275579.775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1708,
+            "sap_func_loc": "OX-119-001",
+            "sap_description": "Lock 44, Dukes Lock",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97715.925,
+                -313856.416
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1709,
+            "sap_func_loc": "OX-103-002",
+            "sap_description": "Lock 37, Dashwood Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                97689.295,
+                -294540.225
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1712,
+            "sap_func_loc": "OX-068-005",
+            "sap_description": "Lock 18, Claydon",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94542.192,
+                -249510.673
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1721,
+            "sap_func_loc": "OX-080-005",
+            "sap_description": "Lock 29, Banbury Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Oxford Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93448.574,
+                -265148.931
+            ]
+        }
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 15,
+            "sap_func_loc": "MA-028-005",
+            "sap_description": "Bosley Lock 9",
+            "sap_object_type": "010",
+            "angle": 44,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3422.277,
+                -58720.142
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 29,
+            "sap_func_loc": "MA-027-005",
+            "sap_description": "Bosley Lock 3",
+            "sap_object_type": "010",
+            "angle": 104,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2903.055,
+                -57346.679
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 81,
+            "sap_func_loc": "MA-028-009",
+            "sap_description": "Bosley Lock 11",
+            "sap_object_type": "010",
+            "angle": 62,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3647.625,
+                -58950.151
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 112,
+            "sap_func_loc": "MA-043-002",
+            "sap_description": "Lock 13, Hall Green Stop Lock",
+            "sap_object_type": "010",
+            "angle": 124,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8657.513,
+                -74605.966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 229,
+            "sap_func_loc": "MA-027-001",
+            "sap_description": "Bosley Lock 1",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3131.456,
+                -56572.839
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 230,
+            "sap_func_loc": "MA-027-006",
+            "sap_description": "Bosley Lock 4",
+            "sap_object_type": "010",
+            "angle": 78,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2915.073,
+                -57522.031
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 231,
+            "sap_func_loc": "MA-027-007",
+            "sap_description": "Bosley Lock 5",
+            "sap_object_type": "010",
+            "angle": 79,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2958.744,
+                -57695.643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 232,
+            "sap_func_loc": "MA-028-001",
+            "sap_description": "Bosley Lock 6",
+            "sap_object_type": "010",
+            "angle": 74,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3064.541,
+                -58109.626
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 233,
+            "sap_func_loc": "MA-028-002",
+            "sap_description": "Bosley Lock 7",
+            "sap_object_type": "010",
+            "angle": 56,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3193.488,
+                -58441.709
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 234,
+            "sap_func_loc": "MA-028-003",
+            "sap_description": "Bosley Lock 8",
+            "sap_object_type": "010",
+            "angle": 46,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3300.422,
+                -58598.476
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 235,
+            "sap_func_loc": "MA-028-007",
+            "sap_description": "Bosley Lock 10",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3565.801,
+                -58850.115
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 236,
+            "sap_func_loc": "MA-028-011",
+            "sap_description": "Bosley Lock 12",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3642.881,
+                -59082.084
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 279,
+            "sap_func_loc": "MA-027-004",
+            "sap_description": "Bosley Lock 2",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Macclesfield Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2949.37,
+                -57177.884
+            ]
+        }
+    }
+]

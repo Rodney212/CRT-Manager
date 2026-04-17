@@ -1,0 +1,1046 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 959,
+            "sap_func_loc": "WB-018-004",
+            "sap_description": "Lock 17, Hanbury Park",
+            "sap_object_type": "010",
+            "angle": 118,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8313.235,
+                -226069.787
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 990,
+            "sap_func_loc": "WB-026-002",
+            "sap_description": "Lock 55",
+            "sap_object_type": "010",
+            "angle": 141,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16695.994,
+                -218927.991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1000,
+            "sap_func_loc": "WB-021-011",
+            "sap_description": "Lock 23",
+            "sap_object_type": "010",
+            "angle": 155,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10999.44,
+                -221825.718
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1006,
+            "sap_func_loc": "WB-024-011",
+            "sap_description": "Lock 41",
+            "sap_object_type": "010",
+            "angle": 168,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14813.501,
+                -219856.981
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1007,
+            "sap_func_loc": "WB-023-011",
+            "sap_description": "Lock 33",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13633.348,
+                -220479.73
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1023,
+            "sap_func_loc": "WB-009-002",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1265.057,
+                -236676.833
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1031,
+            "sap_func_loc": "WB-008-006",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 142,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                855.085,
+                -236976.708
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1033,
+            "sap_func_loc": "WB-004-005",
+            "sap_description": "Lock 6, Gregorys Mill",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5106.614,
+                -238767.9
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1034,
+            "sap_func_loc": "WB-024-009",
+            "sap_description": "Lock 40",
+            "sap_object_type": "010",
+            "angle": 151,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14664.939,
+                -219915.992
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1035,
+            "sap_func_loc": "WB-019-006",
+            "sap_description": "Lock 21",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9104.068,
+                -224373.977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1039,
+            "sap_func_loc": "WB-025-005",
+            "sap_description": "Lock 47",
+            "sap_object_type": "010",
+            "angle": 169,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15806.254,
+                -219710.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1041,
+            "sap_func_loc": "WB-023-002",
+            "sap_description": "Lock 28",
+            "sap_object_type": "010",
+            "angle": 99,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12595.063,
+                -220670.387
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1071,
+            "sap_func_loc": "WB-024-008",
+            "sap_description": "Lock 39",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14531.086,
+                -219993.004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1078,
+            "sap_func_loc": "WB-006-005",
+            "sap_description": "Lock 9, Blackpole",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2286.181,
+                -237093.859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1094,
+            "sap_func_loc": "WB-024-013",
+            "sap_description": "Lock 43",
+            "sap_object_type": "010",
+            "angle": 174,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15125.368,
+                -219819.17
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1223,
+            "sap_func_loc": "WB-025-012",
+            "sap_description": "Lock 52",
+            "sap_object_type": "010",
+            "angle": 111,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16385.809,
+                -219270.244
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1314,
+            "sap_func_loc": "WB-019-002",
+            "sap_description": "Lock 18",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8595.889,
+                -225127.183
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1337,
+            "sap_func_loc": "WB-022-007",
+            "sap_description": "Lock 27",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12340.836,
+                -221223.82
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1378,
+            "sap_func_loc": "WB-022-005",
+            "sap_description": "Lock 26",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12042.274,
+                -221454.85
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1379,
+            "sap_func_loc": "WB-023-005",
+            "sap_description": "Lock 29",
+            "sap_object_type": "010",
+            "angle": 184,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13020.878,
+                -220249.379
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1380,
+            "sap_func_loc": "WB-023-008",
+            "sap_description": "Lock 31",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13311.599,
+                -220355.558
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1381,
+            "sap_func_loc": "WB-024-001",
+            "sap_description": "Lock 34",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13855.38,
+                -220441.932
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1382,
+            "sap_func_loc": "WB-024-002",
+            "sap_description": "Lock 35",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13995.742,
+                -220355.086
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1383,
+            "sap_func_loc": "WB-024-005",
+            "sap_description": "Lock 36",
+            "sap_object_type": "010",
+            "angle": 141,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14137.733,
+                -220258.42
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1384,
+            "sap_func_loc": "WB-024-007",
+            "sap_description": "Lock 38",
+            "sap_object_type": "010",
+            "angle": 144,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14398.876,
+                -220079.838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1385,
+            "sap_func_loc": "WB-024-012",
+            "sap_description": "Lock 42",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14965.351,
+                -219837.257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1386,
+            "sap_func_loc": "WB-025-001",
+            "sap_description": "Lock 44",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15306.609,
+                -219789.616
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1387,
+            "sap_func_loc": "WB-025-003",
+            "sap_description": "Lock 45",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15482.949,
+                -219753.521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1388,
+            "sap_func_loc": "WB-025-004",
+            "sap_description": "Lock 46",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15644.602,
+                -219733.806
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1389,
+            "sap_func_loc": "WB-025-006",
+            "sap_description": "Lock 48",
+            "sap_object_type": "010",
+            "angle": 163,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15954.838,
+                -219673.109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1390,
+            "sap_func_loc": "WB-025-007",
+            "sap_description": "Lock 49",
+            "sap_object_type": "010",
+            "angle": 159,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16109.953,
+                -219630.487
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1391,
+            "sap_func_loc": "WB-025-009",
+            "sap_description": "Lock 50",
+            "sap_object_type": "010",
+            "angle": 143,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16248.732,
+                -219560.045
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1392,
+            "sap_func_loc": "WB-025-010",
+            "sap_description": "Lock 51",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16335.234,
+                -219420.868
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1393,
+            "sap_func_loc": "WB-025-013",
+            "sap_description": "Lock 53",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16467.421,
+                -219140.888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1394,
+            "sap_func_loc": "WB-026-001",
+            "sap_description": "Lock 54",
+            "sap_object_type": "010",
+            "angle": 138,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16580.071,
+                -219027.891
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1395,
+            "sap_func_loc": "WB-026-003",
+            "sap_description": "Lock 56",
+            "sap_object_type": "010",
+            "angle": 139,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16813.553,
+                -218826.454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1396,
+            "sap_func_loc": "WB-026-004",
+            "sap_description": "Lock 57",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16929.48,
+                -218718.367
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1397,
+            "sap_func_loc": "WB-027-003",
+            "sap_description": "Lock 58",
+            "sap_object_type": "010",
+            "angle": 168,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17933.783,
+                -218176.171
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1401,
+            "sap_func_loc": "WB-001-002",
+            "sap_description": "Lock 1 Diglis",
+            "sap_object_type": "010",
+            "angle": 146,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5729.318,
+                -243424.836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1402,
+            "sap_func_loc": "WB-001-005",
+            "sap_description": "Lock 2 Diglis",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5579.833,
+                -243324.806
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1403,
+            "sap_func_loc": "WB-002-007",
+            "sap_description": "Lock 4, Blockhouse",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4857.273,
+                -242106.455
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1404,
+            "sap_func_loc": "WB-005-003",
+            "sap_description": "Lock 7, Bilford",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4458.013,
+                -238285.798
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1405,
+            "sap_func_loc": "WB-005-007",
+            "sap_description": "Lock 8, Bilford",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4315.065,
+                -238140.013
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1406,
+            "sap_func_loc": "WB-007-004",
+            "sap_description": "Lock 10, Tolladine",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -878.222,
+                -237150.702
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1407,
+            "sap_func_loc": "WB-009-003",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 163,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1499.454,
+                -236558.689
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1408,
+            "sap_func_loc": "WB-009-004",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1683.546,
+                -236537.049
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1409,
+            "sap_func_loc": "WB-009-005",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1945.896,
+                -236534.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1410,
+            "sap_func_loc": "WB-019-004",
+            "sap_description": "Lock 19",
+            "sap_object_type": "010",
+            "angle": 121,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8776.546,
+                -224762.132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1411,
+            "sap_func_loc": "WB-019-005",
+            "sap_description": "Lock 20",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8967.147,
+                -224503.398
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1423,
+            "sap_func_loc": "WB-023-009",
+            "sap_description": "Lock 32",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13453.697,
+                -220416.019
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1427,
+            "sap_func_loc": "WB-023-006",
+            "sap_description": "Lock 30",
+            "sap_object_type": "010",
+            "angle": 205,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13169.497,
+                -220291.825
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1431,
+            "sap_func_loc": "WB-009-007",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2156.108,
+                -236536.039
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1454,
+            "sap_func_loc": "WB-019-007",
+            "sap_description": "Lock 22",
+            "sap_object_type": "010",
+            "angle": 126,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9210.0,
+                -224256.048
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1472,
+            "sap_func_loc": "WB-022-003",
+            "sap_description": "Lock 24",
+            "sap_object_type": "010",
+            "angle": 156,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11697.929,
+                -221591.004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1479,
+            "sap_func_loc": "WB-004-004",
+            "sap_description": "Lock 5, Gregorys Mill",
+            "sap_object_type": "010",
+            "angle": 146,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5371.638,
+                -238938.552
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1483,
+            "sap_func_loc": "WB-002-002",
+            "sap_description": "Lock 3, Sidbury (Commandery)",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5098.753,
+                -242492.452
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1488,
+            "sap_func_loc": "WB-022-004",
+            "sap_description": "Lock 25",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11843.165,
+                -221525.405
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1492,
+            "sap_func_loc": "WB-024-006",
+            "sap_description": "Lock 37",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Worcester & Birmingham Canal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14268.302,
+                -220168.31
+            ]
+        }
+    }
+]

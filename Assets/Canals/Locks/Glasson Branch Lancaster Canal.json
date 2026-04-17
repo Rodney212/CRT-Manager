@@ -1,0 +1,128 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 74,
+            "sap_func_loc": "LG-001-004",
+            "sap_description": "Lock No.2",
+            "sap_object_type": "010",
+            "angle": 154,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -69824.456,
+                90180.171
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 88,
+            "sap_func_loc": "LG-003-003",
+            "sap_description": "Lock No.6",
+            "sap_object_type": "010",
+            "angle": 204,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72622.541,
+                91984.108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 108,
+            "sap_func_loc": "LG-002-002",
+            "sap_description": "Lock No.4",
+            "sap_object_type": "010",
+            "angle": 231,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -71544.58,
+                90670.99
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 150,
+            "sap_func_loc": "LG-001-006",
+            "sap_description": "Lock No.3",
+            "sap_object_type": "010",
+            "angle": 186,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -70394.73,
+                90022.28
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 152,
+            "sap_func_loc": "LG-005-003",
+            "sap_description": "Lock No.7, Glasson Basin Lock",
+            "sap_object_type": "010",
+            "angle": 233,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75299.86,
+                93096.137
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 285,
+            "sap_func_loc": "LG-003-002",
+            "sap_description": "Lock No.5",
+            "sap_object_type": "010",
+            "angle": 234,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72170.165,
+                91626.889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 286,
+            "sap_func_loc": "LG-001-002",
+            "sap_description": "Lock No.1",
+            "sap_object_type": "010",
+            "angle": 155,
+            "waterway_name": "Glasson Branch (Lancaster Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -69162.498,
+                90490.485
+            ]
+        }
+    }
+]

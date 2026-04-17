@@ -1,0 +1,686 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 983,
+            "sap_func_loc": "BF-011-001",
+            "sap_description": "Lock 1, Minworth",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41823.083,
+                -181489.953
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 984,
+            "sap_func_loc": "BF-017-003",
+            "sap_description": "Lock 4, Curdworth",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50273.527,
+                -176969.049
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 994,
+            "sap_func_loc": "BF-017-005",
+            "sap_description": "Lock 6, Curdworth",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50543.291,
+                -176410.537
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1038,
+            "sap_func_loc": "BF-001-010",
+            "sap_description": "Farmers Bridge Lock 3",
+            "sap_object_type": "010",
+            "angle": 337,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29093.376,
+                -189018.137
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1046,
+            "sap_func_loc": "BF-001-018",
+            "sap_description": "Farmers Bridge Lock 8",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29516.664,
+                -188708.102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1063,
+            "sap_func_loc": "BF-016-008",
+            "sap_description": "Lock 2, Curdworth",
+            "sap_object_type": "010",
+            "angle": 311,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50065.567,
+                -177259.533
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1072,
+            "sap_func_loc": "BF-003-003",
+            "sap_description": "Lock 1, Aston Top Lock",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31528.358,
+                -187358.439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1080,
+            "sap_func_loc": "BF-001-006",
+            "sap_description": "Farmers Bridge Lock 1, Top Lock",
+            "sap_object_type": "010",
+            "angle": 338,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28880.187,
+                -189104.963
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1082,
+            "sap_func_loc": "BF-019-005",
+            "sap_description": "Lock 10, Curdworth",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51766.253,
+                -173184.031
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1083,
+            "sap_func_loc": "BF-004-008",
+            "sap_description": "Aston Lock 9",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32726.044,
+                -185858.028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1090,
+            "sap_func_loc": "BF-005-002",
+            "sap_description": "Aston Lock 11",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33434.384,
+                -184963.295
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1257,
+            "sap_func_loc": "BF-001-009",
+            "sap_description": "Farmers Bridge Lock 2",
+            "sap_object_type": "010",
+            "angle": 338,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28988.421,
+                -189060.73
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1258,
+            "sap_func_loc": "BF-001-011",
+            "sap_description": "Farmers Bridge Lock 4",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29186.86,
+                -188973.888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1259,
+            "sap_func_loc": "BF-001-013",
+            "sap_description": "Farmers Bridge Lock 5",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29298.417,
+                -188896.797
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1260,
+            "sap_func_loc": "BF-001-014",
+            "sap_description": "Farmers Bridge Lock 6",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29372.259,
+                -188832.805
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1261,
+            "sap_func_loc": "BF-001-016",
+            "sap_description": "Farmers Bridge Lock 7",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29444.461,
+                -188770.453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1262,
+            "sap_func_loc": "BF-001-022",
+            "sap_description": "Farmers Bridge Lock 9",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29590.503,
+                -188649.04
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1263,
+            "sap_func_loc": "BF-001-023",
+            "sap_description": "Farmers Bridge Lock 10",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29628.245,
+                -188617.867
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1264,
+            "sap_func_loc": "BF-001-024",
+            "sap_description": "Farmers Bridge Lock 11",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29726.728,
+                -188517.755
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1265,
+            "sap_func_loc": "BF-002-001",
+            "sap_description": "Farmers Bridge Lock 12",
+            "sap_object_type": "010",
+            "angle": 321,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29907.295,
+                -188327.369
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1266,
+            "sap_func_loc": "BF-003-005",
+            "sap_description": "Aston Lock 2",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31630.118,
+                -187284.637
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1267,
+            "sap_func_loc": "BF-003-007",
+            "sap_description": "Aston Lock 3",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31705.681,
+                -187189.428
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1268,
+            "sap_func_loc": "BF-003-009",
+            "sap_description": "Aston Lock 5",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31855.185,
+                -186992.43
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1269,
+            "sap_func_loc": "BF-003-011",
+            "sap_description": "Aston Lock 6",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31930.759,
+                -186893.932
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1270,
+            "sap_func_loc": "BF-003-014",
+            "sap_description": "Aston Lock 7",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32080.273,
+                -186696.932
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1271,
+            "sap_func_loc": "BF-003-015",
+            "sap_description": "Aston Lock 8",
+            "sap_object_type": "010",
+            "angle": 306,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32167.351,
+                -186585.301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1272,
+            "sap_func_loc": "BF-004-011",
+            "sap_description": "Aston Lock 10",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33185.807,
+                -185498.804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1273,
+            "sap_func_loc": "BF-011-007",
+            "sap_description": "Lock 2, Minworth",
+            "sap_object_type": "010",
+            "angle": 323,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42415.209,
+                -180981.753
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1289,
+            "sap_func_loc": "BF-012-006",
+            "sap_description": "Lock 3, Minworth",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43843.02,
+                -180319.793
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1290,
+            "sap_func_loc": "BF-016-001",
+            "sap_description": "Lock 1, Curdworth Top Lock",
+            "sap_object_type": "010",
+            "angle": 322,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49055.847,
+                -178187.103
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1291,
+            "sap_func_loc": "BF-017-001",
+            "sap_description": "Lock 3, Curdworth",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50185.932,
+                -177121.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1292,
+            "sap_func_loc": "BF-017-004",
+            "sap_description": "Lock 5, Curdworth",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50366.197,
+                -176778.504
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1293,
+            "sap_func_loc": "BF-018-001",
+            "sap_description": "Lock 7, Curdworth",
+            "sap_object_type": "010",
+            "angle": 295,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50917.335,
+                -175645.019
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1294,
+            "sap_func_loc": "BF-018-005",
+            "sap_description": "Lock 8, Curdworth",
+            "sap_object_type": "010",
+            "angle": 282,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51366.621,
+                -174557.102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1295,
+            "sap_func_loc": "BF-018-008",
+            "sap_description": "Lock 9, Curdworth",
+            "sap_object_type": "010",
+            "angle": 283,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51443.719,
+                -174165.609
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1312,
+            "sap_func_loc": "BF-020-002",
+            "sap_description": "Lock 11, Curdworth",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52085.641,
+                -172187.513
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1450,
+            "sap_func_loc": "BF-002-004",
+            "sap_description": "Farmers Bridge Lock 13, Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 320,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30082.891,
+                -188182.99
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1511,
+            "sap_func_loc": "BF-003-008",
+            "sap_description": "Aston Lock 4",
+            "sap_object_type": "010",
+            "angle": 308,
+            "waterway_name": "Birmingham & Fazeley Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31781.249,
+                -187092.574
+            ]
+        }
+    }
+]

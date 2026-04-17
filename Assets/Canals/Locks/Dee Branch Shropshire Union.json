@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 103,
+            "sap_func_loc": "UD-001-008",
+            "sap_description": "Lock No 4, River Dee Lock, Dee Branch",
+            "sap_object_type": "038",
+            "angle": null,
+            "waterway_name": "Dee Branch (Shropshire Union)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81353.122,
+                -57950.62
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 104,
+            "sap_func_loc": "UD-001-006",
+            "sap_description": "Lock No 3, River Dee Lock, Dee Branch",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Dee Branch (Shropshire Union)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81270.121,
+                -57926.188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 105,
+            "sap_func_loc": "UD-001-003",
+            "sap_description": "Lock No 2, Bridge Lock, Dee Branch",
+            "sap_object_type": "010",
+            "angle": 84,
+            "waterway_name": "Dee Branch (Shropshire Union)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81071.7,
+                -57805.098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 106,
+            "sap_func_loc": "UD-001-001",
+            "sap_description": "Lock No 1, Graving Lock, Dee Branch",
+            "sap_object_type": "010",
+            "angle": 84,
+            "waterway_name": "Dee Branch (Shropshire Union)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81106.244,
+                -57575.035
+            ]
+        }
+    }
+]

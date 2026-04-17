@@ -1,0 +1,218 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 370,
+            "sap_func_loc": "AL-010-001",
+            "sap_description": "Lock 5, Woodlesford Lock",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80871.17,
+                48263.936
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 453,
+            "sap_func_loc": "AL-011-002",
+            "sap_description": "Lock 6, Fleet Lock",
+            "sap_object_type": "038",
+            "angle": 135,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                82958.802,
+                46658.247
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 454,
+            "sap_func_loc": "AL-004-006",
+            "sap_description": "Lock 3A Knostrop Fall (Disused) Lock",
+            "sap_object_type": "038",
+            "angle": 60,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                73373.06,
+                51325.485
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 483,
+            "sap_func_loc": "AL-002-008",
+            "sap_description": "Lock 1, Leeds Lock",
+            "sap_object_type": "010",
+            "angle": 30,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                71113.757,
+                54290.704
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 484,
+            "sap_func_loc": "AL-004-005",
+            "sap_description": "Lock 3, Knostrop Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                73380.003,
+                51352.528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 485,
+            "sap_func_loc": "AL-017-002",
+            "sap_description": "Lock 9, Castleford Junction Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90632.453,
+                42813.168
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 486,
+            "sap_func_loc": "AL-018-007",
+            "sap_description": "Lock 10, Bulholme Lock",
+            "sap_object_type": "010",
+            "angle": 332,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                92081.606,
+                43513.675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 487,
+            "sap_func_loc": "AL-026-003",
+            "sap_description": "Lock 11, Ferrybridge Flood Lock",
+            "sap_object_type": "010",
+            "angle": 33,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100733.32,
+                39549.663
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 488,
+            "sap_func_loc": "AL-035-002",
+            "sap_description": "Lock 12, Whitley Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114404.189,
+                35487.147
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 489,
+            "sap_func_loc": "AL-041-002",
+            "sap_description": "Lock 13, Pollington Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122635.299,
+                30503.116
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 620,
+            "sap_func_loc": "AL-008-001",
+            "sap_description": "Lock 4, Fishpond Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78718.575,
+                49197.864
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 640,
+            "sap_func_loc": "AL-012-003",
+            "sap_description": "Lock 7, Lemonroyd Lock",
+            "sap_object_type": "010",
+            "angle": 58,
+            "waterway_name": "Aire & Calder Navigation Main Line"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83399.813,
+                45664.834
+            ]
+        }
+    }
+]

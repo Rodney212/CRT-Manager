@@ -1,0 +1,1910 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 819,
+            "sap_func_loc": "KA-089-014",
+            "sap_description": "Lock 26, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14600.226,
+                -392700.782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 823,
+            "sap_func_loc": "KA-089-013",
+            "sap_description": "Lock 27, Marsh Lane Lock",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14859.221,
+                -392753.535
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 824,
+            "sap_func_loc": "KA-093-008",
+            "sap_description": "Lock 20, Seend Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8554.731,
+                -392903.474
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 825,
+            "sap_func_loc": "KA-014-004",
+            "sap_description": "Lock 98, Ufton Lock",
+            "sap_object_type": "038",
+            "angle": 336,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                117793.877,
+                -381900.116
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 826,
+            "sap_func_loc": "KA-136-008",
+            "sap_description": "Lock 2, Keynsham Lock",
+            "sap_object_type": "010",
+            "angle": 235,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -35687.498,
+                -380763.03
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 827,
+            "sap_func_loc": "KA-131-003",
+            "sap_description": "Lock 4, Saltford Lock",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -30239.983,
+                -382554.624
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 828,
+            "sap_func_loc": "KA-093-006",
+            "sap_description": "Lock 21, Seend Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8888.679,
+                -392789.255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 829,
+            "sap_func_loc": "KA-106-004",
+            "sap_description": "Lock 14, Bradford On Avon Lock",
+            "sap_object_type": "010",
+            "angle": 245,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8960.402,
+                -394771.936
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 830,
+            "sap_func_loc": "KA-094-005",
+            "sap_description": "Lock 17, Seend Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 186,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7303.054,
+                -392879.54
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 831,
+            "sap_func_loc": "KA-094-003",
+            "sap_description": "Lock 18, Seend Lock",
+            "sap_object_type": "010",
+            "angle": 184,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7849.809,
+                -392922.043
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 832,
+            "sap_func_loc": "KA-129-002",
+            "sap_description": "Lock 5, Kelston Lock",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -30875.035,
+                -384180.751
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 833,
+            "sap_func_loc": "KA-121-011",
+            "sap_description": "Lock 8/9, Bath Deep Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20141.295,
+                -388398.232
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 834,
+            "sap_func_loc": "KA-121-005",
+            "sap_description": "Lock 11, Horse Shoe Bridge Lock",
+            "sap_object_type": "010",
+            "angle": 133,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19786.307,
+                -388045.332
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 835,
+            "sap_func_loc": "KA-007-003",
+            "sap_description": "Lock 103, Burghfield Lock",
+            "sap_object_type": "010",
+            "angle": 18,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                126799.706,
+                -378359.034
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 836,
+            "sap_func_loc": "KA-121-002",
+            "sap_description": "Lock 13, Bath Top Lock",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19770.016,
+                -387771.022
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 837,
+            "sap_func_loc": "KA-061-003",
+            "sap_description": "Lock 53, Brimslade Lock 53",
+            "sap_object_type": "010",
+            "angle": 173,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52453.517,
+                -389726.639
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 838,
+            "sap_func_loc": "KA-061-001",
+            "sap_description": "Lock 54, Cadley Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52840.595,
+                -389705.782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 839,
+            "sap_func_loc": "KA-090-004",
+            "sap_description": "Lock 23, Foxhangers Lock",
+            "sap_object_type": "010",
+            "angle": 199,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13920.712,
+                -392502.436
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 840,
+            "sap_func_loc": "KA-056-003",
+            "sap_description": "Lock 58, Crofton Lock",
+            "sap_object_type": "010",
+            "angle": 7,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60067.663,
+                -391847.022
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 841,
+            "sap_func_loc": "KA-062-001",
+            "sap_description": "Lock 52, Heathy Close Lock",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51212.714,
+                -390101.649
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 842,
+            "sap_func_loc": "KA-043-002",
+            "sap_description": "Lock 75, Dunmill Lock",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                75187.721,
+                -382195.118
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 843,
+            "sap_func_loc": "KA-062-003",
+            "sap_description": "Lock 51, Wootton Rivers",
+            "sap_object_type": "010",
+            "angle": 138,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50678.726,
+                -390490.756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 844,
+            "sap_func_loc": "KA-055-009",
+            "sap_description": "Lock 60, Crofton Lock",
+            "sap_object_type": "010",
+            "angle": 312,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60845.609,
+                -391660.216
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 845,
+            "sap_func_loc": "KA-054-002",
+            "sap_description": "Lock 63, Beech Grove Lock",
+            "sap_object_type": "010",
+            "angle": 322,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62350.269,
+                -390111.426
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 846,
+            "sap_func_loc": "KA-053-004",
+            "sap_description": "Lock 64, Church Lock",
+            "sap_object_type": "010",
+            "angle": 300,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                63418.422,
+                -388645.229
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 847,
+            "sap_func_loc": "KA-046-004",
+            "sap_description": "Lock 72, Cobblers Lock",
+            "sap_object_type": "010",
+            "angle": 338,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                70372.475,
+                -381771.767
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 848,
+            "sap_func_loc": "KA-050-004",
+            "sap_description": "Lock 67, Little Bedwyn Lock",
+            "sap_object_type": "010",
+            "angle": 303,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                65432.701,
+                -385708.563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 849,
+            "sap_func_loc": "KA-047-003",
+            "sap_description": "Lock 71, Picketsfield",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                69383.045,
+                -382320.878
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 850,
+            "sap_func_loc": "KA-046-001",
+            "sap_description": "Lock 73, Hungerford Marsh Lock",
+            "sap_object_type": "010",
+            "angle": 355,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                71149.713,
+                -381632.261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 851,
+            "sap_func_loc": "KA-088-011",
+            "sap_description": "Lock 41, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16753.508,
+                -392773.615
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 852,
+            "sap_func_loc": "KA-088-005",
+            "sap_description": "Lock 44, Sir Hugh Stockwell",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17081.207,
+                -392759.104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 853,
+            "sap_func_loc": "KA-036-003",
+            "sap_description": "Lock 80, Copse Lock",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                85675.31,
+                -384133.889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 854,
+            "sap_func_loc": "KA-089-002",
+            "sap_description": "Lock 34, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16026.182,
+                -392805.908
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 855,
+            "sap_func_loc": "KA-088-016",
+            "sap_description": "Lock 36, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16235.588,
+                -392796.216
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 856,
+            "sap_func_loc": "KA-088-015",
+            "sap_description": "Lock 37, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16337.893,
+                -392791.373
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 857,
+            "sap_func_loc": "KA-088-013",
+            "sap_description": "Lock 39, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16544.102,
+                -392783.293
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 858,
+            "sap_func_loc": "KA-088-012",
+            "sap_description": "Lock 40, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16649.604,
+                -392778.453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 859,
+            "sap_func_loc": "KA-087-004",
+            "sap_description": "Lock 49, Maton Lock",
+            "sap_object_type": "010",
+            "angle": 165,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18567.846,
+                -392576.162
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 860,
+            "sap_func_loc": "KA-037-003",
+            "sap_description": "Lock 79, Dreweatts Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84586.769,
+                -383778.49
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 861,
+            "sap_func_loc": "KA-088-001",
+            "sap_description": "Lock 46, A P Herbert Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17650.286,
+                -392733.341
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 862,
+            "sap_func_loc": "KA-041-002",
+            "sap_description": "Lock 77, Brunsden Lock",
+            "sap_object_type": "010",
+            "angle": 31,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78357.463,
+                -383230.149
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 863,
+            "sap_func_loc": "KA-087-007",
+            "sap_description": "Lock 47, Manifold Lock",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17939.621,
+                -392710.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 864,
+            "sap_func_loc": "KA-087-005",
+            "sap_description": "Lock 48, Trust Lock",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18257.728,
+                -392651.517
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 867,
+            "sap_func_loc": "KA-001-010",
+            "sap_description": "Lock 106, County Lock",
+            "sap_object_type": "010",
+            "angle": 305,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                133339.805,
+                -375152.964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 868,
+            "sap_func_loc": "KA-005-004",
+            "sap_description": "Lock 104, Southcote Lock",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                129900.422,
+                -377859.591
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 869,
+            "sap_func_loc": "KA-010-001",
+            "sap_description": "Lock 101, Sheffield Lock",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122752.514,
+                -378768.911
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 870,
+            "sap_func_loc": "KA-013-009",
+            "sap_description": "Lock 99, Tyle Mill Lock",
+            "sap_object_type": "010",
+            "angle": 319,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119208.991,
+                -380976.848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 871,
+            "sap_func_loc": "KA-016-011",
+            "sap_description": "Lock 95, Aldermaston Lock",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115104.357,
+                -384247.729
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 874,
+            "sap_func_loc": "KA-139-005",
+            "sap_description": "Lock 1, Hanham Lock",
+            "sap_object_type": "010",
+            "angle": 223,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -37707.579,
+                -379190.861
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 877,
+            "sap_func_loc": "KA-089-006",
+            "sap_description": "Lock 31, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15704.882,
+                -392820.459
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 878,
+            "sap_func_loc": "KA-030-017",
+            "sap_description": "Lock 85, Newbury Lock",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                94194.64,
+                -384018.524
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 879,
+            "sap_func_loc": "KA-032-002",
+            "sap_description": "Lock 84, Guyers Lock",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                91730.09,
+                -384389.359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 880,
+            "sap_func_loc": "KA-033-002",
+            "sap_description": "Lock 83, Higgs Lock",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90570.984,
+                -384634.232
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 881,
+            "sap_func_loc": "KA-035-003",
+            "sap_description": "Lock 81, Hamstead Lock",
+            "sap_object_type": "010",
+            "angle": 1,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                86681.931,
+                -384127.741
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 886,
+            "sap_func_loc": "KA-055-004",
+            "sap_description": "Lock 61, Crossing Lock",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61147.994,
+                -391307.504
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 888,
+            "sap_func_loc": "KA-020-004",
+            "sap_description": "Lock 94, Woolhampton Lock",
+            "sap_object_type": "010",
+            "angle": 14,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                110348.428,
+                -385112.358
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 889,
+            "sap_func_loc": "KA-022-002",
+            "sap_description": "Lock 92, Midgham Lock",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107023.435,
+                -385566.685
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 890,
+            "sap_func_loc": "KA-026-001",
+            "sap_description": "Lock 89, Widmead Lock",
+            "sap_object_type": "010",
+            "angle": 4,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100198.818,
+                -385486.265
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 891,
+            "sap_func_loc": "KA-029-008",
+            "sap_description": "Lock 86, Greenham Lock",
+            "sap_object_type": "010",
+            "angle": 349,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95645.505,
+                -383743.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 892,
+            "sap_func_loc": "KA-025-002",
+            "sap_description": "Lock 90, Monkey Marsh Lock",
+            "sap_object_type": "010",
+            "angle": 343,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                102810.4,
+                -385600.905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 893,
+            "sap_func_loc": "KA-089-004",
+            "sap_description": "Lock 32, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15816.777,
+                -392815.605
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 894,
+            "sap_func_loc": "KA-088-014",
+            "sap_description": "Lock 38, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16441.796,
+                -392786.531
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 895,
+            "sap_func_loc": "KA-090-001",
+            "sap_description": "Lock 25, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14413.168,
+                -392654.406
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 896,
+            "sap_func_loc": "KA-015-002",
+            "sap_description": "Lock 97, Towney Lock",
+            "sap_object_type": "010",
+            "angle": 279,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116549.508,
+                -382892.965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 900,
+            "sap_func_loc": "KA-132-003",
+            "sap_description": "Lock 3, Swineford Lock",
+            "sap_object_type": "010",
+            "angle": 194,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -30418.838,
+                -381040.676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 902,
+            "sap_func_loc": "KA-052-001",
+            "sap_description": "Lock 65, Burnt Mill Lock",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                64255.229,
+                -387427.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 903,
+            "sap_func_loc": "KA-090-002",
+            "sap_description": "Lock 24, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 198,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14222.907,
+                -392601.625
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 904,
+            "sap_func_loc": "KA-039-008",
+            "sap_description": "Lock 78, Kintbury Lock",
+            "sap_object_type": "010",
+            "angle": 356,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80658.584,
+                -383906.693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 905,
+            "sap_func_loc": "KA-042-002",
+            "sap_description": "Lock 76, Wire Lock",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                76977.199,
+                -382424.288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 907,
+            "sap_func_loc": "KA-089-001",
+            "sap_description": "Lock 35, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16131.684,
+                -392801.061
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 908,
+            "sap_func_loc": "KA-097-001",
+            "sap_description": "Lock 16, Harris Lock",
+            "sap_object_type": "010",
+            "angle": 192,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3487.238,
+                -393652.022
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 909,
+            "sap_func_loc": "KA-054-005",
+            "sap_description": "Lock 62, Longmans Cottage",
+            "sap_object_type": "010",
+            "angle": 312,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61876.156,
+                -390565.844
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 910,
+            "sap_func_loc": "KA-094-001",
+            "sap_description": "Lock 19. Seend Lock",
+            "sap_object_type": "010",
+            "angle": 184,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8231.89,
+                -392948.773
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 913,
+            "sap_func_loc": "KA-088-002",
+            "sap_description": "Lock 45, Cave Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17362.549,
+                -392746.218
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 914,
+            "sap_func_loc": "KA-121-015",
+            "sap_description": "Lock 7, Bath Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20392.596,
+                -388357.753
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 916,
+            "sap_func_loc": "KA-001-002",
+            "sap_description": "Lock 107, Blakes Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                135465.396,
+                -374267.527
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 917,
+            "sap_func_loc": "KA-004-002",
+            "sap_description": "Lock 105, Fobney Lock",
+            "sap_object_type": "010",
+            "angle": 17,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                131935.339,
+                -378134.829
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 918,
+            "sap_func_loc": "KA-048-004",
+            "sap_description": "Lock 70, Froxfield Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 326,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67453.718,
+                -382959.107
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 919,
+            "sap_func_loc": "KA-121-009",
+            "sap_description": "Lock 10, Wash House Lock",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -20026.363,
+                -388351.174
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 921,
+            "sap_func_loc": "KA-016-001",
+            "sap_description": "Lock 96, Padworth Middle Lock",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115897.502,
+                -384160.847
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 922,
+            "sap_func_loc": "KA-087-002",
+            "sap_description": "Lock 50, Kennet Lock (Top Lock)",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19018.645,
+                -392399.838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 923,
+            "sap_func_loc": "KA-125-001",
+            "sap_description": "Lock 6, Weston Lock",
+            "sap_object_type": "010",
+            "angle": 193,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -25104.889,
+                -387394.14
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 924,
+            "sap_func_loc": "KA-089-010",
+            "sap_description": "Lock 28, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15234.909,
+                -392814.255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 926,
+            "sap_func_loc": "KA-049-001",
+            "sap_description": "Lock 69, Froxfield Top Lock",
+            "sap_object_type": "010",
+            "angle": 294,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67115.032,
+                -383398.381
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 927,
+            "sap_func_loc": "KA-021-002",
+            "sap_description": "Lock 93, Heales Lock",
+            "sap_object_type": "010",
+            "angle": 346,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108825.975,
+                -385477.255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 928,
+            "sap_func_loc": "KA-090-006",
+            "sap_description": "Lock 22, Lower Foxhangers Lock",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13469.868,
+                -392445.032
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 932,
+            "sap_func_loc": "KA-088-009",
+            "sap_description": "Lock 43, Queen Elizabeth Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16962.915,
+                -392762.339
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 933,
+            "sap_func_loc": "KA-045-003",
+            "sap_description": "Lock 74, Hungerford Lock",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72759.17,
+                -381279.995
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 934,
+            "sap_func_loc": "KA-011-002",
+            "sap_description": "Lock 100, Sulhamstead Lock",
+            "sap_object_type": "010",
+            "angle": 333,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120958.012,
+                -379879.701
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 935,
+            "sap_func_loc": "KA-055-017",
+            "sap_description": "Lock 59, Crofton Lock",
+            "sap_object_type": "010",
+            "angle": 356,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60491.248,
+                -391863.588
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 936,
+            "sap_func_loc": "KA-121-004",
+            "sap_description": "Lock 12, Pulteney Gardens Lock",
+            "sap_object_type": "010",
+            "angle": 86,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -19759.848,
+                -387891.252
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 937,
+            "sap_func_loc": "KA-051-002",
+            "sap_description": "Lock 66, Potters Lock",
+            "sap_object_type": "010",
+            "angle": 298,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                65082.689,
+                -386494.173
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 938,
+            "sap_func_loc": "KA-049-004",
+            "sap_description": "Lock 68, Oakhill Down Lock",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                66843.697,
+                -383820.392
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 940,
+            "sap_func_loc": "KA-056-005",
+            "sap_description": "Lock 56, Crofton Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59128.677,
+                -391625.958
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 941,
+            "sap_func_loc": "KA-097-002",
+            "sap_description": "Lock 15, Semington Lock",
+            "sap_object_type": "010",
+            "angle": 192,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                3073.08,
+                -393561.478
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 942,
+            "sap_func_loc": "KA-056-004",
+            "sap_description": "Lock 57, Crofton Lock",
+            "sap_object_type": "010",
+            "angle": 27,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59627.077,
+                -391711.775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 943,
+            "sap_func_loc": "KA-057-002",
+            "sap_description": "Lock 55, Crofton Top Lock",
+            "sap_object_type": "010",
+            "angle": 9,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58695.602,
+                -391585.371
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 944,
+            "sap_func_loc": "KA-027-005",
+            "sap_description": "Lock 88, Bulls Lock",
+            "sap_object_type": "010",
+            "angle": 31,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                98664.768,
+                -384792.549
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 946,
+            "sap_func_loc": "KA-089-003",
+            "sap_description": "Lock 33, Lloyds Lock",
+            "sap_object_type": "010",
+            "angle": 177,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15920.681,
+                -392810.756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 947,
+            "sap_func_loc": "KA-029-001",
+            "sap_description": "Lock 87, Ham Lock",
+            "sap_object_type": "010",
+            "angle": 19,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                96882.775,
+                -383891.343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 949,
+            "sap_func_loc": "KA-023-007",
+            "sap_description": "Lock 91, Colthrop Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105170.678,
+                -385415.354
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 950,
+            "sap_func_loc": "KA-089-008",
+            "sap_description": "Lock 30, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15602.577,
+                -392825.31
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 951,
+            "sap_func_loc": "KA-088-010",
+            "sap_description": "Lock 42, Monument Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16859.011,
+                -392768.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 952,
+            "sap_func_loc": "KA-089-009",
+            "sap_description": "Lock 29, Devizes Lock",
+            "sap_object_type": "010",
+            "angle": 178,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15498.675,
+                -392831.766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 953,
+            "sap_func_loc": "KA-034-002",
+            "sap_description": "Lock 82, Benham Lock",
+            "sap_object_type": "010",
+            "angle": 2,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89217.916,
+                -384927.309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 954,
+            "sap_func_loc": "KA-009-002",
+            "sap_description": "Lock 102, Garston Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Kennet & Avon Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                123947.889,
+                -378583.519
+            ]
+        }
+    }
+]

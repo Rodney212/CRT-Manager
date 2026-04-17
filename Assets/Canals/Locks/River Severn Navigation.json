@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 872,
+            "sap_func_loc": "RS-021-004",
+            "sap_description": "Upper Lode Lock",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -402.419,
+                -277565.68
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 873,
+            "sap_func_loc": "RS-047-004",
+            "sap_description": "Lock 5 Diglis (Small)",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5935.133,
+                -244262.804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 875,
+            "sap_func_loc": "RS-047-005",
+            "sap_description": "Lock 6 Diglis (Large)",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5964.437,
+                -244262.895
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 876,
+            "sap_func_loc": "RS-054-002",
+            "sap_description": "Lock 7 Bevere Lock",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -7776.606,
+                -234372.051
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 906,
+            "sap_func_loc": "RS-066-005",
+            "sap_description": "Lock 9 Lincomb Lock",
+            "sap_object_type": "010",
+            "angle": 83,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10300.148,
+                -218138.259
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 915,
+            "sap_func_loc": "RS-005-002",
+            "sap_description": "Lock 3 Maisemore",
+            "sap_object_type": "038",
+            "angle": 120,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10433.479,
+                -295883.002
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 945,
+            "sap_func_loc": "RS-059-007",
+            "sap_description": "Lock 8 Holt Lock",
+            "sap_object_type": "010",
+            "angle": 12,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10300.907,
+                -227789.613
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 948,
+            "sap_func_loc": "RS-001-001",
+            "sap_description": "Lock 2 Gloucester Lock",
+            "sap_object_type": "010",
+            "angle": 272,
+            "waterway_name": "River Severn Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9043.942,
+                -301011.138
+            ]
+        }
+    }
+]

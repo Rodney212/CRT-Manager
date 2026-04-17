@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1301,
+            "sap_func_loc": "BD-001-002",
+            "sap_description": "Lock 9 (Abandoned), Bradley Locks",
+            "sap_object_type": "038",
+            "angle": 322,
+            "waterway_name": "Bradley Branch (Walsall Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13717.918,
+                -176120.448
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1377,
+            "sap_func_loc": "BD-001-004",
+            "sap_description": "Bradley Lock No. 8",
+            "sap_object_type": "038",
+            "angle": 327,
+            "waterway_name": "Bradley Branch (Walsall Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13585.01,
+                -176224.229
+            ]
+        }
+    }
+]

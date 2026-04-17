@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1256,
+            "sap_func_loc": "BC-014-003",
+            "sap_description": "Lock 2, Factory Locks, Tipton",
+            "sap_object_type": "010",
+            "angle": 14,
+            "waterway_name": "New Mainline"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11058.735,
+                -179808.583
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1274,
+            "sap_func_loc": "BC-014-002",
+            "sap_description": "Lock 3, Factory Locks, Tipton",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "New Mainline"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11194.973,
+                -179842.994
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1519,
+            "sap_func_loc": "BC-014-005",
+            "sap_description": "Lock 1, Factory Top Lock, Tipton",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "New Mainline"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10915.93,
+                -179772.536
+            ]
+        }
+    }
+]

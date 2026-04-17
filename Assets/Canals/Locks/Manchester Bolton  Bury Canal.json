@@ -1,0 +1,146 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 6,
+            "sap_func_loc": "MC-001-016",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 210,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -10144.05,
+                -4427.184
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 7,
+            "sap_func_loc": "MC-001-014",
+            "sap_description": "Middlewood Deep Lock",
+            "sap_object_type": "010",
+            "angle": 222,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9924.025,
+                -4505.404
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 39,
+            "sap_func_loc": "MC-012-001",
+            "sap_description": "Ringley Top Lock",
+            "sap_object_type": "038",
+            "angle": 20,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -21203.071,
+                8201.485
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 50,
+            "sap_func_loc": "MC-013-013",
+            "sap_description": "Lock, Top Flight Top Lock",
+            "sap_object_type": "038",
+            "angle": 330,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -22623.181,
+                9571.721
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 115,
+            "sap_func_loc": "MC-013-008",
+            "sap_description": "Basin Lock 1",
+            "sap_object_type": "038",
+            "angle": 323,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -22833.896,
+                9381.967
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 120,
+            "sap_func_loc": "MC-013-012",
+            "sap_description": "Lock, Top Flight Middle Lock",
+            "sap_object_type": "038",
+            "angle": 330,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -22659.987,
+                9541.209
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 237,
+            "sap_func_loc": "MC-013-011",
+            "sap_description": "Lock, Top Flight Bottom Lock",
+            "sap_object_type": "038",
+            "angle": 330,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -22693.459,
+                9515.768
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 282,
+            "sap_func_loc": "MC-013-010",
+            "sap_description": "Basin Lock 2",
+            "sap_object_type": "038",
+            "angle": 328,
+            "waterway_name": "Manchester Bolton & Bury Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -22770.377,
+                9444.622
+            ]
+        }
+    }
+]

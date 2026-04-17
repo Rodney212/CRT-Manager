@@ -1,0 +1,866 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 977,
+            "sap_func_loc": "SW-034-003",
+            "sap_description": "Lock 28 Dimmingsdale Lock",
+            "sap_object_type": "010",
+            "angle": 99,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4285.641,
+                -174391.66
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 993,
+            "sap_func_loc": "SW-066-001",
+            "sap_description": "Lock 42 Deptmore Lock",
+            "sap_object_type": "010",
+            "angle": 333,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8614.071,
+                -134869.359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1053,
+            "sap_func_loc": "SW-027-003",
+            "sap_description": "Lock 17 Hinksford Lock",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3214.762,
+                -183944.15
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1077,
+            "sap_func_loc": "SW-056-003",
+            "sap_description": "Lock 35 Rodbaston Lock",
+            "sap_object_type": "010",
+            "angle": 290,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7333.179,
+                -149215.772
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1086,
+            "sap_func_loc": "SW-057-006",
+            "sap_description": "Lock 36 Otherton Lock",
+            "sap_object_type": "010",
+            "angle": 256,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7700.985,
+                -147233.399
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1092,
+            "sap_func_loc": "SW-028-002",
+            "sap_description": "Lock 18 Swindon Lock",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3692.446,
+                -183223.635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1093,
+            "sap_func_loc": "SW-059-009",
+            "sap_description": "Lock 38 Penkridge Lock",
+            "sap_object_type": "010",
+            "angle": 277,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7108.77,
+                -144572.89
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1153,
+            "sap_func_loc": "SW-023-002",
+            "sap_description": "Lock 14 Gothersley Lock",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3501.186,
+                -188836.817
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1183,
+            "sap_func_loc": "SW-020-005",
+            "sap_description": "Lock 13 Stewponey Lock",
+            "sap_object_type": "010",
+            "angle": 92,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3785.479,
+                -192631.035
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1184,
+            "sap_func_loc": "SW-025-006",
+            "sap_description": "Lock 16 Greensforge Lock",
+            "sap_object_type": "010",
+            "angle": 118,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3734.208,
+                -186428.09
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1185,
+            "sap_func_loc": "SW-028-004",
+            "sap_description": "Lock 19 Marsh Lock",
+            "sap_object_type": "010",
+            "angle": 99,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3746.216,
+                -182771.563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1186,
+            "sap_func_loc": "SW-031-003",
+            "sap_description": "Lock 22 Bumble Hole Lock",
+            "sap_object_type": "010",
+            "angle": 136,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3224.357,
+                -178702.2
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1187,
+            "sap_func_loc": "SW-031-009",
+            "sap_description": "Lock 24 Bratch Middle Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2827.61,
+                -177939.277
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1189,
+            "sap_func_loc": "SW-031-013",
+            "sap_description": "Lock 25 Bratch Top Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2835.947,
+                -177891.58
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1190,
+            "sap_func_loc": "SW-037-007",
+            "sap_description": "Lock 30 Wightwick Mill Lock",
+            "sap_object_type": "010",
+            "angle": 176,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1481.62,
+                -170260.785
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1191,
+            "sap_func_loc": "SW-038-004",
+            "sap_description": "Lock 31 Compton Lock",
+            "sap_object_type": "010",
+            "angle": 116,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -142.8,
+                -169489.888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1192,
+            "sap_func_loc": "SW-055-005",
+            "sap_description": "Lock 32 Gailey Lock",
+            "sap_object_type": "010",
+            "angle": 285,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5767.211,
+                -150560.668
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1193,
+            "sap_func_loc": "SW-055-008",
+            "sap_description": "Lock 33 Brick Kiln Lock",
+            "sap_object_type": "010",
+            "angle": 334,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6069.256,
+                -149944.299
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1194,
+            "sap_func_loc": "SW-056-001",
+            "sap_description": "Lock 34 Boggs Lock",
+            "sap_object_type": "010",
+            "angle": 351,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6747.6,
+                -149766.536
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1195,
+            "sap_func_loc": "SW-059-004",
+            "sap_description": "Lock 37 Filance Lock",
+            "sap_object_type": "010",
+            "angle": 282,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6928.387,
+                -145177.876
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1196,
+            "sap_func_loc": "SW-060-002",
+            "sap_description": "Lock 39 Longford Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7791.106,
+                -143388.773
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1197,
+            "sap_func_loc": "SW-062-002",
+            "sap_description": "Lock 40 Park Gate Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8586.441,
+                -141465.564
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1199,
+            "sap_func_loc": "SW-001-013",
+            "sap_description": "Bottom Barge Lock",
+            "sap_object_type": "010",
+            "angle": 58,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12085.997,
+                -215413.449
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1200,
+            "sap_func_loc": "SW-001-015",
+            "sap_description": "Stourport Narrow Lock No 1",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12198.871,
+                -215376.217
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1201,
+            "sap_func_loc": "SW-001-016",
+            "sap_description": "Stourport Narrow Lock No 2",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12200.689,
+                -215328.725
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1202,
+            "sap_func_loc": "SW-001-020",
+            "sap_description": "Top Barge Lock",
+            "sap_object_type": "010",
+            "angle": 106,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12097.837,
+                -215308.669
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1203,
+            "sap_func_loc": "SW-001-025",
+            "sap_description": "Stourport Narrow Lock No 3",
+            "sap_object_type": "010",
+            "angle": 109,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12201.018,
+                -215243.554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1204,
+            "sap_func_loc": "SW-001-036",
+            "sap_description": "York Street Lock",
+            "sap_object_type": "010",
+            "angle": 105,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11853.775,
+                -215045.653
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1205,
+            "sap_func_loc": "SW-005-002",
+            "sap_description": "Lock 4 Falling Sands Lock",
+            "sap_object_type": "010",
+            "angle": 93,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9229.071,
+                -209658.374
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1206,
+            "sap_func_loc": "SW-010-002",
+            "sap_description": "Lock 7 Wolverley Court Lock",
+            "sap_object_type": "010",
+            "angle": 74,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8957.081,
+                -203236.332
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1207,
+            "sap_func_loc": "SW-010-006",
+            "sap_description": "Lock 8 Wolverley Lock",
+            "sap_object_type": "010",
+            "angle": 107,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8733.844,
+                -202016.672
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1208,
+            "sap_func_loc": "SW-012-002",
+            "sap_description": "Lock 9 Debdale Lock",
+            "sap_object_type": "010",
+            "angle": 173,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -7245.299,
+                -200305.228
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1209,
+            "sap_func_loc": "SW-016-002",
+            "sap_description": "Lock 10 Whittington Lock",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5120.528,
+                -196533.314
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1210,
+            "sap_func_loc": "SW-018-004",
+            "sap_description": "Lock 11 Kinver Lock",
+            "sap_object_type": "010",
+            "angle": 341,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5834.581,
+                -194926.47
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1303,
+            "sap_func_loc": "SW-004-006",
+            "sap_description": "Pratt's Wharf Lock (Side Arm)",
+            "sap_object_type": "038",
+            "angle": 90,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9620.449,
+                -210862.739
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1305,
+            "sap_func_loc": "SW-073-003",
+            "sap_description": "Lock 43 Tixall Lock",
+            "sap_object_type": "010",
+            "angle": 293,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15282.633,
+                -131444.832
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1415,
+            "sap_func_loc": "SW-006-005",
+            "sap_description": "Lock 5 Caldwall Lock",
+            "sap_object_type": "010",
+            "angle": 93,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -9279.398,
+                -207898.021
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1440,
+            "sap_func_loc": "SW-063-003",
+            "sap_description": "Lock 41 Shutt Hill Lock",
+            "sap_object_type": "010",
+            "angle": 260,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8615.508,
+                -139739.699
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1445,
+            "sap_func_loc": "SW-031-008",
+            "sap_description": "Lock 23 Bratch Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2822.573,
+                -177980.4
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1452,
+            "sap_func_loc": "SW-018-008",
+            "sap_description": "Lock 12 Hyde Lock",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5569.581,
+                -193741.657
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1461,
+            "sap_func_loc": "SW-008-003",
+            "sap_description": "Lock 6 Kidderminster Lock",
+            "sap_object_type": "010",
+            "angle": 103,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8962.736,
+                -205845.746
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1464,
+            "sap_func_loc": "SW-033-005",
+            "sap_description": "Lock 27 Ebstree Lock",
+            "sap_object_type": "010",
+            "angle": 108,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4295.594,
+                -174921.752
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1468,
+            "sap_func_loc": "SW-028-008",
+            "sap_description": "Lock 20 Botterham Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4002.719,
+                -181991.122
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1474,
+            "sap_func_loc": "SW-028-010",
+            "sap_description": "Lock 21 Botterham Top Lock",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4012.638,
+                -181964.836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1476,
+            "sap_func_loc": "SW-024-001",
+            "sap_description": "Lock 15 Rocky Lock",
+            "sap_object_type": "010",
+            "angle": 138,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3368.239,
+                -188308.939
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1480,
+            "sap_func_loc": "SW-037-004",
+            "sap_description": "Lock 29 Wightwick Lock",
+            "sap_object_type": "010",
+            "angle": 152,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1995.524,
+                -170393.888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1502,
+            "sap_func_loc": "SW-001-026",
+            "sap_description": "Stourport Narrow Lock No 4",
+            "sap_object_type": "010",
+            "angle": 109,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -12184.871,
+                -215194.353
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1515,
+            "sap_func_loc": "SW-033-003",
+            "sap_description": "Lock 26 Awbridge Lock",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Staffordshire & Worcestershire Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4122.928,
+                -176147.502
+            ]
+        }
+    }
+]

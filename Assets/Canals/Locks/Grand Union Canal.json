@@ -1,0 +1,3674 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 666,
+            "sap_func_loc": "GU-079-002",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 69,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119502.673,
+                -225885.496
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 675,
+            "sap_func_loc": "GU-072-007",
+            "sap_description": "Lock 6, Top Lock",
+            "sap_object_type": "010",
+            "angle": 198,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                109126.311,
+                -224592.923
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 677,
+            "sap_func_loc": "GU-104-004",
+            "sap_description": "Lock 18",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140682.006,
+                -251942.02
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 688,
+            "sap_func_loc": "GU-104-002",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140537.387,
+                -251607.182
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 698,
+            "sap_func_loc": "GU-077-005",
+            "sap_description": "Lock 7, Top Lock",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                117741.818,
+                -224700.548
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 716,
+            "sap_func_loc": "GU-105-001",
+            "sap_description": "Lock 20",
+            "sap_object_type": "010",
+            "angle": 48,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140936.725,
+                -252417.106
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 798,
+            "sap_func_loc": "GU-079-005",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 72,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119750.96,
+                -226650.864
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 799,
+            "sap_func_loc": "GU-079-008",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 79,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119796.744,
+                -226904.964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 800,
+            "sap_func_loc": "GU-103-009",
+            "sap_description": "Lock 14, Top Lock",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                139898.899,
+                -250793.611
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 801,
+            "sap_func_loc": "GU-103-011",
+            "sap_description": "Lock 15",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                139989.651,
+                -251034.706
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 802,
+            "sap_func_loc": "GU-104-003",
+            "sap_description": "Lock 17",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140609.698,
+                -251774.602
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 803,
+            "sap_func_loc": "GU-104-007",
+            "sap_description": "Lock 19",
+            "sap_object_type": "010",
+            "angle": 62,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                140798.347,
+                -252209.565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 804,
+            "sap_func_loc": "GU-114-008",
+            "sap_description": "Lock 21, Cosgrove Lock",
+            "sap_object_type": "010",
+            "angle": 58,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                148036.78,
+                -263303.164
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 809,
+            "sap_func_loc": "GU-071-013",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 170,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108148.27,
+                -224043.754
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 810,
+            "sap_func_loc": "GU-071-008",
+            "sap_description": "Lock 1, Braunston",
+            "sap_object_type": "010",
+            "angle": 175,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                107837.889,
+                -224069.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 811,
+            "sap_func_loc": "GU-072-004",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 213,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108743.056,
+                -224421.762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 812,
+            "sap_func_loc": "GU-072-005",
+            "sap_description": "Lock 5, Kendalls Lock",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108911.803,
+                -224510.356
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 813,
+            "sap_func_loc": "GU-079-004",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119634.695,
+                -226291.187
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 814,
+            "sap_func_loc": "GU-071-016",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 232,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108500.581,
+                -224211.278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 815,
+            "sap_func_loc": "GU-078-006",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118613.09,
+                -224981.228
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 818,
+            "sap_func_loc": "GU-078-009",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119161.26,
+                -225388.842
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 958,
+            "sap_func_loc": "GU-034-015",
+            "sap_description": "Weired Lock 39 next to Hatton Lock 39",
+            "sap_object_type": "018",
+            "angle": 23,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59015.074,
+                -222380.315
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 963,
+            "sap_func_loc": "GU-050-005",
+            "sap_description": "Weired Lock 17 next to Lock 17",
+            "sap_object_type": "018",
+            "angle": 149,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                82961.703,
+                -226765.474
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 964,
+            "sap_func_loc": "GU-050-007",
+            "sap_description": "Weired Lock 16 next to Bascote Lock 16",
+            "sap_object_type": "018",
+            "angle": 149,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83297.734,
+                -226773.05
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 965,
+            "sap_func_loc": "GU-049-002",
+            "sap_description": "Weired Lock 19 next to Lock 19",
+            "sap_object_type": "018",
+            "angle": 196,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80386.829,
+                -227242.699
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 966,
+            "sap_func_loc": "GU-047-002",
+            "sap_description": "Weired Lock 22 next to Lock 22",
+            "sap_object_type": "018",
+            "angle": 214,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77717.076,
+                -225999.39
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 967,
+            "sap_func_loc": "GU-036-011",
+            "sap_description": "Weired Lock 26 next to Hatton Lock 26",
+            "sap_object_type": "018",
+            "angle": 360,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62391.355,
+                -224421.882
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 968,
+            "sap_func_loc": "GU-035-013",
+            "sap_description": "Weired Lock 30 next to Hatton Lock 30",
+            "sap_object_type": "018",
+            "angle": 50,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61057.142,
+                -223336.556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 969,
+            "sap_func_loc": "GU-060-008",
+            "sap_description": "Weired Lock 1, Calcutt Lock 1",
+            "sap_object_type": "018",
+            "angle": 279,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95307.186,
+                -228178.062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 970,
+            "sap_func_loc": "GU-060-006",
+            "sap_description": "Weired Lock 2, Calcutt Lock 2",
+            "sap_object_type": "018",
+            "angle": 235,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95302.249,
+                -228009.571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 971,
+            "sap_func_loc": "GU-053-007",
+            "sap_description": "Weired Lock 13, Itchington Bottom Lock",
+            "sap_object_type": "018",
+            "angle": 180,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                87406.484,
+                -225928.456
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 972,
+            "sap_func_loc": "GU-051-002",
+            "sap_description": "Weired Lock 15 next to Bascote Lock 15",
+            "sap_object_type": "018",
+            "angle": 191,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83473.743,
+                -226797.352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 973,
+            "sap_func_loc": "GU-034-008",
+            "sap_description": "Weired Lock 42 next to Hatton Yard Lk 42",
+            "sap_object_type": "018",
+            "angle": 20,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58650.266,
+                -222206.676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 974,
+            "sap_func_loc": "GU-034-004",
+            "sap_description": "Weired Lock 43 next to Hatton Lock 43",
+            "sap_object_type": "018",
+            "angle": 0,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58497.107,
+                -222147.009
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 975,
+            "sap_func_loc": "GU-033-011",
+            "sap_description": "Weired Lock 45 next to Hatton Lock 45",
+            "sap_object_type": "018",
+            "angle": 351,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58176.957,
+                -222186.361
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 976,
+            "sap_func_loc": "GU-034-011",
+            "sap_description": "Weired Lock 41 next to Hatton Lock 41",
+            "sap_object_type": "018",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58785.449,
+                -222269.531
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 978,
+            "sap_func_loc": "GU-035-010",
+            "sap_description": "Weired Lock 31 next to Hatton Lock 31",
+            "sap_object_type": "018",
+            "angle": 18,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60740.151,
+                -223086.185
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 979,
+            "sap_func_loc": "GU-034-022",
+            "sap_description": "Weired Lock 36 next to Hatton Lock 36",
+            "sap_object_type": "018",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59576.895,
+                -222651.507
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 980,
+            "sap_func_loc": "GU-034-013",
+            "sap_description": "Weired Lock 40 next to Hatton Lock 40",
+            "sap_object_type": "018",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58920.615,
+                -222335.66
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 989,
+            "sap_func_loc": "GU-034-026",
+            "sap_description": "Weired Lock 35 next to Hatton Lock 35",
+            "sap_object_type": "018",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59725.073,
+                -222724.258
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 998,
+            "sap_func_loc": "GU-035-003",
+            "sap_description": "Weired Lock 34 next to Hatton Lock 34",
+            "sap_object_type": "018",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60008.413,
+                -222859.881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1001,
+            "sap_func_loc": "GU-036-008",
+            "sap_description": "Weired Lock 27 next to Hatton Lock 27",
+            "sap_object_type": "018",
+            "angle": 10,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62068.345,
+                -224398.882
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1002,
+            "sap_func_loc": "GU-002-006",
+            "sap_description": "Lock 2, Camp Hill (Lock 53)",
+            "sap_object_type": "010",
+            "angle": 256,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32938.502,
+                -191080.946
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1008,
+            "sap_func_loc": "GU-054-017",
+            "sap_description": "Weired Lock 9, Stockton Lock 9",
+            "sap_object_type": "018",
+            "angle": 162,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89008.275,
+                -225799.876
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1015,
+            "sap_func_loc": "GU-034-007",
+            "sap_description": "Lock 42, Hatton Yard Lock",
+            "sap_object_type": "010",
+            "angle": 20,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58666.646,
+                -222195.301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1017,
+            "sap_func_loc": "GU-002-002",
+            "sap_description": "Lock 4, Camp Hill (Lock 55)",
+            "sap_object_type": "010",
+            "angle": 261,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32854.043,
+                -190633.943
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1019,
+            "sap_func_loc": "GU-054-024",
+            "sap_description": "Weired Lock 6, Stockton Lock 6",
+            "sap_object_type": "018",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89463.366,
+                -225630.44
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1026,
+            "sap_func_loc": "GU-054-013",
+            "sap_description": "Weired Lock 11, Stockton Lock 11",
+            "sap_object_type": "018",
+            "angle": 161,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88677.737,
+                -225908.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1028,
+            "sap_func_loc": "GU-034-014",
+            "sap_description": "Lock 39",
+            "sap_object_type": "010",
+            "angle": 23,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59026.574,
+                -222365.643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1030,
+            "sap_func_loc": "GU-054-016",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89005.111,
+                -225788.398
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1040,
+            "sap_func_loc": "GU-048-002",
+            "sap_description": "Weired Lock 20 next to Lock 20",
+            "sap_object_type": "018",
+            "angle": 220,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78838.141,
+                -226866.347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1042,
+            "sap_func_loc": "GU-036-002",
+            "sap_description": "Weired Lock 29 next to Hatton Lock 29",
+            "sap_object_type": "018",
+            "angle": 46,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61415.561,
+                -223775.32
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1043,
+            "sap_func_loc": "GU-035-002",
+            "sap_description": "Lock 34",
+            "sap_object_type": "010",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60008.33,
+                -222876.245
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1047,
+            "sap_func_loc": "GU-048-001",
+            "sap_description": "Lock 20, Fosse Top Lock",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78828.268,
+                -226877.723
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1052,
+            "sap_func_loc": "GU-054-015",
+            "sap_description": "Weired Lock 10, Stockton Lock 10",
+            "sap_object_type": "018",
+            "angle": 162,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88846.268,
+                -225854.09
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1054,
+            "sap_func_loc": "GU-049-007",
+            "sap_description": "Lock 18, Welsh Road Lock",
+            "sap_object_type": "010",
+            "angle": 149,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                81871.14,
+                -227067.669
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1055,
+            "sap_func_loc": "GU-033-010",
+            "sap_description": "Lock 45",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58155.641,
+                -222205.896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1058,
+            "sap_func_loc": "GU-035-012",
+            "sap_description": "Lock 30",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61052.186,
+                -223347.985
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1059,
+            "sap_func_loc": "GU-051-003",
+            "sap_description": "Lock 14, Bascote Top Lock",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83517.816,
+                -226794.433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1064,
+            "sap_func_loc": "GU-034-021",
+            "sap_description": "Lock 36, Middle Lock Lane",
+            "sap_object_type": "010",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59575.189,
+                -222666.226
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1067,
+            "sap_func_loc": "GU-034-019",
+            "sap_description": "Lock 37",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59272.451,
+                -222489.605
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1076,
+            "sap_func_loc": "GU-056-004",
+            "sap_description": "Weired Lock 4, Stockton Lock 4",
+            "sap_object_type": "018",
+            "angle": 143,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89750.429,
+                -225457.914
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1081,
+            "sap_func_loc": "GU-050-004",
+            "sap_description": "Lock 17, Bascote Lock 4",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                82981.396,
+                -226750.909
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1088,
+            "sap_func_loc": "GU-046-004",
+            "sap_description": "Lock 23, Radford Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                76378.164,
+                -225443.403
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1096,
+            "sap_func_loc": "GU-035-004",
+            "sap_description": "Lock 33",
+            "sap_object_type": "010",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60267.234,
+                -223000.295
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1097,
+            "sap_func_loc": "GU-035-006",
+            "sap_description": "Lock 32",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60466.115,
+                -223050.407
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1098,
+            "sap_func_loc": "GU-036-003",
+            "sap_description": "Lock 28",
+            "sap_object_type": "010",
+            "angle": 44,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61733.914,
+                -224066.606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1099,
+            "sap_func_loc": "GU-036-007",
+            "sap_description": "Lock 27, Budbrooke Road",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62070.038,
+                -224387.439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1100,
+            "sap_func_loc": "GU-036-010",
+            "sap_description": "Lock 26, Hatton Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 360,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62399.444,
+                -224435.014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1101,
+            "sap_func_loc": "GU-038-004",
+            "sap_description": "Lock 25, Cape Top Lock",
+            "sap_object_type": "010",
+            "angle": 347,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                64175.662,
+                -223445.057
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1102,
+            "sap_func_loc": "GU-038-005",
+            "sap_description": "Lock 24, Cape Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 6,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                64510.188,
+                -223456.757
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1103,
+            "sap_func_loc": "GU-047-005",
+            "sap_description": "Lock 21, Fosse Middle Lock",
+            "sap_object_type": "010",
+            "angle": 219,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78226.9,
+                -226343.344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1104,
+            "sap_func_loc": "GU-049-001",
+            "sap_description": "Lock 19, Wood Lock",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80390.191,
+                -227229.64
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1105,
+            "sap_func_loc": "GU-051-001",
+            "sap_description": "Lock 15, Bottom Staircase Lock",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83472.202,
+                -226785.891
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1106,
+            "sap_func_loc": "GU-053-006",
+            "sap_description": "Lock 13, Itchington Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 180,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                87408.005,
+                -225941.555
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1107,
+            "sap_func_loc": "GU-054-003",
+            "sap_description": "Lock 12, Shop Lock",
+            "sap_object_type": "010",
+            "angle": 187,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88100.345,
+                -225882.021
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1108,
+            "sap_func_loc": "GU-054-012",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 161,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88681.127,
+                -225893.557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1109,
+            "sap_func_loc": "GU-054-021",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89317.768,
+                -225673.337
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1110,
+            "sap_func_loc": "GU-054-023",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89455.307,
+                -225618.918
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1111,
+            "sap_func_loc": "GU-056-003",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 143,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89755.524,
+                -225435.056
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1112,
+            "sap_func_loc": "GU-060-003",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 235,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95240.096,
+                -227853.617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1113,
+            "sap_func_loc": "GU-060-007",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 279,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95316.788,
+                -228197.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1114,
+            "sap_func_loc": "GU-054-020",
+            "sap_description": "Weired Lock 8, Stockton Lock 8",
+            "sap_object_type": "018",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89188.331,
+                -225734.372
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1143,
+            "sap_func_loc": "GU-001-012",
+            "sap_description": "Lock 6, Camp Hill (Lock 57)",
+            "sap_object_type": "010",
+            "angle": 261,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32772.946,
+                -190131.06
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1144,
+            "sap_func_loc": "GU-001-016",
+            "sap_description": "Lock 5, Camp Hill (Lock 56)",
+            "sap_object_type": "010",
+            "angle": 262,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32810.232,
+                -190374.285
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1145,
+            "sap_func_loc": "GU-002-005",
+            "sap_description": "Lock 3, Camp Hill (Lock 54) New",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32938.889,
+                -190852.592
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1146,
+            "sap_func_loc": "GU-002-010",
+            "sap_description": "Lock 1, Camp Hill Top Lock (Lock 52)",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33074.227,
+                -191248.747
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1147,
+            "sap_func_loc": "GU-019-004",
+            "sap_description": "Lock 51, Knowle Top Lock",
+            "sap_object_type": "010",
+            "angle": 86,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49874.576,
+                -206639.119
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1148,
+            "sap_func_loc": "GU-019-005",
+            "sap_description": "Lock 50, Knowle Lock 2",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49898.562,
+                -206783.498
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1149,
+            "sap_func_loc": "GU-019-007",
+            "sap_description": "Lock 48, Knowle Lock 4",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49997.323,
+                -207047.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1150,
+            "sap_func_loc": "GU-033-013",
+            "sap_description": "Lock 44",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58327.162,
+                -222182.182
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1151,
+            "sap_func_loc": "GU-034-012",
+            "sap_description": "Lock 40",
+            "sap_object_type": "010",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58912.59,
+                -222307.8
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1152,
+            "sap_func_loc": "GU-034-025",
+            "sap_description": "Lock 35",
+            "sap_object_type": "010",
+            "angle": 26,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59741.281,
+                -222747.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1306,
+            "sap_func_loc": "GU-054-019",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89181.904,
+                -225722.865
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1309,
+            "sap_func_loc": "GU-034-010",
+            "sap_description": "Lock 41",
+            "sap_object_type": "010",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58790.451,
+                -222248.281
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1310,
+            "sap_func_loc": "GU-050-006",
+            "sap_description": "Lock 16, Bascote Lock 3",
+            "sap_object_type": "010",
+            "angle": 183,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83284.786,
+                -226759.862
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1311,
+            "sap_func_loc": "GU-046-006",
+            "sap_description": "Weired Lock 23 next to Lock 23",
+            "sap_object_type": "018",
+            "angle": 196,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                76371.557,
+                -225454.807
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1417,
+            "sap_func_loc": "GU-060-004",
+            "sap_description": "Weired Lock 3, Calcutt Lock 3",
+            "sap_object_type": "018",
+            "angle": 235,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95230.248,
+                -227860.065
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1418,
+            "sap_func_loc": "GU-035-009",
+            "sap_description": "Lock 31",
+            "sap_object_type": "010",
+            "angle": 18,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60740.075,
+                -223100.911
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1421,
+            "sap_func_loc": "GU-019-008",
+            "sap_description": "Lock 47, Knowle Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50045.875,
+                -207182.48
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1425,
+            "sap_func_loc": "GU-034-003",
+            "sap_description": "Lock 43",
+            "sap_object_type": "010",
+            "angle": 358,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58488.85,
+                -222166.607
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1426,
+            "sap_func_loc": "GU-054-022",
+            "sap_description": "Weired Lock 7, Stockton Lock 7",
+            "sap_object_type": "018",
+            "angle": 158,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89327.472,
+                -225683.237
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1434,
+            "sap_func_loc": "GU-047-001",
+            "sap_description": "Lock 22, Fosse Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 214,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77703.964,
+                -226007.474
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1435,
+            "sap_func_loc": "GU-034-020",
+            "sap_description": "Weired Lock 37 next to Hatton Lock 37",
+            "sap_object_type": "018",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59259.327,
+                -222502.632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1439,
+            "sap_func_loc": "GU-036-004",
+            "sap_description": "Weired Lock 28 next to Hatton Lock 28",
+            "sap_object_type": "018",
+            "angle": 44,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61728.957,
+                -224078.033
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1443,
+            "sap_func_loc": "GU-033-022",
+            "sap_description": "Weired Lock 44 next to Hatton Lock 44",
+            "sap_object_type": "018",
+            "angle": 352,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58340.316,
+                -222162.608
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1446,
+            "sap_func_loc": "GU-034-016",
+            "sap_description": "Lock 38",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59143.804,
+                -222426.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1451,
+            "sap_func_loc": "GU-019-006",
+            "sap_description": "Lock 49, Knowle Lock 3",
+            "sap_object_type": "010",
+            "angle": 70,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                49948.752,
+                -206918.138
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1456,
+            "sap_func_loc": "GU-056-002",
+            "sap_description": "Weired Lock 5, Stockton Lock 5",
+            "sap_object_type": "018",
+            "angle": 150,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89615.763,
+                -225556.522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1457,
+            "sap_func_loc": "GU-033-007",
+            "sap_description": "Lock 46, Hatton Top Lock",
+            "sap_object_type": "010",
+            "angle": 352,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                57962.884,
+                -222232.783
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1458,
+            "sap_func_loc": "GU-035-007",
+            "sap_description": "Weired Lock 32 next to Hatton Lock 32",
+            "sap_object_type": "018",
+            "angle": 5,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60456.397,
+                -223035.63
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1459,
+            "sap_func_loc": "GU-034-040",
+            "sap_description": "Hatton Training Lock - Hatton Yard",
+            "sap_object_type": "038",
+            "angle": 32,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                58822.504,
+                -222369.542
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1462,
+            "sap_func_loc": "GU-034-017",
+            "sap_description": "Weired Lock 38 next to Hatton Lock 38",
+            "sap_object_type": "018",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                59111.141,
+                -222429.887
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1466,
+            "sap_func_loc": "GU-035-005",
+            "sap_description": "Weired Lock 33 next to Hatton Lock 33",
+            "sap_object_type": "018",
+            "angle": 27,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                60277.086,
+                -222988.891
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1471,
+            "sap_func_loc": "GU-054-004",
+            "sap_description": "Weired Lock 12, Stockton Lock 12",
+            "sap_object_type": "018",
+            "angle": 187,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88087.208,
+                -225891.723
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1494,
+            "sap_func_loc": "GU-054-014",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 162,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                88843.118,
+                -225840.976
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1497,
+            "sap_func_loc": "GU-049-008",
+            "sap_description": "Weired Lock 18 next to Lock 18",
+            "sap_object_type": "018",
+            "angle": 149,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                81866.348,
+                -227054.547
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1499,
+            "sap_func_loc": "GU-056-001",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                89610.996,
+                -225541.758
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1513,
+            "sap_func_loc": "GU-036-001",
+            "sap_description": "Lock 29",
+            "sap_object_type": "010",
+            "angle": 46,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61408.973,
+                -223786.738
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1517,
+            "sap_func_loc": "GU-060-005",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 254,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                95315.344,
+                -228004.789
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1518,
+            "sap_func_loc": "GU-047-006",
+            "sap_description": "Weired Lock 21 next to Lock 21",
+            "sap_object_type": "018",
+            "angle": 219,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78241.631,
+                -226336.909
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1521,
+            "sap_func_loc": "GU-216-010",
+            "sap_description": "Lock 96, Hanwell Flight",
+            "sap_object_type": "010",
+            "angle": 43,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                203230.378,
+                -365615.791
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1522,
+            "sap_func_loc": "GU-218-004",
+            "sap_description": "Lock 98, Osterley Lock",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                204694.04,
+                -366991.826
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1525,
+            "sap_func_loc": "GU-220-016",
+            "sap_description": "Lock 100B, Brentford Lock",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                207041.55,
+                -369447.688
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1529,
+            "sap_func_loc": "GU-168-001",
+            "sap_description": "Lock 51 Gas 1 Lock",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                177909.332,
+                -318825.568
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1532,
+            "sap_func_loc": "GU-132-010",
+            "sap_description": "Lock 22, Fenny Stratford Lock",
+            "sap_object_type": "010",
+            "angle": 255,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                162204.994,
+                -276378.211
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1533,
+            "sap_func_loc": "GU-147-004",
+            "sap_description": "Lock 28, Grove Lock",
+            "sap_object_type": "010",
+            "angle": 233,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                166967.563,
+                -294911.7
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1535,
+            "sap_func_loc": "GU-201-004",
+            "sap_description": "Lock 88, Uxbridge Lock",
+            "sap_object_type": "010",
+            "angle": 90,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                187898.79,
+                -357028.309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1538,
+            "sap_func_loc": "GU-185-004",
+            "sap_description": "Lock 75, Cassiobury Park",
+            "sap_object_type": "010",
+            "angle": 119,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                194251.278,
+                -335595.998
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1539,
+            "sap_func_loc": "GU-219-004",
+            "sap_description": "Lock 99, Clitheroes Lock",
+            "sap_object_type": "010",
+            "angle": 94,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                205937.131,
+                -368385.34
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1541,
+            "sap_func_loc": "GU-191-007",
+            "sap_description": "Lock 81, Batchworth Lock",
+            "sap_object_type": "010",
+            "angle": 170,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                189814.686,
+                -342265.183
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1542,
+            "sap_func_loc": "GU-159-005",
+            "sap_description": "Lock 42",
+            "sap_object_type": "010",
+            "angle": 211,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168275.959,
+                -309738.584
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1543,
+            "sap_func_loc": "GU-177-003",
+            "sap_description": "Lock 67",
+            "sap_object_type": "010",
+            "angle": 66,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                190322.93,
+                -324410.82
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1549,
+            "sap_func_loc": "GU-157-001",
+            "sap_description": "Lock 38",
+            "sap_object_type": "010",
+            "angle": 320,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168155.588,
+                -307495.192
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1550,
+            "sap_func_loc": "GU-172-006",
+            "sap_description": "Lock 60, Winkwell Locks",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                184146.07,
+                -322153.65
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1552,
+            "sap_func_loc": "GU-166-002",
+            "sap_description": "Lock 49, Northchurch Lock",
+            "sap_object_type": "010",
+            "angle": 60,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                176198.916,
+                -317763.484
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1554,
+            "sap_func_loc": "GU-155-001",
+            "sap_description": "Lock 36, Seabrook",
+            "sap_object_type": "010",
+            "angle": 313,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169205.726,
+                -305214.464
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1564,
+            "sap_func_loc": "GU-148-003",
+            "sap_description": "Lock 29, Church Lock",
+            "sap_object_type": "010",
+            "angle": 236,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167979.001,
+                -295783.441
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1565,
+            "sap_func_loc": "GU-172-002",
+            "sap_description": "Lock 59, Winkwell Locks",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                183451.22,
+                -322066.772
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1571,
+            "sap_func_loc": "GU-165-001",
+            "sap_description": "Lock 47, Dudswell Lock",
+            "sap_object_type": "010",
+            "angle": 40,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                174372.04,
+                -316269.037
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1573,
+            "sap_func_loc": "GU-176-008",
+            "sap_description": "Lock 66",
+            "sap_object_type": "010",
+            "angle": 53,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                190098.327,
+                -324052.091
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1574,
+            "sap_func_loc": "GU-153-001",
+            "sap_description": "Lock 32, Ivinghoe Locks",
+            "sap_object_type": "010",
+            "angle": 266,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169735.936,
+                -302237.965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1575,
+            "sap_func_loc": "GU-139-008",
+            "sap_description": "Lock 25, Three Locks middle",
+            "sap_object_type": "010",
+            "angle": 212,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                163300.327,
+                -286112.314
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1577,
+            "sap_func_loc": "GU-176-003",
+            "sap_description": "Lock 65, Apsley Lock",
+            "sap_object_type": "010",
+            "angle": 56,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                189870.278,
+                -323702.98
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1621,
+            "sap_func_loc": "GU-137-006",
+            "sap_description": "Lock 23, Stoke Hammond Lock",
+            "sap_object_type": "010",
+            "angle": 239,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                162584.995,
+                -283509.177
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1622,
+            "sap_func_loc": "GU-139-007",
+            "sap_description": "Lock 24, Three Locks bottom",
+            "sap_object_type": "010",
+            "angle": 210,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                163183.393,
+                -286038.78
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1623,
+            "sap_func_loc": "GU-139-011",
+            "sap_description": "Lock 26, Three Locks top",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                163405.839,
+                -286190.517
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1624,
+            "sap_func_loc": "GU-144-001",
+            "sap_description": "Lock 27, Leighton Lock",
+            "sap_object_type": "010",
+            "angle": 283,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167693.253,
+                -289729.425
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1629,
+            "sap_func_loc": "GU-197-006",
+            "sap_description": "Lock 86, Widewater Lock",
+            "sap_object_type": "010",
+            "angle": 77,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                187614.383,
+                -350736.687
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1630,
+            "sap_func_loc": "GU-196-003",
+            "sap_description": "Lock 85, Black Jacks Lock",
+            "sap_object_type": "010",
+            "angle": 57,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                186592.165,
+                -348085.802
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1631,
+            "sap_func_loc": "GU-220-015",
+            "sap_description": "Lock 100A, Brentford Lock",
+            "sap_object_type": "010",
+            "angle": 110,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                207024.071,
+                -369440.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1632,
+            "sap_func_loc": "GU-200-003",
+            "sap_description": "Lock 87, Denham Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                188042.913,
+                -354719.214
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1633,
+            "sap_func_loc": "GU-204-011",
+            "sap_description": "Lock 89, Cowley Lock",
+            "sap_object_type": "010",
+            "angle": 81,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                187655.92,
+                -361246.455
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1634,
+            "sap_func_loc": "GU-216-004",
+            "sap_description": "Lock 92, Hanwell Top Lock",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                202480.677,
+                -365500.739
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1635,
+            "sap_func_loc": "GU-216-006",
+            "sap_description": "Lock 93, Hanwell Flight",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                202751.357,
+                -365447.346
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1636,
+            "sap_func_loc": "GU-195-001",
+            "sap_description": "Lock 84, Copper Mill Lock",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                186242.556,
+                -346555.477
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1637,
+            "sap_func_loc": "GU-193-003",
+            "sap_description": "Lock 83, Springwell Lock",
+            "sap_object_type": "010",
+            "angle": 123,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                186661.312,
+                -343936.261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1638,
+            "sap_func_loc": "GU-189-004",
+            "sap_description": "Lock 80, Lot Mead",
+            "sap_object_type": "010",
+            "angle": 140,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                191530.003,
+                -341706.221
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1639,
+            "sap_func_loc": "GU-188-002",
+            "sap_description": "Lock 79, Common Moor Lock",
+            "sap_object_type": "010",
+            "angle": 131,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                192888.117,
+                -340405.973
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1640,
+            "sap_func_loc": "GU-187-004",
+            "sap_description": "Lock 78, Cassiobridge Lock",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                194119.143,
+                -338749.71
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1641,
+            "sap_func_loc": "GU-186-002",
+            "sap_description": "Lock 77, Ironbridge Lock",
+            "sap_object_type": "010",
+            "angle": 87,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                194207.121,
+                -336976.593
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1642,
+            "sap_func_loc": "GU-185-005",
+            "sap_description": "Lock 76, Cassiobury Park",
+            "sap_object_type": "010",
+            "angle": 119,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                194117.482,
+                -335828.764
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1643,
+            "sap_func_loc": "GU-183-005",
+            "sap_description": "Lock 74, Lady Capels",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                193692.564,
+                -333945.476
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1644,
+            "sap_func_loc": "GU-182-010",
+            "sap_description": "Lock 73",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                193433.218,
+                -332594.974
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1645,
+            "sap_func_loc": "GU-216-008",
+            "sap_description": "Lock 95, Hanwell Flight",
+            "sap_object_type": "010",
+            "angle": 29,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                203104.477,
+                -365508.406
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1646,
+            "sap_func_loc": "GU-217-001",
+            "sap_description": "Lock 97, Hanwell Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 38,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                203359.155,
+                -365737.716
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1647,
+            "sap_func_loc": "GU-221-013",
+            "sap_description": "Lock 101B, Thames Lock (Boat yard side)",
+            "sap_object_type": "010",
+            "angle": 343,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                207807.743,
+                -369594.034
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1648,
+            "sap_func_loc": "GU-151-004",
+            "sap_description": "Lock 30, Slapton Lock",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169096.697,
+                -299386.181
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1649,
+            "sap_func_loc": "GU-152-003",
+            "sap_description": "Lock 31, Horton Lock",
+            "sap_object_type": "010",
+            "angle": 270,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169515.835,
+                -300591.965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1650,
+            "sap_func_loc": "GU-153-003",
+            "sap_description": "Lock 33, Ivinghoe Locks",
+            "sap_object_type": "010",
+            "angle": 263,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169850.131,
+                -302617.698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1651,
+            "sap_func_loc": "GU-154-006",
+            "sap_description": "Lock 34, Seabrook",
+            "sap_object_type": "010",
+            "angle": 276,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                170025.412,
+                -304320.793
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1652,
+            "sap_func_loc": "GU-154-010",
+            "sap_description": "Lock 35, Seabrook",
+            "sap_object_type": "010",
+            "angle": 302,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                169409.566,
+                -304764.621
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1653,
+            "sap_func_loc": "GU-158-011",
+            "sap_description": "Lock 39",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167497.821,
+                -309280.637
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1654,
+            "sap_func_loc": "GU-158-017",
+            "sap_description": "Lock 40",
+            "sap_object_type": "010",
+            "angle": 147,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167849.422,
+                -309572.063
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1655,
+            "sap_func_loc": "GU-159-003",
+            "sap_description": "Lock 41",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168125.525,
+                -309575.519
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1656,
+            "sap_func_loc": "GU-159-007",
+            "sap_description": "Lock 43",
+            "sap_object_type": "010",
+            "angle": 148,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168455.428,
+                -309727.319
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1657,
+            "sap_func_loc": "GU-159-008",
+            "sap_description": "Lock 44",
+            "sap_object_type": "010",
+            "angle": 182,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168670.833,
+                -309694.054
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1658,
+            "sap_func_loc": "GU-159-009",
+            "sap_description": "Lock 45",
+            "sap_object_type": "010",
+            "angle": 203,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168899.277,
+                -309741.993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1659,
+            "sap_func_loc": "GU-164-004",
+            "sap_description": "Lock 46, Cowroast Lock",
+            "sap_object_type": "010",
+            "angle": 42,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                173581.805,
+                -315564.671
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1660,
+            "sap_func_loc": "GU-167-001",
+            "sap_description": "Lock 50, Bushes Lock",
+            "sap_object_type": "010",
+            "angle": 25,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                176894.628,
+                -318411.084
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1661,
+            "sap_func_loc": "GU-168-004",
+            "sap_description": "Lock 52, Gas 2 Lock",
+            "sap_object_type": "010",
+            "angle": 28,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                178091.33,
+                -318922.947
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1662,
+            "sap_func_loc": "GU-169-004",
+            "sap_description": "Lock 54",
+            "sap_object_type": "010",
+            "angle": 55,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                179682.177,
+                -319725.779
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1663,
+            "sap_func_loc": "GU-170-003",
+            "sap_description": "Lock 56",
+            "sap_object_type": "010",
+            "angle": 35,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                181095.726,
+                -320669.218
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1664,
+            "sap_func_loc": "GU-171-001",
+            "sap_description": "Lock 57",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                181641.106,
+                -321140.985
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1665,
+            "sap_func_loc": "GU-173-003",
+            "sap_description": "Lock 61, Winkwell Locks",
+            "sap_object_type": "010",
+            "angle": 11,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                184694.13,
+                -322242.436
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1666,
+            "sap_func_loc": "GU-174-005",
+            "sap_description": "Lock 63, Fishery Lock",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                186998.275,
+                -322639.068
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1667,
+            "sap_func_loc": "GU-175-005",
+            "sap_description": "Lock 64",
+            "sap_object_type": "010",
+            "angle": 13,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                188716.307,
+                -322833.285
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1668,
+            "sap_func_loc": "GU-178-003",
+            "sap_description": "Lock 69, Nash Mills",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                191334.788,
+                -325579.77
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1669,
+            "sap_func_loc": "GU-179-005",
+            "sap_description": "Lock 69A, Kings Langley",
+            "sap_object_type": "010",
+            "angle": 64,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                192242.861,
+                -328055.174
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1670,
+            "sap_func_loc": "GU-180-007",
+            "sap_description": "Lock 70",
+            "sap_object_type": "010",
+            "angle": 113,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                192525.505,
+                -329311.579
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1671,
+            "sap_func_loc": "GU-182-007",
+            "sap_description": "Lock 72",
+            "sap_object_type": "010",
+            "angle": 74,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                193304.862,
+                -332270.886
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1672,
+            "sap_func_loc": "GU-169-008",
+            "sap_description": "Lock 55, Rising Sun",
+            "sap_object_type": "010",
+            "angle": 65,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                179794.116,
+                -319938.235
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1674,
+            "sap_func_loc": "GU-174-002",
+            "sap_description": "Lock 62 - Boxmoor Lock",
+            "sap_object_type": "010",
+            "angle": 16,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                185982.205,
+                -322493.59
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1695,
+            "sap_func_loc": "GU-168-007",
+            "sap_description": "Lock 53",
+            "sap_object_type": "010",
+            "angle": 10,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                178934.261,
+                -319371.363
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1696,
+            "sap_func_loc": "GU-171-003",
+            "sap_description": "Lock 58",
+            "sap_object_type": "010",
+            "angle": 3,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                182243.214,
+                -321434.431
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1697,
+            "sap_func_loc": "GU-156-005",
+            "sap_description": "Lock 37",
+            "sap_object_type": "010",
+            "angle": 323,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                168309.319,
+                -307392.749
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1698,
+            "sap_func_loc": "GU-216-007",
+            "sap_description": "Lock 94, Hanwell Flight",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                202937.514,
+                -365443.514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1700,
+            "sap_func_loc": "GU-181-004",
+            "sap_description": "Lock 71",
+            "sap_object_type": "010",
+            "angle": 52,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                192870.335,
+                -330669.266
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1704,
+            "sap_func_loc": "GU-221-012",
+            "sap_description": "Lock 101A, Thames Lock (House side)",
+            "sap_object_type": "010",
+            "angle": 343,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                207812.179,
+                -369610.212
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1707,
+            "sap_func_loc": "GU-192-002",
+            "sap_description": "Lock 82, Stockers Lock",
+            "sap_object_type": "010",
+            "angle": 124,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                188162.764,
+                -343114.375
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1711,
+            "sap_func_loc": "GU-178-002",
+            "sap_description": "Lock 68, Nash Mills Lock",
+            "sap_object_type": "010",
+            "angle": 66,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                191203.396,
+                -325237.598
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1713,
+            "sap_func_loc": "GU-215-012",
+            "sap_description": "Lock 90, Norwood Top Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                201281.896,
+                -366100.962
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1717,
+            "sap_func_loc": "GU-215-015",
+            "sap_description": "Lock 91, Norwood Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 327,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                201681.798,
+                -365862.284
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1720,
+            "sap_func_loc": "GU-165-002",
+            "sap_description": "Lock 48, Dudswell Lock",
+            "sap_object_type": "010",
+            "angle": 22,
+            "waterway_name": "Grand Union Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                174749.143,
+                -316548.079
+            ]
+        }
+    }
+]

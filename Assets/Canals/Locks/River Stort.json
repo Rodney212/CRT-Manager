@@ -1,0 +1,290 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1526,
+            "sap_func_loc": "SR-005-003",
+            "sap_description": "Lock 12, Hunsdon Mill Lock",
+            "sap_object_type": "010",
+            "angle": 98,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                248339.124,
+                -315738.108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1531,
+            "sap_func_loc": "SR-017-004",
+            "sap_description": "Lock 4, Tednambury Lock",
+            "sap_object_type": "010",
+            "angle": 109,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                260192.151,
+                -307176.535
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1556,
+            "sap_func_loc": "SR-009-002",
+            "sap_description": "Lock 9, Latton Lock",
+            "sap_object_type": "010",
+            "angle": 165,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                254161.032,
+                -314660.643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1563,
+            "sap_func_loc": "SR-007-015",
+            "sap_description": "Lock 10, Burnt Mill Lock",
+            "sap_object_type": "010",
+            "angle": 196,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                252122.444,
+                -315897.913
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1576,
+            "sap_func_loc": "SR-014-007",
+            "sap_description": "Lock 6, Sheering Mill Lock",
+            "sap_object_type": "010",
+            "angle": 139,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                259210.775,
+                -310974.132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1682,
+            "sap_func_loc": "SR-001-001",
+            "sap_description": "Lock 15, Lower Lock",
+            "sap_object_type": "010",
+            "angle": 187,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                243821.509,
+                -318494.417
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1683,
+            "sap_func_loc": "SR-002-002",
+            "sap_description": "Lock 14, Brick Lock",
+            "sap_object_type": "010",
+            "angle": 159,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                244714.238,
+                -317776.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1684,
+            "sap_func_loc": "SR-003-005",
+            "sap_description": "Lock 13, Roydon Lock",
+            "sap_object_type": "010",
+            "angle": 170,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                246486.186,
+                -317072.457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1685,
+            "sap_func_loc": "SR-007-002",
+            "sap_description": "Lock 11, Parndon Mill Lock",
+            "sap_object_type": "010",
+            "angle": 206,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                250838.973,
+                -316139.386
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1686,
+            "sap_func_loc": "SR-011-003",
+            "sap_description": "Lock 8, Harlow Mill Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                256334.266,
+                -313477.814
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1687,
+            "sap_func_loc": "SR-013-001",
+            "sap_description": "Lock 7, Feakes Lock",
+            "sap_object_type": "010",
+            "angle": 67,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                258509.212,
+                -312588.454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1688,
+            "sap_func_loc": "SR-015-003",
+            "sap_description": "Lock 5, Sawbridgeworth Lock",
+            "sap_object_type": "010",
+            "angle": 56,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                258944.726,
+                -309700.016
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1689,
+            "sap_func_loc": "SR-018-002",
+            "sap_description": "Lock 3, Spellbrook Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                259715.151,
+                -305932.777
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1690,
+            "sap_func_loc": "SR-020-003",
+            "sap_description": "Lock 2, Twyford Lock",
+            "sap_object_type": "010",
+            "angle": 166,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                260393.028,
+                -303237.264
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1691,
+            "sap_func_loc": "SR-021-002",
+            "sap_description": "Lock 1, South Mill Lock",
+            "sap_object_type": "010",
+            "angle": 89,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                260562.017,
+                -302119.142
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1725,
+            "sap_func_loc": "SR-001-008",
+            "sap_description": "Roydon Marina Lock",
+            "sap_object_type": "010",
+            "angle": 0,
+            "waterway_name": "River Stort"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                244200.524,
+                -318149.079
+            ]
+        }
+    }
+]

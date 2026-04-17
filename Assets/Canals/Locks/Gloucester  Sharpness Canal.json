@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 865,
+            "sap_func_loc": "GS-001-011",
+            "sap_description": "Sharpness Inner Lock Chamber",
+            "sap_object_type": "010",
+            "angle": 150,
+            "waterway_name": "Gloucester & Sharpness Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -34278.327,
+                -327298.082
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 866,
+            "sap_func_loc": "GS-001-003",
+            "sap_description": "Sharpness Tidal Basin",
+            "sap_object_type": "010",
+            "angle": 152,
+            "waterway_name": "Gloucester & Sharpness Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -34495.201,
+                -327399.681
+            ]
+        }
+    }
+]

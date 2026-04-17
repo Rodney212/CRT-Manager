@@ -1,0 +1,326 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 659,
+            "sap_func_loc": "GR-050-001",
+            "sap_description": "Weired Lock 2, Bridgford Lock",
+            "sap_object_type": "018",
+            "angle": 248,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118142.776,
+                -106808.449
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 664,
+            "sap_func_loc": "GR-007-003",
+            "sap_description": "Lock 17, Woolsthorpe Middle Lock",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                158482.011,
+                -110851.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 692,
+            "sap_func_loc": "GR-008-001",
+            "sap_description": "Lock 15, Woolsthorpe Lock",
+            "sap_object_type": "010",
+            "angle": 251,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                157999.346,
+                -109379.748
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 706,
+            "sap_func_loc": "GR-009-002",
+            "sap_description": "Weired Lock 12, Muston Lock",
+            "sap_object_type": "018",
+            "angle": 206,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                157015.326,
+                -108069.732
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 711,
+            "sap_func_loc": "GR-045-009",
+            "sap_description": "Weired Lock 5, Sanders Lock",
+            "sap_object_type": "018",
+            "angle": 170,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                124418.664,
+                -107851.547
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 758,
+            "sap_func_loc": "GR-044-004",
+            "sap_description": "Lock 7, Hollygate Lock",
+            "sap_object_type": "010",
+            "angle": 215,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                126386.801,
+                -108518.457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 759,
+            "sap_func_loc": "GR-045-001",
+            "sap_description": "Lock 6, Cotgrave Lock",
+            "sap_object_type": "010",
+            "angle": 217,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                125569.636,
+                -107714.131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 787,
+            "sap_func_loc": "GR-052-004",
+            "sap_description": "Lock 1 - Trent Lock",
+            "sap_object_type": "038",
+            "angle": 251,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115677.335,
+                -104437.217
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 788,
+            "sap_func_loc": "GR-008-004",
+            "sap_description": "Weired Lock 13, Stenwith Bottom Lock",
+            "sap_object_type": "018",
+            "angle": 228,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                157654.416,
+                -108455.93
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 789,
+            "sap_func_loc": "GR-041-002",
+            "sap_description": "Weired Lock 11, Cropwell Top Lock",
+            "sap_object_type": "018",
+            "angle": 194,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                130275.811,
+                -107579.192
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 790,
+            "sap_func_loc": "GR-041-004",
+            "sap_description": "Weired Lock 10, Cropwell Middle Lock",
+            "sap_object_type": "018",
+            "angle": 141,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                129924.462,
+                -107600.858
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 791,
+            "sap_func_loc": "GR-041-005",
+            "sap_description": "Weired Lock 9, Cropwell Bottom Lock",
+            "sap_object_type": "018",
+            "angle": 127,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                129694.719,
+                -107810.129
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 792,
+            "sap_func_loc": "GR-043-002",
+            "sap_description": "Weired Lock 8, Josses Lock",
+            "sap_object_type": "018",
+            "angle": 168,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                127451.333,
+                -109136.959
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 793,
+            "sap_func_loc": "GR-046-003",
+            "sap_description": "Weired Lock 4, Skinners Lock",
+            "sap_object_type": "018",
+            "angle": 165,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                123814.399,
+                -107969.732
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 794,
+            "sap_func_loc": "GR-049-004",
+            "sap_description": "Weired Lock 3, Gamston Lock",
+            "sap_object_type": "018",
+            "angle": 161,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118695.641,
+                -107494.233
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 795,
+            "sap_func_loc": "GR-008-003",
+            "sap_description": "Lock 14, Kingston's Lock",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                157787.664,
+                -108697.253
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 816,
+            "sap_func_loc": "GR-007-006",
+            "sap_description": "Lock 16, Woolsthorpe Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 251,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                158386.413,
+                -110637.755
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 817,
+            "sap_func_loc": "GR-007-001",
+            "sap_description": "Lock 18, Woolsthorpe Top Lock",
+            "sap_object_type": "010",
+            "angle": 190,
+            "waterway_name": "Grantham Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                158723.94,
+                -111026.959
+            ]
+        }
+    }
+]

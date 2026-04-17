@@ -1,0 +1,218 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 995,
+            "sap_func_loc": "BP-001-003",
+            "sap_description": "Lock 6, Delph",
+            "sap_object_type": "010",
+            "angle": 133,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5535.899,
+                -189953.465
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 997,
+            "sap_func_loc": "BP-004-013",
+            "sap_description": "Lock 1, Parkhead Top Lock",
+            "sap_object_type": "010",
+            "angle": 72,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7967.039,
+                -185707.853
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1004,
+            "sap_func_loc": "BP-001-010",
+            "sap_description": "Lock 1, Delph Top Lock",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5882.639,
+                -189522.385
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1024,
+            "sap_func_loc": "BP-001-007",
+            "sap_description": "Lock 2, Delph",
+            "sap_object_type": "010",
+            "angle": 132,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5828.747,
+                -189640.781
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1095,
+            "sap_func_loc": "BP-004-008",
+            "sap_description": "Lock 2, Parkhead",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8016.402,
+                -185831.077
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1276,
+            "sap_func_loc": "BP-001-001",
+            "sap_description": "Lock 8, Delph Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 168,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5352.597,
+                -190103.298
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1277,
+            "sap_func_loc": "BP-001-002",
+            "sap_description": "Lock 7, Delph",
+            "sap_object_type": "010",
+            "angle": 134,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5463.918,
+                -190030.812
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1278,
+            "sap_func_loc": "BP-001-006",
+            "sap_description": "Lock 3, Delph",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5755.122,
+                -189718.131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1279,
+            "sap_func_loc": "BP-004-004",
+            "sap_description": "Lock, Blowers Green Lock",
+            "sap_object_type": "010",
+            "angle": 77,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8121.759,
+                -186131.753
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1280,
+            "sap_func_loc": "BP-004-006",
+            "sap_description": "Lock 3, Parkhead Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8087.15,
+                -186005.227
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1416,
+            "sap_func_loc": "BP-001-004",
+            "sap_description": "Lock 5, Delph",
+            "sap_object_type": "010",
+            "angle": 134,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5607.881,
+                -189876.117
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1467,
+            "sap_func_loc": "BP-001-005",
+            "sap_description": "Lock 4, Delph",
+            "sap_object_type": "010",
+            "angle": 134,
+            "waterway_name": "Dudley No 1 Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5683.137,
+                -189795.478
+            ]
+        }
+    }
+]

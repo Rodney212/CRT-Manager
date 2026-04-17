@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 218,
+            "sap_func_loc": "SM-001-002",
+            "sap_description": "Lock 1, Wardle Lock",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Middlewich Branch (Shrop Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -30111.162,
+                -58862.453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 219,
+            "sap_func_loc": "SM-002-005",
+            "sap_description": "Lock 3, Stanthorne Lock",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Middlewich Branch (Shrop Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -32297.18,
+                -58814.537
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 220,
+            "sap_func_loc": "SM-012-002",
+            "sap_description": "Lock 3 Minshull Lock",
+            "sap_object_type": "010",
+            "angle": 357,
+            "waterway_name": "Middlewich Branch (Shrop Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -38621.992,
+                -70936.087
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 221,
+            "sap_func_loc": "SM-014-005",
+            "sap_description": "Lock 1 Cholmondeston Lock",
+            "sap_object_type": "010",
+            "angle": 330,
+            "waterway_name": "Middlewich Branch (Shrop Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -41921.035,
+                -72407.879
+            ]
+        }
+    }
+]

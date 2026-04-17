@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 423,
+            "sap_func_loc": "SE-001-001",
+            "sap_description": "Selby Lock (Lock 1)",
+            "sap_object_type": "010",
+            "angle": 302,
+            "waterway_name": "Selby Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                124009.263,
+                52391.645
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 430,
+            "sap_func_loc": "SE-009-003",
+            "sap_description": "Haddlesey Flood Lock (Lock 2)",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "Selby Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                115240.694,
+                42755.024
+            ]
+        }
+    }
+]

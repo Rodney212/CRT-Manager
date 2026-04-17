@@ -1,0 +1,236 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1005,
+            "sap_func_loc": "CC-029-008",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67512.427,
+                -169508.693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1010,
+            "sap_func_loc": "CC-042-008",
+            "sap_description": "Lock 13, Glascote Bottom Lock",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54430.429,
+                -162624.74
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1087,
+            "sap_func_loc": "CC-028-003",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68865.197,
+                -171562.548
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1131,
+            "sap_func_loc": "CC-042-007",
+            "sap_description": "Lock 12, Glascote Top Lock",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54546.374,
+                -162440.61
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1281,
+            "sap_func_loc": "CC-027-011",
+            "sap_description": "Lock 1, Atherstone Top Lock",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                69150.473,
+                -171916.731
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1282,
+            "sap_func_loc": "CC-028-001",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68998.529,
+                -171784.044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1283,
+            "sap_func_loc": "CC-028-005",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68791.064,
+                -171329.889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1284,
+            "sap_func_loc": "CC-029-001",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 210,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68161.922,
+                -170514.081
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1285,
+            "sap_func_loc": "CC-029-004",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 240,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67979.029,
+                -170330.143
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1286,
+            "sap_func_loc": "CC-029-010",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 242,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                67405.129,
+                -169316.968
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1287,
+            "sap_func_loc": "CC-030-002",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                66842.198,
+                -168369.67
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1288,
+            "sap_func_loc": "CC-030-003",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 220,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                66637.894,
+                -168180.645
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1500,
+            "sap_func_loc": "CC-028-006",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 250,
+            "waterway_name": "Coventry Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68708.855,
+                -171074.118
+            ]
+        }
+    }
+]

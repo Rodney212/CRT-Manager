@@ -1,0 +1,452 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1029,
+            "sap_func_loc": "MO-026-002",
+            "sap_description": "Lock 1, Burgedin Lock",
+            "sap_object_type": "010",
+            "angle": 135,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -104209.045,
+                -144304.055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1045,
+            "sap_func_loc": "MO-019-016",
+            "sap_description": "Lock 1, Carreghofa Lock",
+            "sap_object_type": "010",
+            "angle": 144,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -104116.647,
+                -135176.151
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1115,
+            "sap_func_loc": "MO-001-002",
+            "sap_description": "Lock 1, Frankton Locks",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85313.908,
+                -115910.833
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1116,
+            "sap_func_loc": "MO-001-005",
+            "sap_description": "Lock 3, Frankton Locks",
+            "sap_object_type": "010",
+            "angle": 100,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85428.435,
+                -116134.534
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1117,
+            "sap_func_loc": "MO-002-004",
+            "sap_description": "Graham Palmer Lock",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85831.548,
+                -117308.762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1118,
+            "sap_func_loc": "MO-007-005",
+            "sap_description": "Lock 1, Aston Locks",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -90775.356,
+                -124759.68
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1119,
+            "sap_func_loc": "MO-008-001",
+            "sap_description": "Lock 2, Aston Locks",
+            "sap_object_type": "010",
+            "angle": 125,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91440.047,
+                -125446.298
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1120,
+            "sap_func_loc": "MO-019-018",
+            "sap_description": "Lock 2, Carreghofa Lock",
+            "sap_object_type": "010",
+            "angle": 133,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -104204.822,
+                -135237.066
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1121,
+            "sap_func_loc": "MO-026-004",
+            "sap_description": "Lock 2, Burgedin Lock",
+            "sap_object_type": "010",
+            "angle": 130,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -104340.193,
+                -144458.1
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1122,
+            "sap_func_loc": "MO-028-005",
+            "sap_description": "Bank Lock",
+            "sap_object_type": "010",
+            "angle": 286,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -102964.962,
+                -147313.267
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1123,
+            "sap_func_loc": "MO-029-002",
+            "sap_description": "Cabin Lock",
+            "sap_object_type": "010",
+            "angle": 280,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -103335.238,
+                -148100.19
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1124,
+            "sap_func_loc": "MO-029-004",
+            "sap_description": "Crowther Hall Lock",
+            "sap_object_type": "010",
+            "angle": 288,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -103361.838,
+                -148516.799
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1224,
+            "sap_func_loc": "MO-030-004",
+            "sap_description": "Pool Quay Lock",
+            "sap_object_type": "010",
+            "angle": 298,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -103620.448,
+                -149490.166
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1225,
+            "sap_func_loc": "MO-035-009",
+            "sap_description": "Welshpool Lock,",
+            "sap_object_type": "010",
+            "angle": 303,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -108468.022,
+                -156675.227
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1226,
+            "sap_func_loc": "MO-038-002",
+            "sap_description": "Lock 1, Belan Locks",
+            "sap_object_type": "010",
+            "angle": 324,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -109979.614,
+                -160018.347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1227,
+            "sap_func_loc": "MO-041-003",
+            "sap_description": "Brithdir Lock",
+            "sap_object_type": "010",
+            "angle": 290,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -112615.511,
+                -164924.963
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1228,
+            "sap_func_loc": "MO-043-001",
+            "sap_description": "Berriew Lock",
+            "sap_object_type": "010",
+            "angle": 291,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -113645.194,
+                -166693.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1229,
+            "sap_func_loc": "MO-050-005",
+            "sap_description": "Brynderwen Lock,",
+            "sap_object_type": "010",
+            "angle": 301,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -118505.335,
+                -176337.615
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1230,
+            "sap_func_loc": "MO-052-002",
+            "sap_description": "Byles Lock,",
+            "sap_object_type": "010",
+            "angle": 342,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -119717.669,
+                -177823.242
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1231,
+            "sap_func_loc": "MO-054-005",
+            "sap_description": "Freestone Lock,",
+            "sap_object_type": "038",
+            "angle": 305,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122358.71,
+                -180450.953
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1323,
+            "sap_func_loc": "MO-038-004",
+            "sap_description": "Lock 2, Belan Locks",
+            "sap_object_type": "010",
+            "angle": 320,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -110125.603,
+                -160147.69
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1438,
+            "sap_func_loc": "MO-052-004",
+            "sap_description": "Newhouse Lock,",
+            "sap_object_type": "010",
+            "angle": 317,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -120319.028,
+                -178075.582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1460,
+            "sap_func_loc": "MO-009-001",
+            "sap_description": "Lock 3, Aston Locks",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -91971.2,
+                -125985.315
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1493,
+            "sap_func_loc": "MO-001-006",
+            "sap_description": "Lock 4, Frankton Locks",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85510.378,
+                -116319.664
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1514,
+            "sap_func_loc": "MO-001-003",
+            "sap_description": "Lock 2, Frankton Locks",
+            "sap_object_type": "010",
+            "angle": 120,
+            "waterway_name": "Montgomery Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85339.916,
+                -115945.997
+            ]
+        }
+    }
+]

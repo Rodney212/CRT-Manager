@@ -1,0 +1,290 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1520,
+            "sap_func_loc": "GA-008-003",
+            "sap_description": "Lock 14",
+            "sap_object_type": "010",
+            "angle": 172,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                155007.433,
+                -308949.624
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1523,
+            "sap_func_loc": "GA-003-001",
+            "sap_description": "Lock 10",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                163024.173,
+                -309271.115
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1537,
+            "sap_func_loc": "GA-005-001",
+            "sap_description": "Lock 12",
+            "sap_object_type": "010",
+            "angle": 184,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                160614.924,
+                -309523.348
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1546,
+            "sap_func_loc": "GA-001-001",
+            "sap_description": "Lock 1",
+            "sap_object_type": "010",
+            "angle": 202,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167083.728,
+                -308871.485
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1566,
+            "sap_func_loc": "GA-005-002",
+            "sap_description": "Lock 13",
+            "sap_object_type": "010",
+            "angle": 185,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                159797.692,
+                -309431.387
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1568,
+            "sap_func_loc": "GA-009-004",
+            "sap_description": "Lock 15, Osier Bed Lock",
+            "sap_object_type": "010",
+            "angle": 160,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                153256.024,
+                -309279.894
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1569,
+            "sap_func_loc": "GA-001-004",
+            "sap_description": "Lock 3",
+            "sap_object_type": "010",
+            "angle": 202,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                166840.186,
+                -308763.402
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1613,
+            "sap_func_loc": "GA-001-002",
+            "sap_description": "Lock 2",
+            "sap_object_type": "010",
+            "angle": 202,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                167022.843,
+                -308844.464
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1614,
+            "sap_func_loc": "GA-001-006",
+            "sap_description": "Lock 4",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                166601.393,
+                -308660.27
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1615,
+            "sap_func_loc": "GA-001-008",
+            "sap_description": "Lock 6",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                165820.154,
+                -308720.563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1616,
+            "sap_func_loc": "GA-002-001",
+            "sap_description": "Lock 7",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                165397.553,
+                -308777.684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1617,
+            "sap_func_loc": "GA-002-002",
+            "sap_description": "Lock 8",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                165088.305,
+                -308819.059
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1618,
+            "sap_func_loc": "GA-002-005",
+            "sap_description": "Lock 9",
+            "sap_object_type": "010",
+            "angle": 167,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                164501.504,
+                -308936.417
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1619,
+            "sap_func_loc": "GA-003-002",
+            "sap_description": "Lock 11",
+            "sap_object_type": "010",
+            "angle": 165,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                162513.355,
+                -309388.351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1714,
+            "sap_func_loc": "GA-001-007",
+            "sap_description": "Lock 5",
+            "sap_object_type": "010",
+            "angle": 171,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                166184.453,
+                -308672.118
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1715,
+            "sap_func_loc": "GA-010-001",
+            "sap_description": "Lock 16",
+            "sap_object_type": "010",
+            "angle": 157,
+            "waterway_name": "Aylesbury Arm (Grand Union Canal)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                152448.089,
+                -309600.115
+            ]
+        }
+    }
+]

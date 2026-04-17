@@ -1,0 +1,614 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 392,
+            "sap_func_loc": "CA-015-004",
+            "sap_description": "Lock 16, Cooper Bridge",
+            "sap_object_type": "010",
+            "angle": 353,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48971.305,
+                33387.74
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 394,
+            "sap_func_loc": "CA-018-004",
+            "sap_description": "Flood Lock, Ledgard",
+            "sap_object_type": "010",
+            "angle": 392,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                52893.235,
+                31841.45
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 395,
+            "sap_func_loc": "CA-032-002",
+            "sap_description": "Flood Lock, Thornes",
+            "sap_object_type": "010",
+            "angle": 340,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                72665.994,
+                29923.821
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 396,
+            "sap_func_loc": "CA-035-001",
+            "sap_description": "Flood Lock, Wakefield",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                75748.366,
+                31969.345
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 414,
+            "sap_func_loc": "CA-004-014",
+            "sap_description": "Lock 3, Salterhebble Bottom",
+            "sap_object_type": "010",
+            "angle": 8,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35064.777,
+                36388.29
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 415,
+            "sap_func_loc": "CA-026-005",
+            "sap_description": "Lock 24, Figure Of Three Bottom",
+            "sap_object_type": "010",
+            "angle": 44,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                63998.122,
+                30458.88
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 417,
+            "sap_func_loc": "CA-009-006",
+            "sap_description": "Disused Lock, Brookfoot",
+            "sap_object_type": "038",
+            "angle": 300,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41655.812,
+                37173.336
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 418,
+            "sap_func_loc": "CA-026-003",
+            "sap_description": "Lock 23, Figure Of Three Top",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                63894.337,
+                30577.676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 419,
+            "sap_func_loc": "CA-026-001",
+            "sap_description": "Weired Lock, Figure Of Three",
+            "sap_object_type": "018",
+            "angle": 375,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                63898.135,
+                30653.648
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 456,
+            "sap_func_loc": "CA-017-004",
+            "sap_description": "Lock 17, Battyeford",
+            "sap_object_type": "010",
+            "angle": 355,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51003.994,
+                33003.073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 458,
+            "sap_func_loc": "CA-004-009",
+            "sap_description": "Lock 2, Salterhebble Middle",
+            "sap_object_type": "010",
+            "angle": 112,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34918.322,
+                36501.813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 459,
+            "sap_func_loc": "CA-005-001",
+            "sap_description": "Lock 4, Longlees",
+            "sap_object_type": "010",
+            "angle": 71,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35690.281,
+                35580.925
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 460,
+            "sap_func_loc": "CA-005-003",
+            "sap_description": "Lock 5, Woodside Mills",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36001.992,
+                34706.676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 461,
+            "sap_func_loc": "CA-007-003",
+            "sap_description": "Lock 7, Park Nook",
+            "sap_object_type": "010",
+            "angle": 310,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38004.417,
+                36089.445
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 462,
+            "sap_func_loc": "CA-009-002",
+            "sap_description": "Lock 8, Cromwell",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                40848.473,
+                36675.327
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 463,
+            "sap_func_loc": "CA-009-004",
+            "sap_description": "Lock 9, Brookfoot",
+            "sap_object_type": "010",
+            "angle": 328,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                41620.455,
+                37192.029
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 464,
+            "sap_func_loc": "CA-011-008",
+            "sap_description": "Lock 11, Brighouse Top",
+            "sap_object_type": "010",
+            "angle": 15,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43953.377,
+                36961.954
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 465,
+            "sap_func_loc": "CA-011-011",
+            "sap_description": "Lock 12, Brighouse Bottom",
+            "sap_object_type": "010",
+            "angle": 50,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                44040.662,
+                36836.613
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 466,
+            "sap_func_loc": "CA-014-003",
+            "sap_description": "Lock 15, Kirklees Low Lock",
+            "sap_object_type": "010",
+            "angle": 42,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47868.431,
+                35069.517
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 467,
+            "sap_func_loc": "CA-020-005",
+            "sap_description": "Lock 18, Shepley",
+            "sap_object_type": "010",
+            "angle": 344,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                55180.806,
+                32072.831
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 468,
+            "sap_func_loc": "CA-020-012",
+            "sap_description": "Lock 19, Greenwood",
+            "sap_object_type": "010",
+            "angle": 5,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                56364.987,
+                31984.572
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 469,
+            "sap_func_loc": "CA-024-001",
+            "sap_description": "Lock 20, Double Lock Top",
+            "sap_object_type": "010",
+            "angle": 335,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61016.301,
+                32089.727
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 470,
+            "sap_func_loc": "CA-024-002",
+            "sap_description": "Lock 21, Double Lock Bottom",
+            "sap_object_type": "010",
+            "angle": 14,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                61117.484,
+                32104.395
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 471,
+            "sap_func_loc": "CA-025-001",
+            "sap_description": "Lock 22, Millbank",
+            "sap_object_type": "010",
+            "angle": 30,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                62514.355,
+                31166.276
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 472,
+            "sap_func_loc": "CA-030-003",
+            "sap_description": "Lock 25, Broad Cut Top",
+            "sap_object_type": "010",
+            "angle": 343,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                69896.979,
+                27382.502
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 473,
+            "sap_func_loc": "CA-031-001",
+            "sap_description": "Lock 26, Broad Cut Low",
+            "sap_object_type": "010",
+            "angle": 318,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                70943.497,
+                27743.733
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 474,
+            "sap_func_loc": "CA-035-011",
+            "sap_description": "Lock 28, Fall Ing",
+            "sap_object_type": "010",
+            "angle": 325,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                76734.094,
+                31962.197
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 530,
+            "sap_func_loc": "CA-027-002",
+            "sap_description": "Disused Lock, Horbury",
+            "sap_object_type": "038",
+            "angle": 120,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                65852.988,
+                29021.339
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 561,
+            "sap_func_loc": "CA-004-003",
+            "sap_description": "Lock 1, Salterhebble",
+            "sap_object_type": "010",
+            "angle": 86,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34970.793,
+                36604.799
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 625,
+            "sap_func_loc": "CA-007-002",
+            "sap_description": "Lock 6, Elland",
+            "sap_object_type": "010",
+            "angle": 314,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                37610.596,
+                35657.77
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 628,
+            "sap_func_loc": "CA-014-001",
+            "sap_description": "Lock 14, Kirklees Top",
+            "sap_object_type": "010",
+            "angle": 4,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47289.936,
+                35461.932
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 630,
+            "sap_func_loc": "CA-033-007",
+            "sap_description": "Thornes Old Weired Lock",
+            "sap_object_type": "018",
+            "angle": 315,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                74123.094,
+                30390.057
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 638,
+            "sap_func_loc": "CA-033-003",
+            "sap_description": "Lock 27, Thornes",
+            "sap_object_type": "010",
+            "angle": 315,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                74121.655,
+                30425.53
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 653,
+            "sap_func_loc": "CA-010-009",
+            "sap_description": "Lock 10, Ganny",
+            "sap_object_type": "010",
+            "angle": 45,
+            "waterway_name": "Calder & Hebble Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                42492.691,
+                37360.208
+            ]
+        }
+    }
+]

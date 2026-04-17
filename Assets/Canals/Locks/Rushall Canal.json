@@ -1,0 +1,164 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1016,
+            "sap_func_loc": "RC-004-003",
+            "sap_description": "Lock 9, Rushall",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24423.573,
+                -174085.895
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1217,
+            "sap_func_loc": "RC-001-001",
+            "sap_description": "Lock 1, Top Lock Rushall",
+            "sap_object_type": "010",
+            "angle": 104,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25448.842,
+                -169217.155
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1218,
+            "sap_func_loc": "RC-003-002",
+            "sap_description": "Lock 3, Rushall",
+            "sap_object_type": "010",
+            "angle": 103,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24583.83,
+                -172686.545
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1219,
+            "sap_func_loc": "RC-003-006",
+            "sap_description": "Lock 5, Rushall",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24493.087,
+                -173287.457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1220,
+            "sap_func_loc": "RC-003-007",
+            "sap_description": "Lock 6, Rushall",
+            "sap_object_type": "010",
+            "angle": 96,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24476.527,
+                -173489.955
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1221,
+            "sap_func_loc": "RC-003-008",
+            "sap_description": "Lock 7, Rushall",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24459.971,
+                -173685.863
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1222,
+            "sap_func_loc": "RC-004-001",
+            "sap_description": "Lock 8, Rushall",
+            "sap_object_type": "010",
+            "angle": 95,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24440.123,
+                -173896.582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1253,
+            "sap_func_loc": "RC-001-002",
+            "sap_description": "Lock 2, Rushall",
+            "sap_object_type": "010",
+            "angle": 104,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25394.449,
+                -169432.9
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1486,
+            "sap_func_loc": "RC-003-004",
+            "sap_description": "Lock 4, Rushall",
+            "sap_object_type": "010",
+            "angle": 94,
+            "waterway_name": "Rushall Canal"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24511.308,
+                -173060.257
+            ]
+        }
+    }
+]
