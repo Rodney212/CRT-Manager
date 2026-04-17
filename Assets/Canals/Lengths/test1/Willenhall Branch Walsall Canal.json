@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 3080,
+            "functionallocation": "WL-001",
+            "sapcanalcode": "WL",
+            "name": "Willenhall Branch (Walsall Canal)",
+            "region": "West Midlands",
+            "sapwidth": "Narrow",
+            "sapnavstatus": "Unavailable for Navigation",
+            "globalid": "d3a73552-29b1-4366-aed1-0f9b9476ad0e"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    104771.488,
+                    -153923.07
+                ],
+                [
+                    104754.237,
+                    -153915.061
+                ],
+                [
+                    104735.197,
+                    -153906.223
+                ],
+                [
+                    104730.982,
+                    -153904.266
+                ]
+            ]
+        }
+    }
+]

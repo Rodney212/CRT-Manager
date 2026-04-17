@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 450,
+            "functionallocation": "EM-001",
+            "sapcanalcode": "EM",
+            "name": "Morpeth Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "6205844f-95e3-40e5-9632-6566517f8f8f"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -2814.812,
+                    -535.212
+                ],
+                [
+                    -2794.916,
+                    -542.333
+                ],
+                [
+                    -2620.324,
+                    -604.824
+                ],
+                [
+                    -2531.826,
+                    -449.918
+                ],
+                [
+                    -2049.126,
+                    -447.927
+                ]
+            ]
+        }
+    }
+]

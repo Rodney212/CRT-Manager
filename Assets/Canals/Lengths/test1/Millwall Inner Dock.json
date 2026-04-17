@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1727,
+            "functionallocation": "MI-001",
+            "sapcanalcode": "MI",
+            "name": "Millwall Inner Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "fe8a041d-0a91-455f-ad4a-09d247cc69a3"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    331493.6,
+                    -347337.567
+                ],
+                [
+                    331487.658,
+                    -347391.146
+                ],
+                [
+                    331412.999,
+                    -347954.99
+                ],
+                [
+                    331408.181,
+                    -347998.234
+                ],
+                [
+                    331404.998,
+                    -348026.81
+                ]
+            ]
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1803,
+            "functionallocation": "OW-001",
+            "sapcanalcode": "OW",
+            "name": "Newbold Arm (Oxford Canal)",
+            "region": "West Midlands",
+            "sapwidth": "Narrow",
+            "sapnavstatus": "Partially Navigable",
+            "globalid": "ece5d8b1-ea50-45a0-bf11-a46fafa08151"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    189227.921,
+                    -185344.47
+                ],
+                [
+                    189221.0,
+                    -185375.95
+                ],
+                [
+                    189216.895,
+                    -185383.69
+                ],
+                [
+                    189213.861,
+                    -185389.411
+                ],
+                [
+                    189203.749,
+                    -185408.478
+                ],
+                [
+                    189195.857,
+                    -185415.626
+                ],
+                [
+                    189186.996,
+                    -185422.762
+                ],
+                [
+                    189172.859,
+                    -185431.394
+                ],
+                [
+                    189159.223,
+                    -185439.72
+                ],
+                [
+                    189131.168,
+                    -185465.232
+                ],
+                [
+                    189127.752,
+                    -185468.361
+                ]
+            ]
+        }
+    }
+]

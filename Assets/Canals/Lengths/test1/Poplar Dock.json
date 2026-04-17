@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1929,
+            "functionallocation": "PD-001",
+            "sapcanalcode": "PD",
+            "name": "Poplar Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "38650cc2-735d-445c-ac09-41944f51a291"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    332266.156,
+                    -346578.731
+                ],
+                [
+                    332306.71,
+                    -346469.945
+                ],
+                [
+                    332267.905,
+                    -346214.811
+                ]
+            ]
+        }
+    }
+]

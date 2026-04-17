@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2713,
+            "functionallocation": "SZ-001",
+            "sapcanalcode": "SZ",
+            "name": "Salthouse Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "671e5353-6881-4922-b645-99b22edc84c1"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    313.784,
+                    -141.703
+                ],
+                [
+                    318.179,
+                    -139.777
+                ],
+                [
+                    324.432,
+                    -137.096
+                ],
+                [
+                    397.25,
+                    -105.878
+                ],
+                [
+                    558.971,
+                    -237.453
+                ],
+                [
+                    569.478,
+                    -255.422
+                ],
+                [
+                    578.921,
+                    -272.128
+                ],
+                [
+                    588.786,
+                    -294.885
+                ],
+                [
+                    594.614,
+                    -308.517
+                ],
+                [
+                    597.376,
+                    -312.47
+                ]
+            ]
+        }
+    }
+]

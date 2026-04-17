@@ -1,0 +1,64 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2909,
+            "functionallocation": "TQ-001",
+            "sapcanalcode": "TQ",
+            "name": "Titford Pools (Titford Canal)",
+            "region": "West Midlands",
+            "sapwidth": "Narrow",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "2db41182-908d-419c-a7b5-7ca5a89e71d4"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    108172.733,
+                    -168818.508
+                ],
+                [
+                    108164.088,
+                    -168798.578
+                ],
+                [
+                    108163.23,
+                    -168782.424
+                ],
+                [
+                    108164.823,
+                    -168778.058
+                ],
+                [
+                    108178.528,
+                    -168740.473
+                ],
+                [
+                    108192.471,
+                    -168702.238
+                ],
+                [
+                    108206.543,
+                    -168663.649
+                ],
+                [
+                    108220.616,
+                    -168625.059
+                ],
+                [
+                    108234.688,
+                    -168586.469
+                ],
+                [
+                    108248.761,
+                    -168547.879
+                ],
+                [
+                    108251.954,
+                    -168539.123
+                ]
+            ]
+        }
+    }
+]

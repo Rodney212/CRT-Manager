@@ -1,0 +1,28 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 449,
+            "functionallocation": "EL-001",
+            "sapcanalcode": "EL",
+            "name": "Egerton Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "4e616d31-600a-4967-a81b-79289765b26a"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -3044.487,
+                    -449.888
+                ],
+                [
+                    -2814.812,
+                    -535.212
+                ]
+            ]
+        }
+    }
+]

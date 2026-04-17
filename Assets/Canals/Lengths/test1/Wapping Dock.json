@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2944,
+            "functionallocation": "VZ-001",
+            "sapcanalcode": "VZ",
+            "name": "Wapping Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "3263f255-5df9-413d-8abc-d6bb9be34796"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    670.051,
+                    -521.469
+                ],
+                [
+                    671.903,
+                    -525.838
+                ],
+                [
+                    689.37,
+                    -571.433
+                ],
+                [
+                    697.684,
+                    -599.478
+                ],
+                [
+                    700.187,
+                    -607.92
+                ],
+                [
+                    705.842,
+                    -626.994
+                ],
+                [
+                    755.324,
+                    -793.905
+                ],
+                [
+                    835.723,
+                    -985.673
+                ]
+            ]
+        }
+    }
+]

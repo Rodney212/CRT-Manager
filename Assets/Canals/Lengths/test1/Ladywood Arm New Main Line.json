@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1599,
+            "functionallocation": "LW-001",
+            "sapcanalcode": "LW",
+            "name": "Ladywood Arm (New Main Line)",
+            "region": "West Midlands",
+            "sapwidth": "Narrow",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "f3e8cca5-c4ee-4c2c-8516-d5809c198f0d"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    119144.149,
+                    -170003.42
+                ],
+                [
+                    119184.595,
+                    -169996.824
+                ],
+                [
+                    119225.041,
+                    -169990.229
+                ],
+                [
+                    119252.066,
+                    -169985.822
+                ]
+            ]
+        }
+    }
+]

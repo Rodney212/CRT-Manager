@@ -1,0 +1,40 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 3167,
+            "functionallocation": "MW-001",
+            "sapcanalcode": "MW",
+            "name": "Millwall Outer Dock",
+            "region": "London & South East",
+            "sapwidth": "N/A",
+            "sapnavstatus": null,
+            "globalid": "679cfd32-a9ec-409a-8260-f40260f68b15"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    331404.998,
+                    -348026.81
+                ],
+                [
+                    331403.864,
+                    -348036.985
+                ],
+                [
+                    331354.168,
+                    -348483.066
+                ],
+                [
+                    331321.737,
+                    -348505.584
+                ],
+                [
+                    330616.805,
+                    -348448.172
+                ]
+            ]
+        }
+    }
+]

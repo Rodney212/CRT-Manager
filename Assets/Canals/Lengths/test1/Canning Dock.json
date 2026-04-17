@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 424,
+            "functionallocation": "CY-001",
+            "sapcanalcode": "CY",
+            "name": "Canning Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "e5394f71-e502-4305-851e-c6b013bf2d16"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    131.49,
+                    310.718
+                ],
+                [
+                    141.556,
+                    313.219
+                ],
+                [
+                    195.3,
+                    318.685
+                ],
+                [
+                    231.078,
+                    241.871
+                ],
+                [
+                    264.899,
+                    169.143
+                ],
+                [
+                    198.887,
+                    141.602
+                ],
+                [
+                    192.738,
+                    139.797
+                ]
+            ]
+        }
+    }
+]

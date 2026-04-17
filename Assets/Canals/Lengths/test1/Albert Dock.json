@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1,
+            "functionallocation": "AB-001",
+            "sapcanalcode": "AB",
+            "name": "Albert Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "cf357fb3-f196-4b77-a286-6632409f7f66"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    5.024,
+                    -15.502
+                ],
+                [
+                    13.758,
+                    -42.453
+                ],
+                [
+                    104.272,
+                    -219.317
+                ],
+                [
+                    144.16,
+                    -201.892
+                ],
+                [
+                    153.428,
+                    -197.845
+                ],
+                [
+                    284.286,
+                    -154.636
+                ],
+                [
+                    313.784,
+                    -141.703
+                ]
+            ]
+        }
+    }
+]

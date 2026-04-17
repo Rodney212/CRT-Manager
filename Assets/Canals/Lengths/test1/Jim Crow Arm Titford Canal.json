@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2732,
+            "functionallocation": "TL-001",
+            "sapcanalcode": "TL",
+            "name": "Jim Crow Arm (Titford Canal)",
+            "region": "West Midlands",
+            "sapwidth": "Narrow",
+            "sapnavstatus": "Unavailable for Navigation",
+            "globalid": "01dcde7e-3b64-41b0-9b45-9a6f014bea2c"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    109608.611,
+                    -166967.784
+                ],
+                [
+                    109575.927,
+                    -166969.913
+                ],
+                [
+                    109554.262,
+                    -166971.324
+                ],
+                [
+                    109535.222,
+                    -166974.383
+                ]
+            ]
+        }
+    }
+]

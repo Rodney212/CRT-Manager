@@ -1,0 +1,60 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2943,
+            "functionallocation": "VT-001",
+            "sapcanalcode": "VT",
+            "name": "Wapping Basin",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "bda29c5a-b9bb-45b8-8b85-f1aa053186ef"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    597.376,
+                    -312.47
+                ],
+                [
+                    601.072,
+                    -317.062
+                ],
+                [
+                    600.742,
+                    -322.851
+                ],
+                [
+                    632.951,
+                    -415.681
+                ],
+                [
+                    649.525,
+                    -463.314
+                ],
+                [
+                    656.706,
+                    -483.953
+                ],
+                [
+                    659.862,
+                    -493.022
+                ],
+                [
+                    665.533,
+                    -509.321
+                ],
+                [
+                    667.395,
+                    -514.674
+                ],
+                [
+                    670.051,
+                    -521.469
+                ]
+            ]
+        }
+    }
+]

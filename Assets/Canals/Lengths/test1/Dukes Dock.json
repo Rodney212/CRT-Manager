@@ -1,0 +1,56 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 448,
+            "functionallocation": "DU-001",
+            "sapcanalcode": "DU",
+            "name": "Dukes Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "8988c940-f95d-4f4d-94c7-bec4c1e1bb0e"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    632.951,
+                    -415.681
+                ],
+                [
+                    576.441,
+                    -422.345
+                ],
+                [
+                    570.382,
+                    -423.06
+                ],
+                [
+                    491.847,
+                    -429.7
+                ],
+                [
+                    433.225,
+                    -434.957
+                ],
+                [
+                    419.968,
+                    -437.36
+                ],
+                [
+                    336.219,
+                    -467.388
+                ],
+                [
+                    271.262,
+                    -494.936
+                ],
+                [
+                    169.922,
+                    -534.091
+                ]
+            ]
+        }
+    }
+]
