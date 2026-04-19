@@ -10,18 +10,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "930f9a73-5557-43fd-b828-1abd02c003e9",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                -90472.323,
+                -20819.616
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    -90472.323,
-                    -20819.616
+                    0.0,
+                    0.0
                 ],
                 [
-                    -90811.987,
-                    -20910.761
+                    -339.664,
+                    -91.145
                 ]
             ]
         }
@@ -37,22 +41,26 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "930f9a73-5557-43fd-b828-1abd02c003e9",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                -90472.323,
+                -20819.616
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    -90472.323,
-                    -20819.616
+                    0.0,
+                    0.0
                 ],
                 [
-                    -90453.782,
-                    -20919.192
+                    18.541,
+                    -99.576
                 ],
                 [
-                    -90443.903,
-                    -20980.084
+                    28.42,
+                    -160.468
                 ]
             ]
         }
@@ -68,18 +76,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "930f9a73-5557-43fd-b828-1abd02c003e9",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                -90484.508,
+                -20760.021
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    -90484.508,
-                    -20760.021
+                    0.0,
+                    0.0
                 ],
                 [
-                    -90472.323,
-                    -20819.616
+                    12.185,
+                    -59.595
                 ]
             ]
         }

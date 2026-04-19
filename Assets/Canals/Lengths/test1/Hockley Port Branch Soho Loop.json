@@ -10,46 +10,50 @@
             "sapwidth": "Narrow",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d6149490-ed73-4e04-9c37-14c282214282",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                27030.043,
+                -187230.027
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    27030.043,
-                    -187230.027
+                    0.0,
+                    0.0
                 ],
                 [
-                    27051.905,
-                    -187205.365
+                    21.862,
+                    24.662
                 ],
                 [
-                    27057.764,
-                    -187199.793
+                    27.721,
+                    30.234
                 ],
                 [
-                    27087.501,
-                    -187171.514
+                    57.458,
+                    58.513
                 ],
                 [
-                    27117.429,
-                    -187143.054
+                    87.386,
+                    86.973
                 ],
                 [
-                    27146.249,
-                    -187114.211
+                    116.206,
+                    115.816
                 ],
                 [
-                    27175.252,
-                    -187085.176
+                    145.209,
+                    144.851
                 ],
                 [
-                    27191.94,
-                    -187068.47
+                    161.897,
+                    161.557
                 ],
                 [
-                    27198.319,
-                    -187062.401
+                    168.276,
+                    167.626
                 ]
             ]
         }
@@ -65,18 +69,22 @@
             "sapwidth": "Narrow",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d6149490-ed73-4e04-9c37-14c282214282",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                27198.319,
+                -187062.401
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    27198.319,
-                    -187062.401
+                    0.0,
+                    0.0
                 ],
                 [
-                    27410.99,
-                    -187133.729
+                    212.671,
+                    -71.328
                 ]
             ]
         }
@@ -92,26 +100,30 @@
             "sapwidth": "Narrow",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d6149490-ed73-4e04-9c37-14c282214282",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                27198.319,
+                -187062.401
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    27198.319,
-                    -187062.401
+                    0.0,
+                    0.0
                 ],
                 [
-                    27204.564,
-                    -187056.46
+                    6.245,
+                    5.941
                 ],
                 [
-                    27234.294,
-                    -187028.174
+                    35.975,
+                    34.227
                 ],
                 [
-                    27263.363,
-                    -187000.5
+                    65.044,
+                    61.901
                 ]
             ]
         }
@@ -127,18 +139,22 @@
             "sapwidth": "Narrow",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d6149490-ed73-4e04-9c37-14c282214282",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                27263.363,
+                -187000.5
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    27263.363,
-                    -187000.5
+                    0.0,
+                    0.0
                 ],
                 [
-                    27415.846,
-                    -187051.977
+                    152.483,
+                    -51.477
                 ]
             ]
         }
@@ -154,22 +170,26 @@
             "sapwidth": "Narrow",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d6149490-ed73-4e04-9c37-14c282214282",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                27263.363,
+                -187000.5
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    27263.363,
-                    -187000.5
+                    0.0,
+                    0.0
                 ],
                 [
-                    27292.228,
-                    -186972.161
+                    28.865,
+                    28.339
                 ],
                 [
-                    27295.542,
-                    -186968.909
+                    32.179,
+                    31.591
                 ]
             ]
         }

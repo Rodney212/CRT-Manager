@@ -1,100 +1,153 @@
 using UnityEngine;
 using UnityEditor;
 using System.IO;
-using System.Collections.Generic;
 using System;
+using System.Diagnostics;
 using UnityEngine.Splines;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Debug = UnityEngine.Debug;
 
 namespace CanalSplineTool
 {
     public class CanalJsonToSplines : EditorWindow
     {
-        private string filePath = "Assets/Canals/Lengths/test1/Llangollen Canal.json";
+        private string path = "Assets/Canals/Lengths/test1/";
+        private bool isFolderMode = false;
+        private int totalSplinesCreated = 0;
 
-        [MenuItem("Tools/Canals/JSON Canal Spline Generator")]
+        [MenuItem("Tools/Canals/Canal/JSON To Spline Generator")]
         public static void ShowWindow() => GetWindow<CanalJsonToSplines>("Canal Spline Generator");
 
         private void OnGUI()
         {
-            filePath = EditorGUILayout.TextField("JSON Path", filePath);
-            if (GUILayout.Button("Generate Canal Splines")) GenerateSplines();
+            GUILayout.Label("Settings", EditorStyles.boldLabel);
+            isFolderMode = EditorGUILayout.Toggle("Process Entire Folder?", isFolderMode);
+
+            EditorGUILayout.BeginHorizontal();
+            path = EditorGUILayout.TextField(isFolderMode ? "Folder Path" : "File Path", path);
+            
+            if (GUILayout.Button("Browse", GUILayout.Width(60)))
+            {
+                string selectedPath = isFolderMode 
+                    ? EditorUtility.OpenFolderPanel("Select JSON Folder", "Assets", "") 
+                    : EditorUtility.OpenFilePanel("Select JSON File", "Assets", "json");
+
+                if (!string.IsNullOrEmpty(selectedPath))
+                {
+                    if (selectedPath.Contains(Application.dataPath))
+                        path = "Assets" + selectedPath.Replace(Application.dataPath, "");
+                    else
+                        path = selectedPath;
+                }
+            }
+            EditorGUILayout.EndHorizontal();
+
+            if (GUILayout.Button("Generate Hierarchy")) RunGeneration();
         }
 
- private void GenerateSplines()
+        private void RunGeneration()
         {
-            string fullPath = Path.Combine(Application.dataPath, filePath.Replace("Assets/", ""));
-            if (!File.Exists(fullPath)) { Debug.LogError("File not found: " + fullPath); return; }
+            Stopwatch timer = new Stopwatch();
+            timer.Start();
+            totalSplinesCreated = 0;
 
-            string jsonContent = File.ReadAllText(fullPath).Trim();
-            JObject root;
+            string fullPath = path.StartsWith("Assets") 
+                ? Path.Combine(Application.dataPath, path.Replace("Assets/", "")) 
+                : path;
 
-            if (jsonContent.StartsWith("["))
-                root = JObject.Parse("{\"features\":" + jsonContent + "}");
+            GameObject canalRoot = GetOrCreateLevel("Canal", null);
+            GameObject splinesRoot = GetOrCreateLevel("Splines", canalRoot.transform);
+
+            if (isFolderMode)
+            {
+                if (!Directory.Exists(fullPath)) { Debug.LogError($"[CanalTool] Directory not found: {fullPath}"); return; }
+                string[] files = Directory.GetFiles(fullPath, "*.json");
+                foreach (string file in files) ProcessJsonFile(file, splinesRoot.transform);
+            }
             else
-                root = JObject.Parse(jsonContent);
-
-            JArray features = (JArray)root["features"];
-            if (features == null || features.Count == 0) return;
-
-            GameObject parent = new GameObject("Canal_Splines");
-            Undo.RegisterCreatedObjectUndo(parent, "Create Canal Splines");
-
-            foreach (JObject feature in features)
             {
-                JObject geometry = (JObject)feature["geometry"];
-                JObject properties = (JObject)feature["properties"];
-                if (geometry == null) continue;
-
-                string type = geometry["type"]?.ToString();
-                JArray coordinates = (JArray)geometry["coordinates"];
-                if (coordinates == null) continue;
-
-                string canalCode = properties?["sapcanalcode"]?.ToString() ?? "??";
-                string funcLoc = properties?["functionallocation"]?.ToString() ?? "??";
-                string baseName = $"{canalCode}-{funcLoc}";
-
-                // Determine if we are dealing with one line or multiple lines
-                if (type == "LineString")
-                {
-                    CreateSplineObject(parent.transform, baseName, coordinates);
-                }
-                else if (type == "MultiLineString")
-                {
-                    for (int i = 0; i < coordinates.Count; i++)
-                    {
-                        JArray subLine = (JArray)coordinates[i];
-                        CreateSplineObject(parent.transform, $"{baseName}_{i}", subLine);
-                    }
-                }
+                if (!File.Exists(fullPath)) { Debug.LogError($"[CanalTool] File not found: {fullPath}"); return; }
+                ProcessJsonFile(fullPath, splinesRoot.transform);
             }
 
-            Selection.activeGameObject = parent;
+            timer.Stop();
+            Debug.Log($"<color=green>[CanalTool]</color> Generated {totalSplinesCreated} total splines in {timer.Elapsed.TotalSeconds:F2}s.");
         }
 
-        // Helper to keep the main loop clean
-        private void CreateSplineObject(Transform parent, string name, JArray coordinateList)
+        private void ProcessJsonFile(string filePath, Transform splinesParent)
         {
-            if (coordinateList.Count < 2) return;
+            string fileName = Path.GetFileNameWithoutExtension(filePath);
+            string jsonContent = File.ReadAllText(filePath).Trim();
 
-            GameObject splineGo = new GameObject(name);
-            splineGo.transform.SetParent(parent);
-            Undo.RegisterCreatedObjectUndo(splineGo, "Create Canal Spline");
+            GameObject canalNameGroup = GetOrCreateLevel(fileName, splinesParent);
 
-            SplineContainer container = splineGo.AddComponent<SplineContainer>();
-            Spline spline = container.Spline;
-
-            foreach (JToken pt in coordinateList)
+            try
             {
-                // Ensure we are looking at numbers, not another nested array
-                if (pt is JArray coord && coord.Count >= 2)
+                JObject root = jsonContent.StartsWith("[") 
+                    ? JObject.Parse("{\"features\":" + jsonContent + "}") 
+                    : JObject.Parse(jsonContent);
+
+                JArray features = (JArray)root["features"];
+                if (features == null) return;
+
+                foreach (JObject feature in features)
                 {
-                    float x = (float)coord[0];
-                    float z = (float)coord[1];
-                    spline.Add(new BezierKnot(new Vector3(x, 0f, z)));
+                    JObject geometry = (JObject)feature["geometry"];
+                    if (geometry == null) continue;
+
+                    JArray coordinates = (JArray)geometry["coordinates"];
+                    if (coordinates == null || coordinates.Count < 2) continue;
+
+                    JObject properties = (JObject)feature["properties"];
+                    string funcLoc = properties?["functionallocation"]?.ToString() ?? "Unknown_Loc";
+                    
+                    // 1. Get the start location from JSON
+                    Vector3 startPos = Vector3.zero;
+                    JArray startLocArray = (JArray)properties?["startlocation"];
+                    if (startLocArray != null && startLocArray.Count >= 2)
+                    {
+                        startPos = new Vector3((float)startLocArray[0], 0f, (float)startLocArray[1]);
+                    }
+
+                    // 2. Create the spline object and MOVE IT to the start location
+                    GameObject splineGo = new GameObject(funcLoc);
+                    splineGo.transform.SetParent(canalNameGroup.transform);
+                    splineGo.transform.position = startPos;
+                    Undo.RegisterCreatedObjectUndo(splineGo, "Create Spline");
+
+                    SplineContainer container = splineGo.AddComponent<SplineContainer>();
+                    Spline spline = container.Spline;
+
+                    // 3. Add the knots
+                    foreach (JToken coordToken in coordinates)
+                    {
+                        JArray coord = (JArray)coordToken;
+                        float jsonX = (float)coord[0];
+                        float jsonZ = (float)coord[1];
+
+                        // We want the IN-ENGINE LOCAL VALUE to match the JSON VALUE exactly.
+                        // So we just pass the JSON values straight in.
+                        Vector3 jsonBasedLocalPos = new Vector3(jsonX, 0f, jsonZ);
+                        spline.Add(new BezierKnot(jsonBasedLocalPos));
+                    }
+
+                    totalSplinesCreated++;
                 }
+                Debug.Log($"[CanalTool] Finished '{fileName}'.");
             }
+            catch (Exception e) { Debug.LogError($"[CanalTool] Error in {fileName}: {e.Message}"); }
+        }
+
+        private GameObject GetOrCreateLevel(string name, Transform parent)
+        {
+            GameObject go = parent != null ? parent.Find(name)?.gameObject : GameObject.Find(name);
+            if (go == null)
+            {
+                go = new GameObject(name);
+                if (parent != null) go.transform.SetParent(parent);
+                Undo.RegisterCreatedObjectUndo(go, "Create " + name);
+            }
+            return go;
         }
     }
 }

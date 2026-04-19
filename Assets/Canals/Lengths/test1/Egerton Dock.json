@@ -10,18 +10,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "4e616d31-600a-4967-a81b-79289765b26a",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                -94614.179,
+                -19509.765
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    -94614.179,
-                    -19509.765
+                    0.0,
+                    0.0
                 ],
                 [
-                    -94384.505,
-                    -19595.09
+                    229.674,
+                    -85.325
                 ]
             ]
         }

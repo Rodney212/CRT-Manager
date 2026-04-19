@@ -10,22 +10,26 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Partially Navigable",
             "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                240007.378,
+                -365752.104
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    240007.378,
-                    -365752.104
+                    0.0,
+                    0.0
                 ],
                 [
-                    240062.986,
-                    -365434.385
+                    55.608,
+                    317.719
                 ],
                 [
-                    240068.332,
-                    -365383.759
+                    60.954,
+                    368.345
                 ]
             ]
         }
@@ -41,34 +45,38 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Partially Navigable",
             "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                240348.756,
+                -365600.882
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    240348.756,
-                    -365600.882
+                    0.0,
+                    0.0
                 ],
                 [
-                    240334.816,
-                    -365591.38
+                    -13.94,
+                    9.502
                 ],
                 [
-                    240283.017,
-                    -365556.072
+                    -65.739,
+                    44.81
                 ],
                 [
-                    240233.237,
-                    -365522.183
+                    -115.519,
+                    78.699
                 ],
                 [
-                    240244.288,
-                    -365413.7
+                    -104.468,
+                    187.182
                 ],
                 [
-                    240068.332,
-                    -365383.759
+                    -280.424,
+                    217.123
                 ]
             ]
         }
@@ -84,18 +92,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Partially Navigable",
             "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                240068.332,
+                -365383.759
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    240068.332,
-                    -365383.759
+                    0.0,
+                    0.0
                 ],
                 [
-                    239044.285,
-                    -365204.211
+                    -1024.047,
+                    179.548
                 ]
             ]
         }

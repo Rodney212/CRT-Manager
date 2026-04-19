@@ -10,26 +10,30 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                240659.215,
+                -366189.022
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    240659.215,
-                    -366189.022
+                    0.0,
+                    0.0
                 ],
                 [
-                    240552.924,
-                    -366179.0
+                    -106.291,
+                    10.022
                 ],
                 [
-                    240440.794,
-                    -366168.429
+                    -218.421,
+                    20.593
                 ],
                 [
-                    239953.607,
-                    -366129.679
+                    -705.608,
+                    59.343
                 ]
             ]
         }
@@ -45,30 +49,34 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239953.607,
+                -366129.679
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239953.607,
-                    -366129.679
+                    0.0,
+                    0.0
                 ],
                 [
-                    239943.738,
-                    -366218.659
+                    -9.869,
+                    -88.98
                 ],
                 [
-                    239926.676,
-                    -366372.486
+                    -26.931,
+                    -242.807
                 ],
                 [
-                    239925.742,
-                    -366380.906
+                    -27.865,
+                    -251.227
                 ],
                 [
-                    239923.908,
-                    -366397.445
+                    -29.699,
+                    -267.766
                 ]
             ]
         }
@@ -84,18 +92,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239953.607,
+                -366129.679
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239953.607,
-                    -366129.679
+                    0.0,
+                    0.0
                 ],
                 [
-                    239164.742,
-                    -365993.376
+                    -788.865,
+                    136.303
                 ]
             ]
         }
@@ -111,34 +123,38 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239953.607,
+                -366129.679
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239953.607,
-                    -366129.679
+                    0.0,
+                    0.0
                 ],
                 [
-                    239950.855,
-                    -366082.373
+                    -2.752,
+                    47.306
                 ],
                 [
-                    239967.836,
-                    -365983.148
+                    14.229,
+                    146.531
                 ],
                 [
-                    239974.613,
-                    -365943.548
+                    21.006,
+                    186.131
                 ],
                 [
-                    239999.049,
-                    -365800.766
+                    45.442,
+                    328.913
                 ],
                 [
-                    240007.378,
-                    -365752.104
+                    53.771,
+                    377.575
                 ]
             ]
         }
@@ -154,22 +170,26 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239164.742,
+                -365993.376
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239164.742,
-                    -365993.376
+                    0.0,
+                    0.0
                 ],
                 [
-                    239105.685,
-                    -365901.354
+                    -59.057,
+                    92.022
                 ],
                 [
-                    238934.33,
-                    -365881.821
+                    -230.412,
+                    111.555
                 ]
             ]
         }
@@ -185,26 +205,30 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239164.742,
+                -365993.376
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239164.742,
-                    -365993.376
+                    0.0,
+                    0.0
                 ],
                 [
-                    239208.682,
-                    -365844.205
+                    43.94,
+                    149.171
                 ],
                 [
-                    239213.658,
-                    -365813.942
+                    48.916,
+                    179.434
                 ],
                 [
-                    239219.652,
-                    -365777.302
+                    54.91,
+                    216.074
                 ]
             ]
         }

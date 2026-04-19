@@ -10,18 +10,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239219.652,
+                -365777.302
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239219.652,
-                    -365777.302
+                    0.0,
+                    0.0
                 ],
                 [
-                    239231.516,
-                    -365704.77
+                    11.864,
+                    72.532
                 ]
             ]
         }
@@ -37,18 +41,22 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239463.795,
+                -365747.239
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239463.795,
-                    -365747.239
+                    0.0,
+                    0.0
                 ],
                 [
-                    239231.516,
-                    -365704.77
+                    -232.279,
+                    42.469
                 ]
             ]
         }
@@ -64,22 +72,26 @@
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
             "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
-            "lock_quantity": 0
+            "lock_quantity": 0,
+            "startlocation": [
+                239231.516,
+                -365704.77
+            ]
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    239231.516,
-                    -365704.77
+                    0.0,
+                    0.0
                 ],
                 [
-                    238978.145,
-                    -365657.481
+                    -253.371,
+                    47.289
                 ],
                 [
-                    238994.877,
-                    -365508.998
+                    -236.639,
+                    195.772
                 ]
             ]
         }
