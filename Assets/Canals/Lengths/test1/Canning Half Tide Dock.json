@@ -3,58 +3,91 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 425,
-            "functionallocation": "CZ-001",
+            "functionallocation": "CZ-001 Part 1",
             "sapcanalcode": "CZ",
             "name": "Canning Half Tide Dock",
             "region": "North West",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "5137f6fd-94ba-4ef0-9a2e-566c624cb126"
+            "globalid": "5137f6fd-94ba-4ef0-9a2e-566c624cb126",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -2.99409276449787,
-                        53.4017536410689
-                    ],
-                    [
-                        -2.99489398155854,
-                        53.4016987285943
-                    ]
+                    -91577.55,
+                    -18979.502
                 ],
                 [
-                    [
-                        -2.99409276449787,
-                        53.4017536410689
-                    ],
-                    [
-                        -2.99410124351425,
-                        53.4014686140681
-                    ],
-                    [
-                        -2.99402218161131,
-                        53.401323167358
-                    ]
+                    -91666.741,
+                    -18989.755
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 425,
+            "functionallocation": "CZ-001 Part 2",
+            "sapcanalcode": "CZ",
+            "name": "Canning Half Tide Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "5137f6fd-94ba-4ef0-9a2e-566c624cb126",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -91577.55,
+                    -18979.502
                 ],
                 [
-                    [
-                        -2.99229078295312,
-                        53.4020718886729
-                    ],
-                    [
-                        -2.99233160792065,
-                        53.4020647440764
-                    ],
-                    [
-                        -2.99330514014977,
-                        53.4018943751402
-                    ],
-                    [
-                        -2.99409276449787,
-                        53.4017536410689
-                    ]
+                    -91578.493,
+                    -19032.721
+                ],
+                [
+                    -91569.692,
+                    -19059.878
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 425,
+            "functionallocation": "CZ-001 Part 3",
+            "sapcanalcode": "CZ",
+            "name": "Canning Half Tide Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "5137f6fd-94ba-4ef0-9a2e-566c624cb126",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -91376.954,
+                    -18920.08
+                ],
+                [
+                    -91381.499,
+                    -18921.414
+                ],
+                [
+                    -91489.872,
+                    -18953.225
+                ],
+                [
+                    -91577.55,
+                    -18979.502
                 ]
             ]
         }

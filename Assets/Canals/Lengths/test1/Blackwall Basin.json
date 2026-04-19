@@ -3,66 +3,99 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 134,
-            "functionallocation": "BB-001",
+            "functionallocation": "BB-001 Part 1",
             "sapcanalcode": "BB",
             "name": "Blackwall Basin",
             "region": "London & South East",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "a9dd8965-d6a5-4540-b0cf-f9e433e8f6db"
+            "globalid": "a9dd8965-d6a5-4540-b0cf-f9e433e8f6db",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -0.006794933553884,
-                        51.5038293646043
-                    ],
-                    [
-                        -0.007690141946602,
-                        51.5038869417823
-                    ],
-                    [
-                        -0.009007591383724,
-                        51.5039716628689
-                    ],
-                    [
-                        -0.00948955667434,
-                        51.5039979386853
-                    ]
+                    240966.924,
+                    -365735.61
                 ],
                 [
-                    [
-                        -0.00948955667434,
-                        51.5039979386853
-                    ],
-                    [
-                        -0.009253968959283,
-                        51.5043520342976
-                    ],
-                    [
-                        -0.009224514250782,
-                        51.5043717584964
-                    ]
+                    240867.27,
+                    -365725.313
                 ],
                 [
-                    [
-                        -0.00948955667434,
-                        51.5039979386853
-                    ],
-                    [
-                        -0.011289667834109,
-                        51.5040960614611
-                    ],
-                    [
-                        -0.011991804518499,
-                        51.5044315716979
-                    ],
-                    [
-                        -0.012348027012726,
-                        51.5045827134394
-                    ]
+                    240720.612,
+                    -365710.161
+                ],
+                [
+                    240666.96,
+                    -365705.462
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 134,
+            "functionallocation": "BB-001 Part 2",
+            "sapcanalcode": "BB",
+            "name": "Blackwall Basin",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "a9dd8965-d6a5-4540-b0cf-f9e433e8f6db",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    240666.96,
+                    -365705.462
+                ],
+                [
+                    240693.185,
+                    -365642.136
+                ],
+                [
+                    240696.464,
+                    -365638.609
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 134,
+            "functionallocation": "BB-001 Part 3",
+            "sapcanalcode": "BB",
+            "name": "Blackwall Basin",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "a9dd8965-d6a5-4540-b0cf-f9e433e8f6db",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    240666.96,
+                    -365705.462
+                ],
+                [
+                    240466.572,
+                    -365687.914
+                ],
+                [
+                    240388.411,
+                    -365627.912
+                ],
+                [
+                    240348.756,
+                    -365600.882
                 ]
             ]
         }

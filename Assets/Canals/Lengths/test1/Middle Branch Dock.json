@@ -3,50 +3,83 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 1721,
-            "functionallocation": "MD-001",
+            "functionallocation": "MD-001 Part 1",
             "sapcanalcode": "MD",
             "name": "Middle Branch Dock",
             "region": "London & South East",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "64210cfd-dcd8-499d-81f0-94614499a423"
+            "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -0.022490946966349,
-                        51.5035962339575
-                    ],
-                    [
-                        -0.022384365075442,
-                        51.5040018118364
-                    ]
+                    239219.652,
+                    -365777.302
                 ],
                 [
-                    [
-                        -0.020297771654105,
-                        51.5037643391956
-                    ],
-                    [
-                        -0.022384365075442,
-                        51.5040018118364
-                    ]
+                    239231.516,
+                    -365704.77
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1721,
+            "functionallocation": "MD-001 Part 2",
+            "sapcanalcode": "MD",
+            "name": "Middle Branch Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239463.795,
+                    -365747.239
                 ],
                 [
-                    [
-                        -0.022384365075442,
-                        51.5040018118364
-                    ],
-                    [
-                        -0.024660439697458,
-                        51.5042662336159
-                    ],
-                    [
-                        -0.024510129922429,
-                        51.505096485478
-                    ]
+                    239231.516,
+                    -365704.77
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1721,
+            "functionallocation": "MD-001 Part 3",
+            "sapcanalcode": "MD",
+            "name": "Middle Branch Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "64210cfd-dcd8-499d-81f0-94614499a423",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239231.516,
+                    -365704.77
+                ],
+                [
+                    238978.145,
+                    -365657.481
+                ],
+                [
+                    238994.877,
+                    -365508.998
                 ]
             ]
         }

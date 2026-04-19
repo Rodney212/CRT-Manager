@@ -3,74 +3,107 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 1973,
-            "functionallocation": "QG-001",
+            "functionallocation": "QG-001 Part 1",
             "sapcanalcode": "QG",
             "name": "Brunswick Dock",
             "region": "North West",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "0b7152fb-2a2e-47e1-86e6-b92135b798a2"
+            "globalid": "0b7152fb-2a2e-47e1-86e6-b92135b798a2",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -2.98286477702458,
-                        53.38837749388
-                    ],
-                    [
-                        -2.98353873171223,
-                        53.3878476712308
-                    ],
-                    [
-                        -2.98395767974174,
-                        53.3874696369114
-                    ],
-                    [
-                        -2.98405070063311,
-                        53.3871887846534
-                    ],
-                    [
-                        -2.98409754292176,
-                        53.3870239531891
-                    ],
-                    [
-                        -2.98415212669276,
-                        53.3868318795317
-                    ]
+                    -90327.656,
+                    -21476.636
                 ],
                 [
-                    [
-                        -2.98286477702458,
-                        53.38837749388
-                    ],
-                    [
-                        -2.98260044323369,
-                        53.3877007996547
-                    ],
-                    [
-                        -2.98180530145866,
-                        53.3859949260318
-                    ]
+                    -90402.68,
+                    -21575.53
                 ],
                 [
-                    [
-                        -2.98390904144779,
-                        53.3910376575009
-                    ],
-                    [
-                        -2.98389865787884,
-                        53.3910112451228
-                    ],
-                    [
-                        -2.98308664414117,
-                        53.3889454426626
-                    ],
-                    [
-                        -2.98286477702458,
-                        53.38837749388
-                    ]
+                    -90449.317,
+                    -21646.091
+                ],
+                [
+                    -90459.672,
+                    -21698.513
+                ],
+                [
+                    -90464.887,
+                    -21729.279
+                ],
+                [
+                    -90470.963,
+                    -21765.129
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1973,
+            "functionallocation": "QG-001 Part 2",
+            "sapcanalcode": "QG",
+            "name": "Brunswick Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "0b7152fb-2a2e-47e1-86e6-b92135b798a2",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -90327.656,
+                    -21476.636
+                ],
+                [
+                    -90298.23,
+                    -21602.944
+                ],
+                [
+                    -90209.715,
+                    -21921.345
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1973,
+            "functionallocation": "QG-001 Part 3",
+            "sapcanalcode": "QG",
+            "name": "Brunswick Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "0b7152fb-2a2e-47e1-86e6-b92135b798a2",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -90443.903,
+                    -20980.084
+                ],
+                [
+                    -90442.747,
+                    -20985.015
+                ],
+                [
+                    -90352.354,
+                    -21370.624
+                ],
+                [
+                    -90327.656,
+                    -21476.636
                 ]
             ]
         }

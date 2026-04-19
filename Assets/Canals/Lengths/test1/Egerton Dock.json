@@ -9,18 +9,19 @@
             "region": "North West",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "4e616d31-600a-4967-a81b-79289765b26a"
+            "globalid": "4e616d31-600a-4967-a81b-79289765b26a",
+            "lock_quantity": 0
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    -3044.487,
-                    -449.888
+                    -94614.179,
+                    -19509.765
                 ],
                 [
-                    -2814.812,
-                    -535.212
+                    -94384.505,
+                    -19595.09
                 ]
             ]
         }

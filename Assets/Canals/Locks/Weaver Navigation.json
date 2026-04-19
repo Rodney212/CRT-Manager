@@ -1,87 +1,164 @@
-using UnityEngine;
-using UnityEditor;
-using System.IO;
-using System.Collections.Generic;
-using System;
-using System.Linq;
-using System.Text.RegularExpressions; // Required for stripping letters
-using UnityEngine.Splines;
-
-namespace CanalSplineTool 
-{
-    [Serializable]
-    public class FeatureCollection { public List<FeatureData> features; }
-
-    [Serializable]
-    public class FeatureData { 
-        public GeometryData geometry; 
-        public PropertyData properties; 
-    }
-
-    [Serializable]
-    public class GeometryData { public float[] coordinates; }
-
-    [Serializable]
-    public class PropertyData { 
-        public string sap_func_loc; // Using this for sorting now
-        public string sap_description; 
-    }
-
-    public class LockJsonToSpline : EditorWindow
+[
     {
-        private string filePath = "Assets/data.json";
-
-        [MenuItem("Tools/JSON Spline Generator")]
-        public static void ShowWindow() => GetWindow<LockJsonToSpline>("Spline Generator");
-
-        private void OnGUI() {
-            filePath = EditorGUILayout.TextField("JSON Path", filePath);
-            if (GUILayout.Button("Generate Spline from Func Loc")) GenerateSpline();
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 3,
+            "sap_func_loc": "WN-019-002",
+            "sap_description": "Saltersford Large Lock",
+            "sap_object_type": "010",
+            "angle": 202,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43513.111,
+                -43225.365
+            ]
         }
-
-        private void GenerateSpline() {
-            string fullPath = Path.Combine(Application.dataPath, filePath.Replace("Assets/", ""));
-            if (!File.Exists(fullPath)) { Debug.LogError("File not found!"); return; }
-
-            string jsonContent = File.ReadAllText(fullPath).Trim();
-            if (jsonContent.StartsWith("[")) jsonContent = "{\"features\":" + jsonContent + "}";
-
-            FeatureCollection data = JsonUtility.FromJson<FeatureCollection>(jsonContent);
-
-            if (data == null || data.features == null) {
-                Debug.LogError("Data failed to parse.");
-                return;
-            }
-
-            // --- THE NEW SORTING LOGIC ---
-            var sortedFeatures = data.features.OrderBy(f => {
-                if (string.IsNullOrEmpty(f.properties.sap_func_loc)) return 0;
-                
-                // 1. Remove anything that isn't a number (removes WN and -)
-                string numericOnly = Regex.Replace(f.properties.sap_func_loc, "[^0-9]", "");
-                
-                // 2. Convert to a number for sorting (e.g., "014002" becomes 14002)
-                if (long.TryParse(numericOnly, out long result)) {
-                    return result;
-                }
-                return 0;
-            }).ToList();
-
-            // Create Spline
-            GameObject splineGo = new GameObject("Waterway_Spline_Sequential");
-            SplineContainer container = splineGo.AddComponent<SplineContainer>();
-            Spline spline = container.Spline;
-            Undo.RegisterCreatedObjectUndo(splineGo, "Create Sequential Spline");
-
-            foreach (var feature in sortedFeatures) {
-                if (feature.geometry?.coordinates == null || feature.geometry.coordinates.Length < 2) continue;
-                
-                Vector3 pos = new Vector3(feature.geometry.coordinates[0], 0, feature.geometry.coordinates[1]);
-                spline.Add(new BezierKnot(pos));
-            }
-
-            Debug.Log($"Spline created with {spline.Count} points sorted by Functional Location.");
-            Selection.activeGameObject = splineGo;
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 19,
+            "sap_func_loc": "WN-014-002",
+            "sap_description": "Dutton Small Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 145,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50145.707,
+                -40251.45
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 37,
+            "sap_func_loc": "WN-014-001",
+            "sap_description": "Dutton Large Lock",
+            "sap_object_type": "010",
+            "angle": 145,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -50132.087,
+                -40281.461
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 49,
+            "sap_func_loc": "WN-028-004",
+            "sap_description": "Vale Royal Large Lock",
+            "sap_object_type": "038",
+            "angle": 275,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -41039.238,
+                -51192.046
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 337,
+            "sap_func_loc": "WN-003-003",
+            "sap_description": "Marsh Lock",
+            "sap_object_type": "010",
+            "angle": 191,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63705.447,
+                -35552.417
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 338,
+            "sap_func_loc": "WN-019-001",
+            "sap_description": "Saltersford Small Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 202,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -43489.953,
+                -43198.41
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 339,
+            "sap_func_loc": "WN-025-009",
+            "sap_description": "Hunts Large Lock (Disused)",
+            "sap_object_type": "038",
+            "angle": 293,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -38552.6,
+                -46851.331
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 340,
+            "sap_func_loc": "WN-025-010",
+            "sap_description": "Hunts Small Lock",
+            "sap_object_type": "010",
+            "angle": 293,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -38515.763,
+                -46869.461
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 341,
+            "sap_func_loc": "WN-028-005",
+            "sap_description": "Vale Royal Small Lock",
+            "sap_object_type": "010",
+            "angle": 275,
+            "waterway_name": "Weaver Navigation"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -41075.897,
+                -51195.667
+            ]
         }
     }
-}
+]

@@ -9,26 +9,27 @@
             "region": "West Midlands",
             "sapwidth": "Narrow",
             "sapnavstatus": "Unavailable for Navigation",
-            "globalid": "01dcde7e-3b64-41b0-9b45-9a6f014bea2c"
+            "globalid": "01dcde7e-3b64-41b0-9b45-9a6f014bea2c",
+            "lock_quantity": 0
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    109608.611,
-                    -166967.784
+                    18038.919,
+                    -186027.662
                 ],
                 [
-                    109575.927,
-                    -166969.913
+                    18006.235,
+                    -186029.79
                 ],
                 [
-                    109554.262,
-                    -166971.324
+                    17984.57,
+                    -186031.202
                 ],
                 [
-                    109535.222,
-                    -166974.383
+                    17965.53,
+                    -186034.261
                 ]
             ]
         }

@@ -35,7 +35,7 @@ public class LockJsonToMap : EditorWindow
     private string filePath = "Assets/Canals/Locks/Llangollen Canal.json";
 
     // FIX: Changed JsonToWorldTool to LockJsonToMap to match the class name
-    [MenuItem("Tools/Locks/JSON Spawner")]
+    [MenuItem("Tools/Locks/Lock JSON Spawner")]
     public static void ShowWindow() => GetWindow<LockJsonToMap>("JSON Spawner");
 
     private void OnGUI() {
@@ -69,7 +69,10 @@ public class LockJsonToMap : EditorWindow
                 return;
             }
 
-            GameObject parent = new GameObject("SpawnedFeatures");
+
+            // The one-liner to get the name
+            string canalName = data.features[0].properties.waterway_name ?? data.features[0].properties.waterway_name;
+            GameObject parent = new GameObject("Locks For " + canalName);
             Undo.RegisterCreatedObjectUndo(parent, "Spawn Cubes");
 
             foreach (var feature in data.features) {

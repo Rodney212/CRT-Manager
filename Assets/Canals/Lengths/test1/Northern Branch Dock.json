@@ -3,66 +3,99 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 1782,
-            "functionallocation": "ND-001",
+            "functionallocation": "ND-001 Part 1",
             "sapcanalcode": "ND",
             "name": "Northern Branch Dock",
             "region": "London & South East",
             "sapwidth": "Broad",
             "sapnavstatus": "Partially Navigable",
-            "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b"
+            "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -0.01541468386122,
-                        51.5037371340099
-                    ],
-                    [
-                        -0.014915141425355,
-                        51.5055136861257
-                    ],
-                    [
-                        -0.01486711801947,
-                        51.5057967575229
-                    ]
+                    240007.378,
+                    -365752.104
                 ],
                 [
-                    [
-                        -0.012348027012726,
-                        51.5045827134394
-                    ],
-                    [
-                        -0.012473251089554,
-                        51.504635844357
-                    ],
-                    [
-                        -0.012938568849994,
-                        51.5048332694805
-                    ],
-                    [
-                        -0.013385757055067,
-                        51.5050227602721
-                    ],
-                    [
-                        -0.013286480984014,
-                        51.5056293437448
-                    ],
-                    [
-                        -0.01486711801947,
-                        51.5057967575229
-                    ]
+                    240062.986,
+                    -365434.385
                 ],
                 [
-                    [
-                        -0.01486711801947,
-                        51.5057967575229
-                    ],
-                    [
-                        -0.024066291283326,
-                        51.5068006744627
-                    ]
+                    240068.332,
+                    -365383.759
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1782,
+            "functionallocation": "ND-001 Part 2",
+            "sapcanalcode": "ND",
+            "name": "Northern Branch Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Partially Navigable",
+            "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    240348.756,
+                    -365600.882
+                ],
+                [
+                    240334.816,
+                    -365591.38
+                ],
+                [
+                    240283.017,
+                    -365556.072
+                ],
+                [
+                    240233.237,
+                    -365522.183
+                ],
+                [
+                    240244.288,
+                    -365413.7
+                ],
+                [
+                    240068.332,
+                    -365383.759
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1782,
+            "functionallocation": "ND-001 Part 3",
+            "sapcanalcode": "ND",
+            "name": "Northern Branch Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Partially Navigable",
+            "globalid": "81d808bb-45e3-43ce-b278-e0bdbb2bba6b",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    240068.332,
+                    -365383.759
+                ],
+                [
+                    239044.285,
+                    -365204.211
                 ]
             ]
         }

@@ -3,70 +3,103 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 1974,
-            "functionallocation": "QN-001",
+            "functionallocation": "QN-001 Part 1",
             "sapcanalcode": "QN",
             "name": "Queen's Dock",
             "region": "North West",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "2e62b48c-4fea-4b3d-b041-bfaded5923a5"
+            "globalid": "2e62b48c-4fea-4b3d-b041-bfaded5923a5",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -2.98472920031518,
-                        53.3931819140729
-                    ],
-                    [
-                        -2.98885316219936,
-                        53.3923864483496
-                    ]
+                    -90535.202,
+                    -20579.81
                 ],
                 [
-                    [
-                        -2.98472920031518,
-                        53.3931819140729
-                    ],
-                    [
-                        -2.98454920961693,
-                        53.3928457721254
-                    ],
-                    [
-                        -2.98430829919319,
-                        53.3923186430873
-                    ],
-                    [
-                        -2.98426263292909,
-                        53.3922410754393
-                    ],
-                    [
-                        -2.98427380247456,
-                        53.3922165452741
-                    ]
+                    -90994.28,
+                    -20728.304
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1974,
+            "functionallocation": "QN-001 Part 2",
+            "sapcanalcode": "QN",
+            "name": "Queen's Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "2e62b48c-4fea-4b3d-b041-bfaded5923a5",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -90535.202,
+                    -20579.81
                 ],
                 [
-                    [
-                        -2.98651475177668,
-                        53.3960437611402
-                    ],
-                    [
-                        -2.9864042815096,
-                        53.395905306953
-                    ],
-                    [
-                        -2.98556392309256,
-                        53.3945735796398
-                    ],
-                    [
-                        -2.98480908483294,
-                        53.3933311928617
-                    ],
-                    [
-                        -2.98472920031518,
-                        53.3931819140729
-                    ]
+                    -90515.166,
+                    -20642.56
+                ],
+                [
+                    -90488.348,
+                    -20740.962
+                ],
+                [
+                    -90483.264,
+                    -20755.442
+                ],
+                [
+                    -90484.508,
+                    -20760.021
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1974,
+            "functionallocation": "QN-001 Part 3",
+            "sapcanalcode": "QN",
+            "name": "Queen's Dock",
+            "region": "North West",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "2e62b48c-4fea-4b3d-b041-bfaded5923a5",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    -90733.969,
+                    -20045.55
+                ],
+                [
+                    -90721.672,
+                    -20071.398
+                ],
+                [
+                    -90628.123,
+                    -20320.014
+                ],
+                [
+                    -90544.095,
+                    -20551.943
+                ],
+                [
+                    -90535.202,
+                    -20579.81
                 ]
             ]
         }

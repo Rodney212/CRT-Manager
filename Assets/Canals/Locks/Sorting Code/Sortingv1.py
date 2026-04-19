@@ -2,7 +2,7 @@ import json
 import os
 
 # Define paths
-input_path = os.path.join('Assets', 'Canals', 'Locks', 'meterlocks.json')
+input_path = os.path.join('Assets', 'Canals', 'Locks', 'Sorting Code','inMeters.json')
 output_dir = os.path.join('Assets', 'Canals', 'Locks')
 
 def split_waterway_data():

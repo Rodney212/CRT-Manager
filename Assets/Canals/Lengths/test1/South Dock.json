@@ -3,124 +3,208 @@
         "type": "Feature",
         "properties": {
             "OBJECTID": 2338,
-            "functionallocation": "SD-001",
+            "functionallocation": "SD-001 Part 1",
             "sapcanalcode": "SD",
             "name": "South Dock",
             "region": "London & South East",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e"
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
         },
         "geometry": {
-            "type": "MultiLineString",
+            "type": "LineString",
             "coordinates": [
                 [
-                    [
-                        -0.009559129678429,
-                        51.5012939582491
-                    ],
-                    [
-                        -0.010513956307918,
-                        51.5013500004657
-                    ],
-                    [
-                        -0.0115212398569,
-                        51.5014091128046
-                    ],
-                    [
-                        -0.015897714157047,
-                        51.501625802528
-                    ]
+                    240659.215,
+                    -366189.022
                 ],
                 [
-                    [
-                        -0.015897714157047,
-                        51.501625802528
-                    ],
-                    [
-                        -0.015986371654636,
-                        51.5011282295661
-                    ],
-                    [
-                        -0.016139638065367,
-                        51.5002680208506
-                    ],
-                    [
-                        -0.016148028303395,
-                        51.5002209330904
-                    ],
-                    [
-                        -0.016164506226703,
-                        51.5001284467058
-                    ]
+                    240552.924,
+                    -366179.0
                 ],
                 [
-                    [
-                        -0.015897714157047,
-                        51.501625802528
-                    ],
-                    [
-                        -0.022984204970061,
-                        51.5023879950422
-                    ]
+                    240440.794,
+                    -366168.429
                 ],
                 [
-                    [
-                        -0.015897714157047,
-                        51.501625802528
-                    ],
-                    [
-                        -0.015922431802077,
-                        51.5018903354333
-                    ],
-                    [
-                        -0.015769888407803,
-                        51.5024451889267
-                    ],
-                    [
-                        -0.01570900949491,
-                        51.5026666243212
-                    ],
-                    [
-                        -0.015489498115925,
-                        51.5034650287729
-                    ],
-                    [
-                        -0.01541468386122,
-                        51.5037371340099
-                    ]
+                    239953.607,
+                    -366129.679
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2338,
+            "functionallocation": "SD-001 Part 2",
+            "sapcanalcode": "SD",
+            "name": "South Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239953.607,
+                    -366129.679
                 ],
                 [
-                    [
-                        -0.022984204970061,
-                        51.5023879950422
-                    ],
-                    [
-                        -0.023514722244038,
-                        51.5029025641575
-                    ],
-                    [
-                        -0.025054032471506,
-                        51.5030117910249
-                    ]
+                    239943.738,
+                    -366218.659
                 ],
                 [
-                    [
-                        -0.022984204970061,
-                        51.5023879950422
-                    ],
-                    [
-                        -0.022589488918145,
-                        51.5032221316199
-                    ],
-                    [
-                        -0.022544785981224,
-                        51.503391353509
-                    ],
-                    [
-                        -0.022490946966349,
-                        51.5035962339575
-                    ]
+                    239926.676,
+                    -366372.486
+                ],
+                [
+                    239925.742,
+                    -366380.906
+                ],
+                [
+                    239923.908,
+                    -366397.445
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2338,
+            "functionallocation": "SD-001 Part 3",
+            "sapcanalcode": "SD",
+            "name": "South Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239953.607,
+                    -366129.679
+                ],
+                [
+                    239164.742,
+                    -365993.376
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2338,
+            "functionallocation": "SD-001 Part 4",
+            "sapcanalcode": "SD",
+            "name": "South Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239953.607,
+                    -366129.679
+                ],
+                [
+                    239950.855,
+                    -366082.373
+                ],
+                [
+                    239967.836,
+                    -365983.148
+                ],
+                [
+                    239974.613,
+                    -365943.548
+                ],
+                [
+                    239999.049,
+                    -365800.766
+                ],
+                [
+                    240007.378,
+                    -365752.104
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2338,
+            "functionallocation": "SD-001 Part 5",
+            "sapcanalcode": "SD",
+            "name": "South Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239164.742,
+                    -365993.376
+                ],
+                [
+                    239105.685,
+                    -365901.354
+                ],
+                [
+                    238934.33,
+                    -365881.821
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2338,
+            "functionallocation": "SD-001 Part 6",
+            "sapcanalcode": "SD",
+            "name": "South Dock",
+            "region": "London & South East",
+            "sapwidth": "Broad",
+            "sapnavstatus": "Fully Navigable",
+            "globalid": "d05b66ba-4e21-4c81-b608-e0fb97e9586e",
+            "lock_quantity": 0
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    239164.742,
+                    -365993.376
+                ],
+                [
+                    239208.682,
+                    -365844.205
+                ],
+                [
+                    239213.658,
+                    -365813.942
+                ],
+                [
+                    239219.652,
+                    -365777.302
                 ]
             ]
         }

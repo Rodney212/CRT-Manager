@@ -9,22 +9,23 @@
             "region": "London & South East",
             "sapwidth": "Broad",
             "sapnavstatus": "Fully Navigable",
-            "globalid": "38650cc2-735d-445c-ac09-41944f51a291"
+            "globalid": "38650cc2-735d-445c-ac09-41944f51a291",
+            "lock_quantity": 0
         },
         "geometry": {
             "type": "LineString",
             "coordinates": [
                 [
-                    332266.156,
-                    -346578.731
+                    240696.464,
+                    -365638.609
                 ],
                 [
-                    332306.71,
-                    -346469.945
+                    240737.018,
+                    -365529.823
                 ],
                 [
-                    332267.905,
-                    -346214.811
+                    240698.213,
+                    -365274.689
                 ]
             ]
         }
