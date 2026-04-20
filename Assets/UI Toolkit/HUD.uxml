@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Boats.uss?fileID=7433441132597879392&amp;guid=5a76c87cfc714cc4cba64ccdc9427bf7&amp;type=3#Boats"/>
+    <ui:ProgressBar value="0" title="Time" data-source="project://database/Assets/Scripts/MainGameData.asset?fileID=11400000&amp;guid=1cdd3e87bba65474481bfa43f60b6a0d&amp;type=2#MainGameData" data-source-type="gameManager, Assembly-CSharp" data-source-path="time" high-value="24" focusable="false"/>
+</ui:UXML>
